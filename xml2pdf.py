@@ -60,7 +60,7 @@ if uploaded_file_m is not None:
                 with open(archivo, "rb") as file:
                     archivo_nombre = archivo.replace("./output/pdf/","")
                     
-                    st.write(f"Archivo {filename} agregado a ZIP")
+                    st.write(f"Archivo {archivo_nombre} agregado a ZIP")
                     zip.write(archivo, archivo)
 
             except:
