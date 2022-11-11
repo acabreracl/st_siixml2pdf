@@ -65,7 +65,7 @@ if uploaded_file_m is not None:
                             file_name=archivo_nombre,
                             mime="application/pdf"
                         )
-                zip.write(filename, os.path.basename(filename))
+                    zip.write(archivo, archivo)
 
             except:
                 st.write(f"Error convirtiendo {filename}")
