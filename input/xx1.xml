@@ -1,0 +1,92 @@
+<DTE xmlns="http://www.sii.cl/SiiDte" version="1.0"><Documento ID="F34934906T33"><Encabezado><IdDoc><TipoDTE>33</TipoDTE><Folio>34934906</Folio><FchEmis>2022-09-30</FchEmis><FmaPago>1</FmaPago></IdDoc><Emisor><RUTEmisor>97004000-5</RUTEmisor><RznSoc>Banco de Chile</RznSoc><GiroEmis>Banco Comercial</GiroEmis><Acteco>641910</Acteco><DirOrigen>AHUMADA # 251    SANTIAGO</DirOrigen><CmnaOrigen>Santiago Centro</CmnaOrigen><CiudadOrigen>Santiago</CiudadOrigen></Emisor><Receptor><RUTRecep>76252650-6</RUTRecep><RznSocRecep>INVERSIONES DHEMAX INGENIEROS SpA</RznSocRecep><GiroRecep>Fabricacion de Aparatos Electricos</GiroRecep><Contacto/><DirRecep>Siete Oriente 1234</DirRecep><CmnaRecep>Vina Del Mar</CmnaRecep><CiudadRecep>Vina Del Mar</CiudadRecep></Receptor><Totales><MntNeto>85612</MntNeto><MntExe>0</MntExe><TasaIVA>19</TasaIVA><IVA>16266</IVA><MntTotal>101878</MntTotal></Totales></Encabezado><Detalle><NroLinDet>1</NroLinDet><NmbItem>BOLETA DE GARANTIA EN $/UF A LA VISTA   ]ORGANISMO PRIVADO 79432022</NmbItem><DscItem>BOLETA DE GARANTIA EN $/UF A LA VISTA   ]ORGANISMO PRIVADO 79432022272863700     ]                                        ]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            .</DscItem><QtyItem>1</QtyItem><PrcItem>85612</PrcItem><MontoItem>85612</MontoItem></Detalle><TED version="1.0">
+<DD>
+<RE>97004000-5</RE>
+<TD>33</TD>
+<F>34934906</F>
+<FE>2022-09-30</FE>
+<RR>76252650-6</RR>
+<RSR>INVERSIONES DHEMAX INGENIEROS SpA</RSR>
+<MNT>101878</MNT>
+<IT1>BOLETA DE GARANTIA EN $/UF A LA VISTA   </IT1>
+<CAF version="1.0">
+<DA>
+<RE>97004000-5</RE>
+<RS>BANCO DE CHILE</RS>
+<TD>33</TD>
+<RNG><D>34700001</D><H>35600000</H></RNG>
+<FA>2022-08-30</FA>
+<RSAPK><M>zHqD/bnXFZX3w+Tz9K7qoV9u5gfeQL1RAb/K0cuNzK7CR9ZGYeBGoPUPv98gv3T5vfKyAruA6Mu1tYZ1H5t9Gw==</M><E>Aw==</E></RSAPK>
+<IDK>300</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">V1njU3uhGnAJN6OTukkQJxItO7RcpZpTWokG/QNkKvzjl3+k/DxaBQs1wqRAAT6yo5Ye0pgwyKnCC6dG6egg2Q==</FRMA>
+</CAF>
+<TSTED>2022-10-01T12:03:21</TSTED>
+</DD>
+<FRMT algoritmo="SHA1withRSA">MRJwwZ6UE7Hc/MDn62J00VVWBhoF/qSm9S9NLr9PbmhkJbde4/FAcrBKxB23mJg/3geNJz2vf+INcpVaGB4tzQ==</FRMT>
+</TED>
+<TmstFirma>2022-10-01T12:03:21</TmstFirma></Documento><Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#F34934906T33">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>6RZdvgALC9II6CLlWVjx2tGyMZc=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+BirGPc4HzGT7QXhj8XsATRlp706VXDEGs/zckbFHbB5DKibK7OjeeD+X9ZP4jH1P
+YWIpKnTDApSoeoo023HcvpoNQaLqVtMzlY5aeKqejkLJekmVhzqmayZzjcWuArJm
++0Hx6/WJa75Uj0AHRwTkcsYHNOU66eZmdTyqg1bFAWc=
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+os0Dpz9a4wJaYuT1JEXFcmQn1VVU3w7X17COiqm/flCIGTx5+M5eVlyGJFwp5dfDPunByezwBzz4Q24dK8ng16AE30zChUbYcu4IkLm4aiNKBoX2KEqGm5RBzidzlHj1vfiok2ZfB2vECpQNfJCqg651UfF/OX28cwrsF8CxfDE=
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGNzCCBR+gAwIBAgIKJLFsLAAAABHypzANBgkqhkiG9w0BAQUFADCB0jELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+LWNlcnRjaGlsZS5jbDAeFw0yMDA4MDYyMDE0MDZaFw0yMzA4MDYyMDE0MDZaMIG4
+MQswCQYDVQQGEwJDTDEiMCAGA1UECBMZTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+TzERMA8GA1UEBxMIU0FOVElBR08xFzAVBgNVBAoTDkJBTkNPIERFIENISUxFMQow
+CAYDVQQLDAEqMSkwJwYDVQQDEyBST0RSSUdPIEFORFJFUyBDSEFORElBIENJRlVF
+TlRFUzEiMCAGCSqGSIb3DQEJARYTU1JDSEFORElBQEdNQUlMLkNPTTCBnzANBgkq
+hkiG9w0BAQEFAAOBjQAwgYkCgYEAos0Dpz9a4wJaYuT1JEXFcmQn1VVU3w7X17CO
+iqm/flCIGTx5+M5eVlyGJFwp5dfDPunByezwBzz4Q24dK8ng16AE30zChUbYcu4I
+kLm4aiNKBoX2KEqGm5RBzidzlHj1vfiok2ZfB2vECpQNfJCqg651UfF/OX28cwrs
+F8CxfDECAwEAAaOCAqkwggKlMIIBTwYDVR0gBIIBRjCCAUIwggE+BggrBgEEAcNS
+BTCCATAwLQYIKwYBBQUHAgEWIWh0dHA6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BT
+Lmh0bTCB/gYIKwYBBQUHAgIwgfEege4ARQBsACAAcgBlAHMAcABvAG4AZABlAHIA
+IABlAHMAdABlACAAZgBvAHIAbQB1AGwAYQByAGkAbwAgAGUAcwAgAHUAbgAgAHIA
+ZQBxAHUAaQBzAGkAdABvACAAaQBuAGQAaQBzAHAAZQBuAHMAYQBiAGwAZQAgAHAA
+YQByAGEAIABkAGEAcgAgAGkAbgBpAGMAaQBvACAAYQBsACAAcAByAG8AYwBlAHMA
+bwAgAGQAZQAgAGMAZQByAHQAaQBmAGkAYwBhAGMAaQDzAG4ALgAgAFAAbwBzAHQA
+ZQByAGkAbwByAG0AZQBuAHQAZQAsMB0GA1UdDgQWBBRl+Kb2uOQN6HJpi2/NXWYr
+e5vo6jALBgNVHQ8EBAMCBPAwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgoxNjQ0
+MDMyNy0wMB8GA1UdIwQYMBaAFHjhPp/SErN6PI3NMA5Ts0MpB7NVMD4GA1UdHwQ3
+MDUwM6AxoC+GLWh0dHA6Ly9jcmwuZS1jZXJ0Y2hpbGUuY2wvZWNlcnRjaGlsZWNh
+RkVTLmNybDA6BggrBgEFBQcBAQQuMCwwKgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3Nw
+LmVjZXJ0Y2hpbGUuY2wvb2NzcDA9BgkrBgEEAYI3FQcEMDAuBiYrBgEEAYI3FQiC
+3IMvhZOMZoXVnReC4twnge/sPGGBy54UhqiCWAIBZAIBBDAjBgNVHRIEHDAaoBgG
+CCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwDQYJKoZIhvcNAQEFBQADggEBACwwBTYM
+Ob2iH/10VFPzmhDAS2rQUUZqX+yDDy3o2yDsAvcXnjQ28tLs1WZSowOdVX54umHc
+q4yYSKXnAGy5JMtztBF9nffWwoFggew66bgW4Xv4pz/T5qYbnXnuzkJT/K66xAmx
+6U+SU7/7/hnEVUJiGP+qg9uYJEt/LhUzdDGZMPJ+shIzmTBe5tBfRwgQW+SVuBHZ
+p3JW/NgMOEfemHcryrNNDTttPQ4F+65zoyRj1EaHgeHh4iPwZhx2vDgZ8cJxyHhw
+lJvpDIgvYXHhc4KYes3WaSqJOYgJO8IVJ/kKXRPvQi4iPW3xNsBTrEfB0RO9ORa2
+LK47Eu9pP0+AIuM=
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>

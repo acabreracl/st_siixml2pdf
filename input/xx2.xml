@@ -1,0 +1,107 @@
+<DTE xmlns="http://www.sii.cl/SiiDte" version="1.0">
+			<Documento ID="R78229820F1748788T33">
+				<Encabezado>
+					<IdDoc>
+						<TipoDTE>33</TipoDTE>
+						<Folio>1748788</Folio>
+						<FchEmis>2022-09-30</FchEmis>
+						<FmaPago>1</FmaPago>
+						<FchVenc>2022-09-30</FchVenc>
+					</IdDoc>
+					<Emisor>
+						<RUTEmisor>78229820-8</RUTEmisor>
+						<RznSoc>VALENCIA Y PACHECO LIMITADA</RznSoc>
+						<GiroEmis>DISTRIBUCION DE COMBUSTIBLES</GiroEmis>
+						<Telefono>0</Telefono>
+						<CorreoEmisor>0</CorreoEmisor>
+						<Acteco>505000</Acteco>
+						<Sucursal>40098</Sucursal>
+						<DirOrigen>PLACILLA KM 105 RUTA 68 PENUELAS</DirOrigen>
+						<CmnaOrigen>VALPARAISO</CmnaOrigen>
+						<CiudadOrigen>0</CiudadOrigen>
+						<CdgVendedor>0-0 / 0</CdgVendedor>
+					</Emisor>
+					<Receptor>
+						<RUTRecep>76252650-6</RUTRecep>
+						<RznSocRecep>DHEMAX INGINIEROS LIMITADA</RznSocRecep>
+						<GiroRecep>INGENIERIA</GiroRecep>
+						<DirRecep>7 ORIENTE 1234</DirRecep>
+						<CmnaRecep>VINA DEL MAR</CmnaRecep>
+						<CiudadRecep>0</CiudadRecep>
+					</Receptor>
+					<Transporte>
+						<Patente>SBCD63</Patente>
+						<Chofer>
+							<RUTChofer>12507363-8</RUTChofer>
+							<NombreChofer>0</NombreChofer>
+						</Chofer>
+					</Transporte>
+					<Totales>
+						<MntNeto>26461</MntNeto>
+						<TasaIVA>19</TasaIVA>
+						<IVA>5028</IVA>
+						<IVAProp>5028</IVAProp>
+						<ImptoReten>
+							<TipoImp>35</TipoImp>
+							<MontoImp>9326</MontoImp>
+						</ImptoReten>
+						<MntTotal>40815</MntTotal>
+					</Totales>
+				</Encabezado>
+				<Detalle>
+					<NroLinDet>1</NroLinDet>
+					<CdgItem>
+						<TpoCodigo>1</TpoCodigo>
+						<VlrCodigo>4</VlrCodigo>
+					</CdgItem>
+					<NmbItem>GASOLINA 93</NmbItem>
+					<DscItem>GASOLINA 93</DscItem>
+					<QtyItem>30.897</QtyItem>
+					<Subcantidad>
+						<SubQty>40815</SubQty>
+						<SubCod>SubPTotal</SubCod>
+					</Subcantidad>
+					<Subcantidad>
+						<SubQty>357.57</SubQty>
+						<SubCod>IEF</SubCod>
+					</Subcantidad>
+					<Subcantidad>
+						<SubQty>55.7213</SubQty>
+						<SubCod>IEV/FEEP</SubCod>
+					</Subcantidad>
+					<Subcantidad>
+						<SubQty>1321</SubQty>
+						<SubCod>PUnitario</SubCod>
+					</Subcantidad>
+					<UnmdItem>LTS</UnmdItem>
+					<PrcItem>856.4262</PrcItem>
+					<CodImpAdic>35</CodImpAdic>
+					<MontoItem>26461</MontoItem>
+				</Detalle>
+				<TED version="1.0">
+					<DD>
+						<RE>78229820-8</RE>
+						<TD>33</TD>
+						<F>1748788</F>
+						<FE>2022-09-30</FE>
+						<RR>76252650-6</RR>
+						<RSR>DHEMAX INGINIEROS LIMITADA</RSR>
+						<MNT>40815</MNT>
+						<IT1>GASOLINA 93</IT1>
+						<CAF version="1.0">
+<DA>
+<RE>78229820-8</RE>
+<RS>VALENCIA Y PACHECO LIMITADA</RS>
+<TD>33</TD>
+<RNG><D>1734701</D><H>1764700</H></RNG>
+<FA>2022-07-01</FA>
+<RSAPK><M>m43aRwMjNjOQtUCok0rlv3jVZm3anwC5Q6dl/FnbwWAErUFj3sx/Su2oF0DFkejs6F09yHv87udif1glqrUrRw==</M><E>Aw==</E></RSAPK>
+<IDK>300</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">NZP7weJLD5JEHGCBTEFYUbSkzWQN4UDMOGVjiwEPtfmxMBow7d7fZr2/SVQ/9LOSl7QfkbpeBRUhNmPjXDsNQQ==</FRMA>
+</CAF><TSTED>2022-09-30T18:36:36</TSTED>
+					</DD>
+				<FRMT algoritmo="SHA1withRSA">AXBil7UB0fynhgom5x2QUaHbbOV2YEd3GVdNYfX855HF11BcfL7oVh1n61BvFWhWBIvDiVM5dGTDylVlGv+V4A==</FRMT></TED>
+				<TmstFirma>2022-09-30T18:36:36</TmstFirma>
+			</Documento>
+		<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#R78229820F1748788T33"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>oT+pgm50gV2bLFBq2gYOlhNg4p4=</DigestValue></Reference></SignedInfo><SignatureValue>deH1F5DSmvyZM0kO+51qYoAtKnebnxbpszPGy/PTeMe0/l6TE2grPAyyhdkBjs2uxA9Cad2myzjwXy7OU1fHkN+MBqV1g5nsRuyoXwH93wnK1hHZHmTlgIvu+VfSd3lwerqpY1Z3MiTslzph/NDzJ/m3XTFm+BdP8kLFC4bjF9E=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>mIaj6x3aBs3BJLV2hG6Q4swjSqvQ3VaRuhTroDOVpB0+5uOtIdWqY8aRksTBfW0fVRifeVBbJDiovdR4hijqGt5gBOOK4YdCzwkhbIkW3usqA3uxc0pUwPVIC2h67uLz5l8BIAmy+wsqDYRG9O0jypxb5per/SV3Y2u+D2nCZyk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIGOzCCBSOgAwIBAgIKdgBfMQAAABWH6jANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0yMTA2MjQyMDI5MDZaFw0yNDA2MjMyMDI5MDZaMIG8MQswCQYDVQQGEwJDTDEiMCAGA1UECBMZTUVUUk9QT0xJVEFOQSBERSBTQU5USUFHTzERMA8GA1UEBxMIU0FOVElBR08xIzAhBgNVBAoTGkNSSVNUSUFOIEJBTEFSVCBJTVBFUkFUT1JFMQowCAYDVQQLDAEqMSMwIQYDVQQDExpDUklTVElBTiBCQUxBUlQgSU1QRVJBVE9SRTEgMB4GCSqGSIb3DQEJARYRQkFMQVJUQ0BHTUFJTC5DT00wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJiGo+sd2gbNwSS1doRukOLMI0qr0N1WkboU66AzlaQdPubjrSHVqmPGkZLEwX1tH1UYn3lQWyQ4qL3UeIYo6hreYATjiuGHQs8JIWyJFt7rKgN7sXNKVMD1SAtoeu7i8+ZfASAJsvsLKg2ERvTtI8qcW+aXq/0ld2Nrvg9pwmcpAgMBAAGjggKpMIICpTCCAU8GA1UdIASCAUYwggFCMIIBPgYIKwYBBAHDUgUwggEwMC0GCCsGAQUFBwIBFiFodHRwOi8vd3d3LmUtY2VydGNoaWxlLmNsL0NQUy5odG0wgf4GCCsGAQUFBwICMIHxHoHuAEUAbAAgAHIAZQBzAHAAbwBuAGQAZQByACAAZQBzAHQAZQAgAGYAbwByAG0AdQBsAGEAcgBpAG8AIABlAHMAIAB1AG4AIAByAGUAcQB1AGkAcwBpAHQAbwAgAGkAbgBkAGkAcwBwAGUAbgBzAGEAYgBsAGUAIABwAGEAcgBhACAAZABhAHIAIABpAG4AaQBjAGkAbwAgAGEAbAAgAHAAcgBvAGMAZQBzAG8AIABkAGUAIABjAGUAcgB0AGkAZgBpAGMAYQBjAGkA8wBuAC4AIABQAG8AcwB0AGUAcgBpAG8AcgBtAGUAbgB0AGUALDAdBgNVHQ4EFgQU35zHdaLen9lYLaWd4g98pMs+P+QwCwYDVR0PBAQDAgTwMCMGA1UdEQQcMBqgGAYIKwYBBAHBAQGgDBYKMTAyNzUxNDktMzAfBgNVHSMEGDAWgBR44T6f0hKzejyNzTAOU7NDKQezVTA+BgNVHR8ENzA1MDOgMaAvhi1odHRwOi8vY3JsLmUtY2VydGNoaWxlLmNsL2VjZXJ0Y2hpbGVjYUZFUy5jcmwwOgYIKwYBBQUHAQEELjAsMCoGCCsGAQUFBzABhh5odHRwOi8vb2NzcC5lY2VydGNoaWxlLmNsL29jc3AwPQYJKwYBBAGCNxUHBDAwLgYmKwYBBAGCNxUIgtyDL4WTjGaF1Z0XguLcJ4Hv7DxhgcueFIaoglgCAWQCAQQwIwYDVR0SBBwwGqAYBggrBgEEAcEBAqAMFgo5NjkyODE4MC01MA0GCSqGSIb3DQEBBQUAA4IBAQCBjgBS//Wzh4JDF+w7YO/FGmyLRU4+pv6lyLSHkgBdDIbQFLRGMKKOzVI3CFLhgIn6+J/rB4XqMkzluH7kZGCc+NtVKGWyQVl8MH6RWqMDbSu/X9iIyrFnCDtJ01wUQe+olVHs1Eo/4DC2Wcbwyi9gSz6oteqF/MRUNlIQMTPTq2zrbzUU9y/LKgXGdlEmy4PO37/qJeVJSOlM3Rt0akIyM6VDcV5Vx/Wpj9raSupmDLHp1jsIGtshO+IN3sPYrWHmhXuSCdC2kwal/UIMj8s8Lav2YT05U56aaIPxmjTKuYcfUIqjRYIik/rjvvMKq5pauj33fUh5eaCnUtA/lFLU</X509Certificate></X509Data></KeyInfo></Signature></DTE>

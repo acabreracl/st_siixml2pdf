@@ -1,0 +1,119 @@
+<DTE xmlns="http://www.sii.cl/SiiDte" version="1.0">
+  <Documento ID="F35557T33">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>33</TipoDTE>
+        <Folio>35557</Folio>
+        <FchEmis>2022-09-30</FchEmis>
+        <FmaPago>2</FmaPago>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>76317843-9</RUTEmisor>
+        <RznSoc>INMOBILIARIA ORELLA- LYNCH SPA</RznSoc>
+        <GiroEmis>HOTELES, RESTAURANTES</GiroEmis>
+        <Acteco>551010</Acteco>
+        <Sucursal>IBIS BUDGET IQUIQUE</Sucursal>
+        <DirOrigen>Orella 434</DirOrigen>
+        <CmnaOrigen>Iquique</CmnaOrigen>
+        <CiudadOrigen>Iquique</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>76252650-6</RUTRecep>
+        <CdgIntRecep />
+        <RznSocRecep>Dhemax Ingenieros SPA</RznSocRecep>
+        <GiroRecep>Ingenieria</GiroRecep>
+        <Contacto />
+        <DirRecep>Siete Oriente 1234</DirRecep>
+        <CmnaRecep>Vina Del Mar</CmnaRecep>
+        <CiudadRecep>Vina Del Mar</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntNeto>64706</MntNeto>
+        <MntExe>0</MntExe>
+        <TasaIVA>19</TasaIVA>
+        <IVA>12294</IVA>
+        <MntTotal>77000</MntTotal>
+        <MontoNF>0</MontoNF>
+        <VlrPagar>77000</VlrPagar>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>INT1</TpoCodigo>
+        <VlrCodigo>1</VlrCodigo>
+      </CdgItem>
+      <NmbItem>Habitaci?n ( 1)</NmbItem>
+      <QtyItem>1</QtyItem>
+      <PrcItem>64706</PrcItem>
+      <MontoItem>64706</MontoItem>
+    </Detalle>
+    <TED version="1.0"><DD><RE>76317843-9</RE><TD>33</TD><F>35557</F><FE>2022-09-30</FE><RR>76252650-6</RR><RSR>Dhemax Ingenieros SPA</RSR><MNT>77000</MNT><IT1>Habitaci?n ( 1)</IT1><CAF version="1.0">
+    <DA>
+      <RE>76317843-9</RE>
+      <RS>INMOBILIARIA ORELLA- LYNCH SPA</RS>
+      <TD>33</TD>
+      <RNG>
+        <D>34282</D>
+        <H>35781</H>
+      </RNG>
+      <FA>2022-06-29</FA>
+      <RSAPK>
+        <M>vClceQXMLme2niVSZf9xH5ZHgGGHId8ZuxsBAhzU7ygk6kyickCOfBlQ+nrzmZ9MY7SciqCjsJf+KbEsw8vbow==</M>
+        <E>Aw==</E>
+      </RSAPK>
+      <IDK>300</IDK>
+    </DA>
+    <FRMA algoritmo="SHA1withRSA">TMKOSdsPkvAyykTcBmcFt2uU1RUebpOxlJq8dgB0I6KyY2J9cQlHXQDJcIqHdh5/kjDAFF0q/D1RvIjME7yYqg==</FRMA>
+  </CAF><TSTED>2022-09-30T11:51:43</TSTED></DD><FRMT algoritmo="SHA1withRSA">XtS41jfmjFuS6H86gEG88UIYBV3xDn/x+0j0/N1Y72kBBcYkO+ZkmwhN4llvj0XiaVj0e75YEXKT/39jQQ6Rmg==</FRMT></TED><TmstFirma>2022-09-30T11:51:43</TmstFirma>
+  </Documento><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#F35557T33"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>ThLn6GFjOorFh9QVa+qDnR/hWyk=</DigestValue></Reference></SignedInfo><SignatureValue>
+mssuaKa8aqx7XqIgt5HVQwphl1cZENeZeb8fnZD26Z9jE+QbVndFE/TVSDkTY4me
+MmMTOW5a1E5gIDpFPxc06Isv+z8jbNakAA6ZTqd/wJ3V3JUM6zU27DveAByrkvXh
+ewN4gZGkBvLtxpB/v992PoOuB+aOGqItp1GdZGGvxxWxlJJVqjS6cnsjtxfmtyva
+/RENotNzRS7o12Sli1nrjbGjYSXEl6aaBvUxA2aiHNsbMz29/pQH5GC6uBrFY0ji
+CM98FCn1CZb31R7sty6PpA4VFErWRVCYib/dbp2aGsns4+1XSlDWDVXBgHTQ7B4a
+9H6zKtcnquiqIo8esAB8OQ==
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+ve1FcDcfH1mbJMi5ezePO5QPdju885+P5uXe4HgSBh/QwDhqxCXrdAxPdDwXYiIt
+8HoFjDlmp+7VQiArf8thNLLMO2OPW/4eNWZMXroAxEMt6RysrynMbBRMANbEiTz+
+LArTxVp7C/5sOAQCgeE7EEhCinKz6+QiA8MSQajLkyKMVB63Lm8GO6/zKuuw2ARG
+8V6vdKs2qW5EmO7PkkD7vrZnUFwiR++gaPD2VeN6wCdODZtCtUkBgXliNbYZnNeO
+OUSNprwhlc3lM2OnDlgO9mf7tVd+kZ3CFvGZibBgzklgBT776BaNJkqgBJN+ya2T
+3QUOGtRyuzZenWwS0Bogiw==
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIGIDCCBQigAwIBAgIIEcCFqmyJ/XIwDQYJKoZIhvcNAQELBQAwgboxHjAcBgkq
+hkiG9w0BCQEWD3NvcG9ydGVAaWRvay5jbDEiMCAGA1UEAwwZSURPSyBGSVJNQSBF
+TEVDVFJPTklDQSBWMjEXMBUGA1UECwwOUlVULTc2NjEwNzE4LTQxIDAeBgNVBAsM
+F0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMRkwFwYDVQQKDBBCUE8gQWR2aXNvcnMg
+U3BBMREwDwYDVQQHDAhTYW50aWFnbzELMAkGA1UEBhMCQ0wwHhcNMjIwMzAxMjI0
+MzMyWhcNMjUwMjI4MjI0MzMyWjCBjDElMCMGA1UEAwwcTEVPTkFSRE8gQU5UT05J
+TyBTSUxWQSBMT1BFWjE0MDIGCSqGSIb3DQEJARYlbGVvbmFyZG8uc2lsdmFAbmV3
+c2lnbmNvbnN1bHRvcmVzLmNvbTETMBEGA1UEBRMKMTI4NjAwODAtOTELMAkGA1UE
+BhMCQ0wxCzAJBgNVBAcMAlJNMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAve1FcDcfH1mbJMi5ezePO5QPdju885+P5uXe4HgSBh/QwDhqxCXrdAxPdDwX
+YiIt8HoFjDlmp+7VQiArf8thNLLMO2OPW/4eNWZMXroAxEMt6RysrynMbBRMANbE
+iTz+LArTxVp7C/5sOAQCgeE7EEhCinKz6+QiA8MSQajLkyKMVB63Lm8GO6/zKuuw
+2ARG8V6vdKs2qW5EmO7PkkD7vrZnUFwiR++gaPD2VeN6wCdODZtCtUkBgXliNbYZ
+nNeOOUSNprwhlc3lM2OnDlgO9mf7tVd+kZ3CFvGZibBgzklgBT776BaNJkqgBJN+
+ya2T3QUOGtRyuzZenWwS0BogiwIDAQABo4ICVDCCAlAwCQYDVR0TBAIwADAfBgNV
+HSMEGDAWgBTwbDO/rJeTWHqh4M6e7Oje+2U++jCBmAYDVR0gBIGQMIGNMIGKBgor
+BgEEAYOMHgEEMHwwLAYIKwYBBQUHAgEWIGh0dHBzOi8vcHNjLmlkb2suY2wvb3Bl
+bi9jcHMucGRmMEwGCCsGAQUFBwICMEAePgBDAGUAcgB0AGkAZgBpAGMAYQBkAG8A
+IABwAGEAcgBhACAAdQBzAG8AIABUAHIAaQBiAHUAdABhAHIAaQBvMIIBDwYDVR0f
+BIIBBjCCAQIwgf+gOqA4hjZodHRwczovL3BzYy5pZG9rLmNsL29wZW4vSURPS19G
+SVJNQV9FTEVDVFJPTklDQV9WMi5jcmyigcCkgb0wgboxHjAcBgkqhkiG9w0BCQEW
+D3NvcG9ydGVAaWRvay5jbDEiMCAGA1UEAwwZSURPSyBGSVJNQSBFTEVDVFJPTklD
+QSBWMjEXMBUGA1UECwwOUlVULTc2NjEwNzE4LTQxIDAeBgNVBAsMF0F1dG9yaWRh
+ZCBDZXJ0aWZpY2Fkb3JhMRkwFwYDVQQKDBBCUE8gQWR2aXNvcnMgU3BBMREwDwYD
+VQQHDAhTYW50aWFnbzELMAkGA1UEBhMCQ0wwHQYDVR0OBBYEFPtvSKukMH2ZaJDP
+p+ldcjq4zMzlMAsGA1UdDwQEAwIEkDAjBgNVHRIEHDAaoBgGCCsGAQQBwQECoAwW
+Cjc2NjEwNzE4LTQwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgoxMjg2MDA4MC05
+MA0GCSqGSIb3DQEBCwUAA4IBAQBA8IUXnUr/szbHwwI1LLMDJuz/aVooRnk3qRde
+QzGIs3cH6mnofLyiqR/Vw50FPC4O1meyuCgp1VLtJ3LUrWPEfy/kbJcHsJabe5S4
+uVl7MsNLyifFU02uaf167573ZzxASfllfvHeoQWL2dLKZGQBADTzlq9EDX2cUxE3
+M34FyflU5Sd7EGRcqJwu0I6MLzS0JvCVOtFQv6e53hCQlu727dj0Cm+lnjDeWE98
+95Zq4aszX2bO+uZixyMHRZrqgy8CgnZt4jc3TqR+gTC5ThizjBk9PPWVPiKk8ApJ
+0/ny4vZJw+BSXjsu22JApsM4Ybuc9JcVtwTYdHyIbNqldm52
+</X509Certificate></X509Data></KeyInfo></Signature>
+  
+</DTE>

@@ -1,0 +1,2285 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SetDTE>
+<DTE version="1.0" >
+  <!-- O Win32 Chrome 105 central VERSION: v20190409 -->
+<Documento ID="MiPE76134047-22907">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>33</TipoDTE>
+        <Folio>5393</Folio>
+        <FchEmis>2022-09-05</FchEmis>
+        <TpoTranCompra>1</TpoTranCompra>
+        <TpoTranVenta>1</TpoTranVenta>
+        <FmaPago>1</FmaPago>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>76134047-6</RUTEmisor>
+        <RznSoc>MI FERRETERIA SPA</RznSoc>
+        <GiroEmis>COM.MANT.MONT.REPAR.DE HERRAM.EQUIP.E INSU.PARA LA INDUS.Y ASES</GiroEmis>
+        <Telefono>2 22728830</Telefono>
+        <CorreoEmisor>info@miferreteria.cl</CorreoEmisor>
+        <Acteco>465909</Acteco>
+        <CdgSIISucur>076346622</CdgSIISucur>
+        <DirOrigen>MARIA ETCHEVERRY 2932</DirOrigen>
+        <CmnaOrigen>MACUL</CmnaOrigen>
+        <CiudadOrigen>SANTIAGO</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>76252650-6</RUTRecep>
+        <RznSocRecep>INVERSIONES DHEMAX INGENIEROS SPA</RznSocRecep>
+        <GiroRecep>EMPRESAS DE SERVICIOS DE INGENIERIA Y AC</GiroRecep>
+        <DirRecep>7 Oriente 1234</DirRecep>
+        <CmnaRecep>VINA DEL MAR</CmnaRecep>
+        <CiudadRecep>VINA DEL MAR</CiudadRecep>
+      </Receptor>
+    <Transporte>
+  </Transporte>
+      <Totales>
+        <MntNeto>210421</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>39980</IVA>
+        <MntTotal>250401</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>HHK</TpoCodigo>
+        <VlrCodigo>8T</VlrCodigo>
+      </CdgItem>
+      <NmbItem>KNOCK-OUT PUNZADOR</NmbItem>
+      <DscItem>HIDR?ULICO 8T
+</DscItem>
+      <QtyItem>2.00</QtyItem>
+      <UnmdItem>UND</UnmdItem>
+      <PrcItem>99160.00</PrcItem>
+      <MontoItem>198320</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>2</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>Kendo</TpoCodigo>
+        <VlrCodigo>11706</VlrCodigo>
+      </CdgItem>
+      <NmbItem>Aprieta Terminal Manual</NmbItem>
+      <DscItem>Aprieta Terminal Manual de 20 - 10 AWG 
+</DscItem>
+      <QtyItem>1.00</QtyItem>
+      <UnmdItem>UND</UnmdItem>
+      <PrcItem>12101.00</PrcItem>
+      <MontoItem>12101</MontoItem>
+    </Detalle>
+<TED version="1.0"><DD><RE>76134047-6</RE><TD>33</TD><F>5393</F><FE>2022-09-05</FE><RR>76252650-6</RR><RSR>INVERSIONES DHEMAX INGENIEROS SPA</RSR><MNT>250401</MNT><IT1>KNOCK-OUT PUNZADOR</IT1><CAF version="1.0"><DA><RE>76134047-6</RE><RS>MI FERRETERIA SPA</RS><TD>33</TD><RNG><D>5393</D><H>5393</H></RNG><FA>2022-09-06</FA><RSAPK><M>11cE7dJE8AT0UuflV7QI3naFtbJIRGuXF8IXz7INDbzRCH9XfVGlQv5TkomomHe9sCfGE8fmH6UYWw4MtsBTAw==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">UaNC0mQ5Uyg9Zlo+4q6hb61Vu9tmT+vA9TxR+9bmprq/6fj1WDZHYoqNcFn4A023EpTqLWTrPssLV4qMHYj2MA==</FRMA></CAF><TSTED>2022-09-06T17:26:29</TSTED></DD><FRMT algoritmo="SHA1withRSA">WCZX3TMT+qeuLqtgg/vQaUUSmWBUG6YJWtUEepzRuOv8PoxdNHazKk/W3+oNp95RW9SXczSY1mv7UfnT/1kc7g==</FRMT></TED>
+    <TmstFirma>2022-09-06T17:26:29</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#MiPE76134047-22907">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>/cJswgdIzk7YxxnmEK0FEaelchs=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+i4FG2h7ru/FYT6rcfmKfM+CPmUwg/x02QrI177krsHJDS7DVtz+RitoakItS9B3+5kWYHge2m8ZL
+O6J6mKZvrusJUf+fSntX+NiDBSBdZJdXy2X4tpUsew8kDhIAO2M7Nuxf1SrQSaw+6FeWZL6SIwlI
+hVqXiDdYmNO3VcIhLNsIEZ322rLYqpuZ9IikBFrMLMpg2CZ9yeXjCyxj6tvbnFG3DvVHueVT3mRu
+uNwMnb737U3ValN85J2VGcC9NzNOOU/scoXx8NcLQOkmaB3quHrS/FY3kh4YLabYtq6urlmqnuTG
+dzkOkphbHb4QBri5mKJ62seKD2mmowtAv2pp4A==
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+okYV4fVOnPqgN1sZVV1SbBkkxYtKtB7O2UmQCq/GNCj0eCabp1SxBDNZnpQXkE9/iSOwuytDZT4K
+ExsyZOETeNzy/RZkicF9x1pm6Ssbuy3CG/JvpziEknEaH8fOhhQirwPLRfYq5F4fjtZso9ReXNXc
+IO9/sm3mnGCpXoUizxf5Fr0+0qUxlwymNfEVsopQ7IkDZd977HbNIlmjmvJE97BG1dHep7Goah5M
+oU5T3Oq67x9IMRSt0ybZPTHvdSGbByY8sOGYow/PYm1Nwc64JeyADrctceOKYS7acX8DoV9xtb1g
+X61PWq/A5psjyXWAvhEkyJLUpF9W1aGSIsZg4Q==
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIHtzCCBZ+gAwIBAgIKHm3/6wABAABiszANBgkqhkiG9w0BAQsFADCBvzELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMR4wHAYDVQQD
+ExVFLUNFUlRDSElMRSBDQSBGRVMgMDIxJjAkBgkqhkiG9w0BCQEWF3NjbGllbnRlQGUtY2VydGNo
+aWxlLmNsMB4XDTIyMDMwMjAxMzA1NVoXDTI1MDMwMTAxMzA1NVowgbMxCzAJBgNVBAYTAkNMMSIw
+IAYDVQQIExlNRVRST1BPTElUQU5BIERFIFNBTlRJQUdPMREwDwYDVQQHEwhTQU5USUFHTzEWMBQG
+A1UEChMNTUkgRkVSUkVURVJJQTEKMAgGA1UECwwBKjEgMB4GA1UEAxMXTUFSQ0VMTyBIRU5SSVFV
+RVogTEFHT1MxJzAlBgkqhkiG9w0BCQEWGENPTlRBQ1RPQE1JRkVSUkVURVJJQS5DTDCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAKJGFeH1Tpz6oDdbGVVdUmwZJMWLSrQeztlJkAqvxjQo
+9Hgmm6dUsQQzWZ6UF5BPf4kjsLsrQ2U+ChMbMmThE3jc8v0WZInBfcdaZukrG7stwhvyb6c4hJJx
+Gh/HzoYUIq8Dy0X2KuReH47WbKPUXlzV3CDvf7Jt5pxgqV6FIs8X+Ra9PtKlMZcMpjXxFbKKUOyJ
+A2Xfe+x2zSJZo5ryRPewRtXR3qexqGoeTKFOU9zquu8fSDEUrdMm2T0x73UhmwcmPLDhmKMPz2Jt
+TcHOuCXsgA63LXHjimEu2nF/A6FfcbW9YF+tT1qvwOabI8l1gL4RJMiS1KRfVtWhkiLGYOECAwEA
+AaOCAr0wggK5MIIBXwYDVR0gBIIBVjCCAVIwggFOBggrBgEEAcNSBTCCAUAwPQYIKwYBBQUHAgEW
+MWh0dHBzOi8vd3d3LmUtY2VydGNoaWxlLmNsL3BvbGl0aWNhcy15LXByYWN0aWNhcy8wgf4GCCsG
+AQUFBwICMIHxHoHuAEUAbAAgAHIAZQBzAHAAbwBuAGQAZQByACAAZQBzAHQAZQAgAGYAbwByAG0A
+dQBsAGEAcgBpAG8AIABlAHMAIAB1AG4AIAByAGUAcQB1AGkAcwBpAHQAbwAgAGkAbgBkAGkAcwBw
+AGUAbgBzAGEAYgBsAGUAIABwAGEAcgBhACAAZABhAHIAIABpAG4AaQBjAGkAbwAgAGEAbAAgAHAA
+cgBvAGMAZQBzAG8AIABkAGUAIABjAGUAcgB0AGkAZgBpAGMAYQBjAGkA8wBuAC4AIABQAG8AcwB0
+AGUAcgBpAG8AcgBtAGUAbgB0AGUALDAdBgNVHQ4EFgQURVvbXOMFlZR27mcMkY4V3bFDShEwCwYD
+VR0PBAQDAgTwMCMGA1UdEQQcMBqgGAYIKwYBBAHBAQGgDBYKMTAwNDQ3MzYtMzAfBgNVHSMEGDAW
+gBR01iGz9FroLXy7WQZjQ+9ptDqTBDBABgNVHR8EOTA3MDWgM6Axhi9odHRwOi8vY3JsLmVjZXJ0
+Y2hpbGUuY2wvRS1DRVJUQ0hJTEVDQUZFUzAyLmNybDA9BggrBgEFBQcBAQQxMC8wLQYIKwYBBQUH
+MAGGIWh0dHA6Ly9vY3NwZmVzLmVjZXJ0Y2hpbGUuY2wvb2NzcDA8BgkrBgEEAYI3FQcELzAtBiUr
+BgEEAYI3FQiB3dJNl9Q6homdBoeIzm+Dr8xgRYbS7AiGx8p9AgFkAgEHMCMGA1UdEgQcMBqgGAYI
+KwYBBAHBAQKgDBYKOTY5MjgxODAtNTANBgkqhkiG9w0BAQsFAAOCAgEANC2/Or4NpcxPmQ1UJQJ/
+3wk04/PD9VVD8q5zr4eRpv1vqhifG2IBrkMD6nmuMY/L7qtZpOM1Zx5N0QgTBAmnX+eBFzt1QT7r
+rkehNCw/2su4r8g1eXjWmQedd2UgMgvzkM7MybbCCfrVZRnvk1INxjVcLyZRZ6qFz3TpBpzkNqcu
+G6iSirCCAGECe3YeMFtK/O5UiT9wdHU7rm6vDe4ptn6fRAt9fcXT1PVXWD6ynNq8dCdWbbeLPM4c
+VO2aGzj2bfpng0ipStBNOELGq3+OAqMGh75wCe6CzX5gtJ4y6V6rhpEh5kDVAwqCQi3fOo51FHIs
+3EQHw6QCwNMSyjTk8BDf0Zmbv2Pclq2vcCBOOZ60Pkm9VXQzrauX3tPQzP7x7dTG2sw+vRq6S3qu
+6kLwmNJAZZK2trGQUt3xA94kBl3TRPToEKOQNd24rq0E1N5Cve9arjp4USx/3LA1nGCC2mhL2D4W
+oErOHYFB9/fuYhUho1OVVzFOLrM6mhpevj+WqNW3d+PNfdHT2fEXUiwyfimshoafvpMdBhaN4son
+AG4cvTvcyeyrW0+GfM7Sk8QIU70rz2eNrqODssug8DUGJ1T2XEuf/pIgKaJTYELCKddIntwlHBgO
+L5O9H0VlrpqWHiFxH7eob/k2/hYdBK6uGQjllDGxdQY4hO0JsbC9hy8=
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+<DTE version="1.0" >
+<Documento ID="E000000003T034F0010261652">
+<Encabezado>
+<IdDoc>
+<TipoDTE>34</TipoDTE>
+<Folio>10261652</Folio>
+<FchEmis>2022-09-05</FchEmis>
+<FmaPago>2</FmaPago>
+<FchVenc>2022-09-26</FchVenc>
+</IdDoc>
+<Emisor>
+<RUTEmisor>76052927-3</RUTEmisor>
+<RznSoc>Soc. Conc. Autopista Nueva Vespucio Sur S.A.</RznSoc>
+<GiroEmis>Construcci?n, Conservaci?n y Explotaci?n de Obra P?blica Fiscal</GiroEmis>
+<Acteco>452020</Acteco>
+<DirOrigen>General Prieto 1430</DirOrigen>
+<CmnaOrigen>INDEPENDENCIA</CmnaOrigen>
+<CiudadOrigen>Regi?n Metropolitana</CiudadOrigen>
+<CdgVendedor>0</CdgVendedor>
+</Emisor>
+<Receptor>
+<RUTRecep>76252650-6</RUTRecep>
+<CdgIntRecep>762526506002</CdgIntRecep>
+<RznSocRecep>DHEMAX INGENIEROS LIMITADA</RznSocRecep>
+<GiroRecep>INGENIERIA . .</GiroRecep>
+<DirRecep>SIETE ORIENTE 1234</DirRecep>
+<CmnaRecep>VI?A DEL MAR</CmnaRecep>
+</Receptor>
+<Totales>
+<MntExe>9643</MntExe>
+<MntTotal>9643</MntTotal>
+</Totales>
+</Encabezado>
+<Detalle>
+<NroLinDet>1</NroLinDet>
+<IndExe>1</IndExe>
+<NmbItem>Peajes periodo VS</NmbItem>
+<QtyItem>1</QtyItem>
+<PrcItem>9539</PrcItem>
+<MontoItem>9539</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>2</NroLinDet>
+<IndExe>1</IndExe>
+<NmbItem>Interes por mora</NmbItem>
+<QtyItem>1</QtyItem>
+<PrcItem>104</PrcItem>
+<MontoItem>104</MontoItem>
+</Detalle>
+<TED version="1.0"><DD><RE>76052927-3</RE><TD>34</TD><F>10261652</F><FE>2022-09-05</FE><RR>76252650-6</RR><RSR>DHEMAX INGENIEROS LIMITADA</RSR><MNT>9643</MNT><IT1>Peajes periodo VS</IT1><CAF version="1.0"><DA><RE>76052927-3</RE><RS>SOCIEDAD CONCESIONARIA AUTOPISTA NUEVA V</RS><TD>34</TD><RNG><D>10168023</D><H>10288022</H></RNG><FA>2022-05-23</FA><RSAPK><M>x6Io3sKMP02I+rMTN17wWpPjaOqOB3hTHl+UfRegEmjCoj+/rjf5Qr4ohAYEYRkuMxrdQr0CvxFMBEE20w9yIw==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">OI45i7SaK7WnCL3wfj/KeqwD26Wsvxd4E78+28cj8m7qhEY91HJICT74OegpMun9SERRSQJ4KHtiPG4EEUaj9g==</FRMA></CAF><TSTED>2022-09-05T13:20:50</TSTED></DD><FRMT algoritmo="SHA1withRSA">oEL/FeV1/xJ5T+W1nNwWMTLSrk5FfuPsYT/jHdeC7it4oh5sZAs7nUA3s858L2vT27o1GZdhnkt7Q2ArSw8V7Q==</FRMT></TED><TmstFirma>2022-09-05T17:14:12</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#E000000003T034F0010261652">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>pNXIgq7RW6PXgVHJ8yvWQTM/wTI=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>DwgRBBbFWWsgb32zi+bHjS8mQxoACthYxfj/+T6a31UBx7QK4vCltan/tZHIW9Lqz1Eb6HkcWi3xiG0uRBaSB7vKhxKSQU56zBFDyFyH3Wdyp8ajUEE7X7Zd2+c9a7BO52LBFCjLOa+fW5cKH+2zkHww4Xfgxn+toN5BKf8ctp8=</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+mwBZbYYPMeHBUw2DTG45HyoOO5NXlJlegOie2yKHKz3q++SQWUhCr4Z5Ba7kd8uj
+rAMg/EUoXN2falMFF/ru6/wLB3wN3qt9g7c459Sn/KSYFrwjOVPb/7srX1eKlWyx
+WZAKcRa9gD9Wgy1beE2V3MYPBXVJdHXYlejqd7MqYC0=
+</Modulus>
+<Exponent>
+AQAB
+</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGXDCCBUSgAwIBAgIKJ5OFDQAAAA+4zDANBgkqhkiG9w0BAQUFADCB0jELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+LWNlcnRjaGlsZS5jbDAeFw0xOTEyMTMxNTQxMTlaFw0yMjEyMTIxNTQxMTlaMIHd
+MQswCQYDVQQGEwJDTDEqMCgGA1UECAwhUkVHScOTTiBNRVRST1BPTElUQU5BIERF
+IFNBTlRJQUdPMREwDwYDVQQHEwhTYW50aWFnbzEyMDAGA1UEChMpU09DSUVEQUQg
+Q09OQ0VTSU9OQVJJQSBDT1NUQU5FUkEgTk9SVEUgU0ExFjAUBgNVBAsTDUNPTkNF
+U0lPTkFSSUExIjAgBgNVBAMTGVJBSU1VTkRPIE1PTlNBTFZFIEJBUlJJR0ExHzAd
+BgkqhkiG9w0BCQEWEHJtb25iYUBnbWFpbC5jb20wgZ8wDQYJKoZIhvcNAQEBBQAD
+gY0AMIGJAoGBAJsAWW2GDzHhwVMNg0xuOR8qDjuTV5SZXoDontsihys96vvkkFlI
+Qq+GeQWu5HfLo6wDIPxFKFzdn2pTBRf67uv8Cwd8Dd6rfYO3OOfUp/ykmBa8IzlT
+2/+7K19XipVssVmQCnEWvYA/VoMtW3hNldzGDwV1SXR12JXo6nezKmAtAgMBAAGj
+ggKpMIICpTCCAU8GA1UdIASCAUYwggFCMIIBPgYIKwYBBAHDUgUwggEwMC0GCCsG
+AQUFBwIBFiFodHRwOi8vd3d3LmUtY2VydGNoaWxlLmNsL0NQUy5odG0wgf4GCCsG
+AQUFBwICMIHxHoHuAEUAbAAgAHIAZQBzAHAAbwBuAGQAZQByACAAZQBzAHQAZQAg
+AGYAbwByAG0AdQBsAGEAcgBpAG8AIABlAHMAIAB1AG4AIAByAGUAcQB1AGkAcwBp
+AHQAbwAgAGkAbgBkAGkAcwBwAGUAbgBzAGEAYgBsAGUAIABwAGEAcgBhACAAZABh
+AHIAIABpAG4AaQBjAGkAbwAgAGEAbAAgAHAAcgBvAGMAZQBzAG8AIABkAGUAIABj
+AGUAcgB0AGkAZgBpAGMAYQBjAGkA8wBuAC4AIABQAG8AcwB0AGUAcgBpAG8AcgBt
+AGUAbgB0AGUALDAdBgNVHQ4EFgQU4DRjVm3D2B2OoRMGdVQAHU2rLPowCwYDVR0P
+BAQDAgTwMCMGA1UdEQQcMBqgGAYIKwYBBAHBAQGgDBYKMDk1MDkzNzMtNjAfBgNV
+HSMEGDAWgBR44T6f0hKzejyNzTAOU7NDKQezVTA+BgNVHR8ENzA1MDOgMaAvhi1o
+dHRwOi8vY3JsLmUtY2VydGNoaWxlLmNsL2VjZXJ0Y2hpbGVjYUZFUy5jcmwwOgYI
+KwYBBQUHAQEELjAsMCoGCCsGAQUFBzABhh5odHRwOi8vb2NzcC5lY2VydGNoaWxl
+LmNsL29jc3AwPQYJKwYBBAGCNxUHBDAwLgYmKwYBBAGCNxUIgtyDL4WTjGaF1Z0X
+guLcJ4Hv7DxhgcueFIaoglgCAWQCAQQwIwYDVR0SBBwwGqAYBggrBgEEAcEBAqAM
+Fgo5NjkyODE4MC01MA0GCSqGSIb3DQEBBQUAA4IBAQCL0QvPHJ5m+jnhjIImSV+P
+cJsFNpu/Dxfn4It4BMPVac9qPGFHQLd/ba2d0v3EKm8TcBhALlPNDBJLiUlcnAz+
+IAicMdSg33VHNiDEllKM9GzXAM+bOKq8HOUWTvt8c56+kMPNd2FVKj8vTXYfopM4
+BvksWGxP5tNdNUAZTAblt+x48K919fb5p5SsLqd8G0u/IMYhFxCTff/oAOgNnfuG
+GQUZ5IrpJLyDy2R6OpLtfERffzWvqw/+YHiY3suW/4U7U6niNxd2CrETE1P/026X
+GVLFg5/hGW/FJSGeFskK9F6NHguq1/1vJIvHhqG610nzErR1kG/BH0ErjjUObk8d
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+<DTE version="1.0" >
+  <!-- O Win32 Chrome 105 central VERSION: v20190409 -->
+<Documento ID="MiPE10427496-11473">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>33</TipoDTE>
+        <Folio>14171</Folio>
+        <FchEmis>2022-09-06</FchEmis>
+        <TpoTranCompra>1</TpoTranCompra>
+        <TpoTranVenta>1</TpoTranVenta>
+        <FmaPago>1</FmaPago>
+        <MntPagos>
+          <FchPago>2022-09-06</FchPago>
+          <MntPago>9100</MntPago>
+          <GlosaPagos>OP021524AUT412797</GlosaPagos>
+        </MntPagos>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>10427496-K</RUTEmisor>
+        <RznSoc>JUAN LUIS AVILA ROJAS</RznSoc>
+        <GiroEmis>FERRETERIA Y CARPINTERIA TRANSPORTE DE CARGA</GiroEmis>
+        <Telefono>72 2214488</Telefono>
+        <CorreoEmisor>FERRE.JUANAVILA@HOTMAIL.COM</CorreoEmisor>
+        <Acteco>492300</Acteco>
+        <CdgSIISucur>003934329</CdgSIISucur>
+        <DirOrigen>ECUADOR 147   RGUA OTE</DirOrigen>
+        <CmnaOrigen>RANCAGUA</CmnaOrigen>
+        <CiudadOrigen>RANCAGUA</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>76252650-6</RUTRecep>
+        <RznSocRecep>INVERSIONES DHEMAX INGENIEROS SPA</RznSocRecep>
+        <GiroRecep>EMPRESAS DE SERVICIOS DE INGENIERIA Y AC</GiroRecep>
+        <DirRecep>7 Oriente 1234</DirRecep>
+        <CmnaRecep>VINA DEL MAR</CmnaRecep>
+        <CiudadRecep>VINA DEL MAR</CiudadRecep>
+      </Receptor>
+    <Transporte>
+  </Transporte>
+      <Totales>
+        <MntNeto>7647</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>1453</IVA>
+        <MntTotal>9100</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <NmbItem>CAJA DE TARUGO</NmbItem>
+      <QtyItem>1.00</QtyItem>
+      <PrcItem>2949.00</PrcItem>
+      <MontoItem>2949</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>2</NroLinDet>
+      <NmbItem>CAJA ROSCALATA</NmbItem>
+      <QtyItem>1.00</QtyItem>
+      <PrcItem>2949.00</PrcItem>
+      <MontoItem>2949</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>3</NroLinDet>
+      <NmbItem>ROSCALATA</NmbItem>
+      <QtyItem>30.00</QtyItem>
+      <PrcItem>37.00</PrcItem>
+      <MontoItem>1110</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>4</NroLinDet>
+      <NmbItem>KILO YESO</NmbItem>
+      <QtyItem>1.00</QtyItem>
+      <PrcItem>639.00</PrcItem>
+      <MontoItem>639</MontoItem>
+    </Detalle>
+<TED version="1.0"><DD><RE>10427496-K</RE><TD>33</TD><F>14171</F><FE>2022-09-06</FE><RR>76252650-6</RR><RSR>INVERSIONES DHEMAX INGENIEROS SPA</RSR><MNT>9100</MNT><IT1>CAJA DE TARUGO</IT1><CAF version="1.0"><DA><RE>10427496-K</RE><RS>JUAN LUIS AVILA ROJAS</RS><TD>33</TD><RNG><D>14171</D><H>14171</H></RNG><FA>2022-09-06</FA><RSAPK><M>u20QhXaL44GVfQqxe6Ar5jZMSkbAPFQfPU1sPgJ3IuwVUleJzu06X89y396adIBcfDxw+nyBfqQPhvowYvGDzw==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">h/KOMoTOOuwWhJiEq9A8lqiHPv9HBqcaiSF+gd2sh8hgYbTKI+zr3Slx2ECwpv0J4IgpGvdhakmcvTMUyAVqwg==</FRMA></CAF><TSTED>2022-09-06T15:44:55</TSTED></DD><FRMT algoritmo="SHA1withRSA">tkJwkJOnwgn4FWkqQ/eP8gC3f10rvvz95WRxGBXUbT9khcxpZT22mgoZs6/LG4iS+F3v4Gd6AJmhnbxIV2oylw==</FRMT></TED>
+    <TmstFirma>2022-09-06T15:44:55</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#MiPE10427496-11473">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>NCCwdXnpQYSDKw3bZQSOICbpfrs=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+fvKyYSVLbox+jurfo3wBggsNjN+BT9u3A345pDLzk/y/sq4fvqUOp+vWoKimtUih0uVx8cDMJWt4
+PTK8rTJoRa8vWoyXwRFEsAHFiDt00Dn75z89Z/t5PXAUG7pwAoEaio3KsBATU25UfY7GrBvUeqtO
+LI9msfn7XFykmE6AQgRLPle/nzR518PZlyMYQwE4n4fVD7t0i/CLZ1DQIvRz98YyrG4Lq1cHeC4C
+g5BkxU9b/tZfJ96fREryJKl54NaVC5N3l9e5R9GQVHlh1Cga9svBptPOus0hBVw3A5JlrGJ/azll
+040Girqc5PjNdk2WjhUT971/EYqZdcGyxkCKMA==
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+vLVoZFDq6tof7D92CEcvwTUmv4e4MdmXP8ifP+LarStt5bIUa1Y6EOYVVMm04h0ZJsjmdoto7Z4L
+IRWBQBStU/n7dwPmsuU1HNpiXwOM9zqu7IEdF5QbOD1nLtpeWOARkacD5qqX7WTUPcPL8UCXO46j
++vqV4nyF0sIuQsqwWSVmvYmRjQnycEMWeQHUbNqhxHiQbdQMZD0ok6VJPEgM3odJnGZygV3PFAHe
+vu1B1h9frTXCWkrfkZCcpffdMkKE9K+pWukWxH03/GtxUUvpvk9DeZhEMgP1nAzHz4YMl1wxW0A+
+MR7RATixHXfUCG+3aZLuzqi9Z3APCECQjNCgyQ==
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIHzTCCBbWgAwIBAgIKEShNJAABAAHqCTANBgkqhkiG9w0BAQsFADCBvzELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMR4wHAYDVQQD
+ExVFLUNFUlRDSElMRSBDQSBGRVMgMDIxJjAkBgkqhkiG9w0BCQEWF3NjbGllbnRlQGUtY2VydGNo
+aWxlLmNsMB4XDTIyMDcwNDE1MTgwMFoXDTI0MDcwMzE1MTgwMFowgckxCzAJBgNVBAYTAkNMMS4w
+LAYDVQQIEyVMSUJFUlRBRE9SIEdFTkVSQUwgQkVSTkFSRE8gTyBISUdHSU5TMRIwEAYDVQQHEwlD
+QUNIQVBPQUwxHjAcBgNVBAoTFUpVQU4gTFVJUyBBVklMQSBST0pBUzEKMAgGA1UECwwBKjEeMBwG
+A1UEAxMVSlVBTiBMVUlTIEFWSUxBIFJPSkFTMSowKAYJKoZIhvcNAQkBFhtGRVJSRS5KVUFOQVZJ
+TEFASE9UTUFJTC5DT00wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC8tWhkUOrq2h/s
+P3YIRy/BNSa/h7gx2Zc/yJ8/4tqtK23lshRrVjoQ5hVUybTiHRkmyOZ2i2jtngshFYFAFK1T+ft3
+A+ay5TUc2mJfA4z3Oq7sgR0XlBs4PWcu2l5Y4BGRpwPmqpftZNQ9w8vxQJc7jqP6+pXifIXSwi5C
+yrBZJWa9iZGNCfJwQxZ5AdRs2qHEeJBt1AxkPSiTpUk8SAzeh0mcZnKBXc8UAd6+7UHWH1+tNcJa
+St+RkJyl990yQoT0r6la6RbEfTf8a3FRS+m+T0N5mEQyA/WcDMfPhgyXXDFbQD4xHtEBOLEdd9QI
+b7dpku7OqL1ncA8IQJCM0KDJAgMBAAGjggK9MIICuTCCAV8GA1UdIASCAVYwggFSMIIBTgYIKwYB
+BAHDUgUwggFAMD0GCCsGAQUFBwIBFjFodHRwczovL3d3dy5lLWNlcnRjaGlsZS5jbC9wb2xpdGlj
+YXMteS1wcmFjdGljYXMvMIH+BggrBgEFBQcCAjCB8R6B7gBFAGwAIAByAGUAcwBwAG8AbgBkAGUA
+cgAgAGUAcwB0AGUAIABmAG8AcgBtAHUAbABhAHIAaQBvACAAZQBzACAAdQBuACAAcgBlAHEAdQBp
+AHMAaQB0AG8AIABpAG4AZABpAHMAcABlAG4AcwBhAGIAbABlACAAcABhAHIAYQAgAGQAYQByACAA
+aQBuAGkAYwBpAG8AIABhAGwAIABwAHIAbwBjAGUAcwBvACAAZABlACAAYwBlAHIAdABpAGYAaQBj
+AGEAYwBpAPMAbgAuACAAUABvAHMAdABlAHIAaQBvAHIAbQBlAG4AdABlACwwHQYDVR0OBBYEFLHc
+E3tkuC2M5d40rTxIyQp0GH1jMAsGA1UdDwQEAwIE8DAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwW
+CjEwNDI3NDk2LUswHwYDVR0jBBgwFoAUdNYhs/Ra6C18u1kGY0PvabQ6kwQwQAYDVR0fBDkwNzA1
+oDOgMYYvaHR0cDovL2NybC5lY2VydGNoaWxlLmNsL0UtQ0VSVENISUxFQ0FGRVMwMi5jcmwwPQYI
+KwYBBQUHAQEEMTAvMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcGZlcy5lY2VydGNoaWxlLmNsL29j
+c3AwPAYJKwYBBAGCNxUHBC8wLQYlKwYBBAGCNxUIgd3STZfUOoaJnQaHiM5vg6/MYEWG75pehueP
+UQIBZAIBBzAjBgNVHRIEHDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwDQYJKoZIhvcNAQEL
+BQADggIBAJArxDXyn/Xtm1WcyQez41RGX4dPwk478fl/XLJlYFL/VGTXmLYA9D6mqhvEZXaqlKbW
+yQQpb+pieLKcnCR0IX7MpcWdbuvT0+j8t+bmYJ6vJ3olveVXWui3po71GQGqSXIa6CIfxwIjsJmm
+VBKIu4GmRCkHZP2xMLFTidfuWTn/ZpnD3Jy1XzxiNuS0Oq/uGjnyvbk/cZ/q0DPFggauxhfUzQ0c
+RwtzMVm6wBwADo21V7noilArlEqfcXYuCjwWjNCFhYmg4YDfjWstDQbcFy2hw0WfD8vMxlBBDqo6
+n/MtvKxUoReHC8yudiN5lMjwBWDA8h4t7mZbf0RRp0sDnwePFojVFwyouXXbAXfDR+RwEjSqVuYX
+HGTeNyabOJaAKxIm0f+5Qrq+gEopyaeouBZiV9k49FoQnYM7rLGfJD9PUQCwyjJaii4LgUukVswq
+gt/3mgLhQ5tHHMtwiphgxPFe/Ma4sOjXGo3oSs7vOF+bUJp+Icelxf78hY5lXLtUuI+LE+QKMMik
+HImra83uP/wK+AsrKAA61UGeWZoAAOOaOB5H4RSMaC6MYASRis6OQb1FKAPLfuPcrkcY6pwED3lX
+6IDOsyFccOQHN1d+5gp9AikO5TT08Hgv0tr+2v5GawO6daNAeb1ijGNKGhuTYucuKrlJO918Iawg
+uWYH2J1V
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+<DTE version="1.0" >
+<Documento ID="E000000005T033F0120808668">
+<Encabezado>
+<IdDoc>
+<TipoDTE>33</TipoDTE>
+<Folio>120808668</Folio>
+<FchEmis>2022-09-06</FchEmis>
+<FmaPago>1</FmaPago>
+<FchVenc>2022-09-06</FchVenc>
+</IdDoc>
+<Emisor>
+<RUTEmisor>96792430-K</RUTEmisor>
+<RznSoc>SODIMAC S.A.</RznSoc>
+<GiroEmis>DISTRIBUIDORA DE MATERIALES DE CONSTRUCCION</GiroEmis>
+<Acteco>466302</Acteco>
+<Sucursal>HC Los Dominicos</Sucursal>
+<CdgSIISucur>80706897</CdgSIISucur>
+<DirOrigen>Padre Hurtado Sur N? 875</DirOrigen>
+<CmnaOrigen>Las Condes</CmnaOrigen>
+<CiudadOrigen>SANTIAGO</CiudadOrigen>
+<CdgVendedor>.</CdgVendedor>
+</Emisor>
+<Receptor>
+<RUTRecep>76252650-6</RUTRecep>
+<RznSocRecep>DHEMAX ING LTDA</RznSocRecep>
+<Extranjero>
+</Extranjero>
+<GiroRecep>OTRAS ACT. EMPRESARIALES N.C.P</GiroRecep>
+<DirRecep>1 ORIENTE 655 N10</DirRecep>
+<CmnaRecep>VINA DEL MAR</CmnaRecep>
+<CiudadRecep>VINA DEL MAR</CiudadRecep>
+</Receptor>
+<RUTSolicita>76252650-6</RUTSolicita>
+<Totales>
+<MntNeto>23860</MntNeto>
+<TasaIVA>19</TasaIVA>
+<IVA>4533</IVA>
+<MntTotal>28393</MntTotal>
+</Totales>
+</Encabezado>
+<Detalle>
+<NroLinDet>1</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>567450</VlrCodigo>
+</CdgItem>
+<NmbItem>PERNO COCHE 1/4X2 1/2 ZBR 4UNI</NmbItem>
+<PrcRef>748</PrcRef>
+<QtyItem>1</QtyItem>
+<UnmdItem>CU</UnmdItem>
+<PrcItem>747.89</PrcItem>
+<MontoItem>748</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>2</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>567450</VlrCodigo>
+</CdgItem>
+<NmbItem>PERNO COCHE 1/4X2 1/2 ZBR 4UNI</NmbItem>
+<PrcRef>748</PrcRef>
+<QtyItem>1</QtyItem>
+<UnmdItem>CU</UnmdItem>
+<PrcItem>747.89</PrcItem>
+<MontoItem>748</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>3</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>865559</VlrCodigo>
+</CdgItem>
+<NmbItem>TUERCA MARIPOSA 1/4 ZBR 2UN.</NmbItem>
+<PrcRef>580</PrcRef>
+<QtyItem>1</QtyItem>
+<UnmdItem>CU</UnmdItem>
+<PrcItem>579.83</PrcItem>
+<MontoItem>580</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>4</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>865559</VlrCodigo>
+</CdgItem>
+<NmbItem>TUERCA MARIPOSA 1/4 ZBR 2UN.</NmbItem>
+<PrcRef>580</PrcRef>
+<QtyItem>1</QtyItem>
+<UnmdItem>CU</UnmdItem>
+<PrcItem>579.83</PrcItem>
+<MontoItem>580</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>5</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>865559</VlrCodigo>
+</CdgItem>
+<NmbItem>TUERCA MARIPOSA 1/4 ZBR 2UN.</NmbItem>
+<PrcRef>580</PrcRef>
+<QtyItem>1</QtyItem>
+<UnmdItem>CU</UnmdItem>
+<PrcItem>579.83</PrcItem>
+<MontoItem>580</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>6</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>865559</VlrCodigo>
+</CdgItem>
+<NmbItem>TUERCA MARIPOSA 1/4 ZBR 2UN.</NmbItem>
+<PrcRef>580</PrcRef>
+<QtyItem>1</QtyItem>
+<UnmdItem>CU</UnmdItem>
+<PrcItem>579.83</PrcItem>
+<MontoItem>580</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>7</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>865559</VlrCodigo>
+</CdgItem>
+<NmbItem>TUERCA MARIPOSA 1/4 ZBR 2UN.</NmbItem>
+<PrcRef>580</PrcRef>
+<QtyItem>1</QtyItem>
+<UnmdItem>CU</UnmdItem>
+<PrcItem>579.83</PrcItem>
+<MontoItem>580</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>8</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>359769</VlrCodigo>
+</CdgItem>
+<NmbItem>BSGRA PIANO 32MMX0,85MTS DSN81</NmbItem>
+<PrcRef>4866</PrcRef>
+<QtyItem>1</QtyItem>
+<UnmdItem>DS</UnmdItem>
+<PrcItem>4865.54</PrcItem>
+<MontoItem>4866</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>9</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>359769</VlrCodigo>
+</CdgItem>
+<NmbItem>BSGRA PIANO 32MMX0,85MTS DSN81</NmbItem>
+<PrcRef>4866</PrcRef>
+<QtyItem>1</QtyItem>
+<UnmdItem>DS</UnmdItem>
+<PrcItem>4865.54</PrcItem>
+<MontoItem>4866</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>10</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>359769</VlrCodigo>
+</CdgItem>
+<NmbItem>BSGRA PIANO 32MMX0,85MTS DSN81</NmbItem>
+<PrcRef>4866</PrcRef>
+<QtyItem>1</QtyItem>
+<UnmdItem>DS</UnmdItem>
+<PrcItem>4865.54</PrcItem>
+<MontoItem>4866</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>11</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>359769</VlrCodigo>
+</CdgItem>
+<NmbItem>BSGRA PIANO 32MMX0,85MTS DSN81</NmbItem>
+<PrcRef>4866</PrcRef>
+<QtyItem>1</QtyItem>
+<UnmdItem>DS</UnmdItem>
+<PrcItem>4865.54</PrcItem>
+<MontoItem>4866</MontoItem>
+</Detalle>
+<TED version="1.0"><DD><RE>96792430-K</RE><TD>33</TD><F>120808668</F><FE>2022-09-06</FE><RR>76252650-6</RR><RSR>DHEMAX ING LTDA</RSR><MNT>28393</MNT><IT1>PERNO COCHE 1/4X2 1/2 ZBR 4UNI</IT1><CAF version="1.0"><DA><RE>96792430-K</RE><RS>SODIMAC S.A.</RS><TD>33</TD><RNG><D>120762666</D><H>121062665</H></RNG><FA>2022-08-12</FA><RSAPK><M>rk4g5jwXiba0FTxKCujP3NmMxACelRUgpkUE0WDbnqHpw4j6X1F35gIeXcFwOSv7o5Rp/YEzykOKPkNfOX9HwQ==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">ChsvFHk6mgW1/m2iwa47VV1yggVoalorknaxKt1v9xWGErhev1iyIFTiht7gKmor/6ZjajKjgsWqckLPaR5DDg==</FRMA></CAF><TSTED>2022-09-06T14:05:40</TSTED></DD><FRMT algoritmo="SHA1withRSA">n+dr/+wfqicy2/j7fpD9Bb1VF2/7biAB5q9EnRE2V+Xd2rZayaxjT9LcRfyW1HZ2rZ6yhUrWorSQvowBJSASnw==</FRMT></TED><TmstFirma>2022-09-06T15:16:06</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#E000000005T033F0120808668">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>b4jZ+S2SN2lVKXZEwpUJMknPQ0k=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>owBLNgDFwsmezP6t6HjP/EZJrT1BS4FcS+QhYpGceSCwy3zdSc29bkLjQ5//dlv9n7Yis17lt3xThBrd8kDuow16KfNMt64ecPvEi9M0jw4/dWgbVoQyiMv2HH0cUX5jCfjAIIKPiVaXCup8hhyHfkFRHpYMt2V6KCy0xX0l0Iunb2SNrKvP/FZ4RMUdwjKOE9PrVscooIe3UD7EwwyGrBPpG6u2GDTiQ/byVNdShXGgEsQQ9MM0giZB5skIEOWVY+xf7m/ndwukiEfDe/l0um9w7XaJIaUjgKGjAaLCyy31jK8YX4LEm6OYhS1qddFhXtUL/yT1zE02g4v32VhuBw==</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+q93pWTde1as/ua2xGxCp0HEkvZ/a+pglArLVnALEWjmSk5dUfTyF73jArLMfmz++
+GCv4dM/p+gMbHFohWFhTbJmWR/U1Kh1NOXsTH2GoayNB10kbWtBteldvYWuhjuPz
+kVe67lvdc6/ePZNoh5qU8gogSz/KfRBgbJGGDuoN4jppF4RuJFKGKgPAXznzsGd/
+GK5jXTeUSgKJ09rkymS2tAodNiXG7kQhkrA4aMzssDa6CPSjslrA0dZG4mDbdMEn
+UcoP7Jq3iNSxyrrobuH9zPixXRglRgaEsoXYkquKXzFK1PEwEaa3M+v5Q+YFQsDA
++mlKd4+y6psNMycM4hSETQ==
+</Modulus>
+<Exponent>
+AQAB
+</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIH1TCCBb2gAwIBAgIKO9/KfgABAAIMZTANBgkqhkiG9w0BAQsFADCBvzELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMR4wHAYDVQQDExVFLUNFUlRDSElMRSBDQSBGRVMg
+MDIxJjAkBgkqhkiG9w0BCQEWF3NjbGllbnRlQGUtY2VydGNoaWxlLmNsMB4XDTIy
+MDcxMjIyMjIzNloXDTI0MDcxMTIyMjIzNlowgdExCzAJBgNVBAYTAkNMMSIwIAYD
+VQQIExlNRVRST1BPTElUQU5BIERFIFNBTlRJQUdPMREwDwYDVQQHEwhTQU5USUFH
+TzErMCkGA1UECgwiRlJBTkNJU0NBIERFTCBQSUxBUiBOVcORRVogUkVHQVVFUjEK
+MAgGA1UECwwBKjErMCkGA1UEAwwiRlJBTkNJU0NBIERFTCBQSUxBUiBOVcORRVog
+UkVHQVVFUjElMCMGCSqGSIb3DQEJARYWTUlHVVpNQU5SQEZBTEFCRUxMQS5DTDCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKvd6Vk3XtWrP7mtsRsQqdBx
+JL2f2vqYJQKy1ZwCxFo5kpOXVH08he94wKyzH5s/vhgr+HTP6foDGxxaIVhYU2yZ
+lkf1NSodTTl7Ex9hqGsjQddJG1rQbXpXb2FroY7j85FXuu5b3XOv3j2TaIealPIK
+IEs/yn0QYGyRhg7qDeI6aReEbiRShioDwF8587BnfxiuY103lEoCidPa5MpktrQK
+HTYlxu5EIZKwOGjM7LA2ugj0o7JawNHWRuJg23TBJ1HKD+yat4jUscq66G7h/cz4
+sV0YJUYGhLKF2JKril8xStTxMBGmtzPr+UPmBULAwPppSnePsuqbDTMnDOIUhE0C
+AwEAAaOCAr0wggK5MIIBXwYDVR0gBIIBVjCCAVIwggFOBggrBgEEAcNSBTCCAUAw
+PQYIKwYBBQUHAgEWMWh0dHBzOi8vd3d3LmUtY2VydGNoaWxlLmNsL3BvbGl0aWNh
+cy15LXByYWN0aWNhcy8wgf4GCCsGAQUFBwICMIHxHoHuAEUAbAAgAHIAZQBzAHAA
+bwBuAGQAZQByACAAZQBzAHQAZQAgAGYAbwByAG0AdQBsAGEAcgBpAG8AIABlAHMA
+IAB1AG4AIAByAGUAcQB1AGkAcwBpAHQAbwAgAGkAbgBkAGkAcwBwAGUAbgBzAGEA
+YgBsAGUAIABwAGEAcgBhACAAZABhAHIAIABpAG4AaQBjAGkAbwAgAGEAbAAgAHAA
+cgBvAGMAZQBzAG8AIABkAGUAIABjAGUAcgB0AGkAZgBpAGMAYQBjAGkA8wBuAC4A
+IABQAG8AcwB0AGUAcgBpAG8AcgBtAGUAbgB0AGUALDAdBgNVHQ4EFgQU98262TnC
+yzqH7YiYEhv7KDbR/aowCwYDVR0PBAQDAgTwMCMGA1UdEQQcMBqgGAYIKwYBBAHB
+AQGgDBYKMTY0NzgzNzAtNzAfBgNVHSMEGDAWgBR01iGz9FroLXy7WQZjQ+9ptDqT
+BDBABgNVHR8EOTA3MDWgM6Axhi9odHRwOi8vY3JsLmVjZXJ0Y2hpbGUuY2wvRS1D
+RVJUQ0hJTEVDQUZFUzAyLmNybDA9BggrBgEFBQcBAQQxMC8wLQYIKwYBBQUHMAGG
+IWh0dHA6Ly9vY3NwZmVzLmVjZXJ0Y2hpbGUuY2wvb2NzcDA8BgkrBgEEAYI3FQcE
+LzAtBiUrBgEEAYI3FQiB3dJNl9Q6homdBoeIzm+Dr8xgRYbvml6G549RAgFkAgEH
+MCMGA1UdEgQcMBqgGAYIKwYBBAHBAQKgDBYKOTY5MjgxODAtNTANBgkqhkiG9w0B
+AQsFAAOCAgEAfFOXBbwvjbPbQDRMHccG+yYDUTq5Ww80/KegCP87Pt9ocQSG01cT
+uMdj1tUYieIcquV+0CaMGQeQUKch1gcHqzr3UpTgIR8Uy0J2czRdAhKJQ9y15QSN
+7eewDVSGe8IbekwiS9wjdvx5zMFm9UkwmmYdljgV81mprFxWbKJQxyFluURagwXD
+lsmap/Uml+dZXYL8EeRFwlv6p02/iWcL6c0HdD7pamfyef1Cxyb+J1INajbi1OJo
+5SG2CKqp5/NSBcToY3VYK2Q0AKHRLSaMbpaYSNY2mA/EaOly9gjN31hfI3ecPNQ3
+9UFCziuKzU/BJDtdWG7MH3PYLZHl3VXUF0mn77/AvaUfaCQVq5FUvU3UL2i+vXa5
+cCGlpfFsixd4rxqEi1n8be8zHnDKCDEcjb2qMdB9er6OpBE08p68EHMzh0KmXDa5
+UHBQTscIsqMAITQ8hNTdT01opZ1Xd7B8dSILptwxR/Dq2vQgY7zkQY2DyIfIMrTQ
+MJ3vO9A1hHPMu/S5YuQhB/0zThK1TEGKkdu2yxONmYxB69EbCe0BbMDRVw7tRqY1
+QanmvpubPHqqUeea15py1WpqD2wa7BeeslJNQ3phhN7zK2P1SoIIvW5KBwXzX+po
+psuirjhv9YtRsnUL2HuREpfKfXqaOX8UNK8Fnc4tfXDY4H13KyT7J7E=
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+<DTE version="1.0" >
+<Documento ID="DTE-52-1585812-96806110-0">
+<Encabezado>
+<IdDoc>
+<TipoDTE>52</TipoDTE>
+<Folio>1585812</Folio>
+<FchEmis>2022-09-06</FchEmis>
+<TipoDespacho>2</TipoDespacho>
+<IndTraslado>1</IndTraslado>
+<TpoImpresion>N</TpoImpresion>
+<FmaPago>1</FmaPago>
+<FchVenc>2022-09-06</FchVenc>
+</IdDoc>
+<Emisor>
+<RUTEmisor>96806110-0</RUTEmisor>
+<RznSoc>Dartel S.A</RznSoc>
+<GiroEmis>Distribuci?n de art?culos el?ctricos e iluminaci?n</GiroEmis>
+<Acteco>515009</Acteco>
+<DirOrigen>Avda. Matta 326</DirOrigen>
+<CmnaOrigen>Santiago</CmnaOrigen>
+<CiudadOrigen>Santiago</CiudadOrigen>
+<CdgVendedor>C.</CdgVendedor>
+</Emisor>
+<Receptor>
+<RUTRecep>76252650-6</RUTRecep>
+<CdgIntRecep>686295</CdgIntRecep>
+<RznSocRecep>DHEMAX INGENIEROS LIMITADA</RznSocRecep>
+<GiroRecep>INGENIERIA Y PROYECTOS</GiroRecep>
+<Contacto>99101147</Contacto>
+<DirRecep>SIETE ORIENTE 1234</DirRecep>
+<CmnaRecep>VI?A DEL MAR</CmnaRecep>
+<CiudadRecep>VI?A DEL MAR</CiudadRecep>
+</Receptor>
+<RUTSolicita>76252650-6</RUTSolicita>
+<Transporte>
+<DirDest>SIETE ORIENTE 1234</DirDest>
+<CmnaDest>VI?A DEL MAR</CmnaDest>
+<CiudadDest>VI?A DEL MAR</CiudadDest>
+</Transporte>
+<Totales>
+<MntNeto>1384850</MntNeto>
+<MntExe>0</MntExe>
+<TasaIVA>19</TasaIVA>
+<IVA>263122</IVA>
+<MntTotal>1647972</MntTotal>
+</Totales>
+</Encabezado>
+<Detalle>
+<NroLinDet>1</NroLinDet>
+<CdgItem>
+<TpoCodigo>Interno</TpoCodigo>
+<VlrCodigo>330101619</VlrCodigo>
+</CdgItem>
+<NmbItem>CABLE RV-K POWERFLEX  1x 16.0mm2 1KV NG - 3301016.</NmbItem>
+<DscItem>CABLE RV-K POWERFLEX  1x 16.0mm2 1KV NG - 3301016.</DscItem>
+<QtyItem>300.00</QtyItem>
+<UnmdItem>METR</UnmdItem>
+<PrcItem>2506.77</PrcItem>
+<MontoItem>752031</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>2</NroLinDet>
+<CdgItem>
+<TpoCodigo>Interno</TpoCodigo>
+<VlrCodigo>330301619</VlrCodigo>
+</CdgItem>
+<NmbItem>CABLE RV-K POWERFLEX  3x 16.0mm2 1KV NG - 3303016.</NmbItem>
+<DscItem>CABLE RV-K POWERFLEX  3x 16.0mm2 1KV NG - 3303016.</DscItem>
+<QtyItem>75.00</QtyItem>
+<UnmdItem>METR</UnmdItem>
+<PrcItem>8437.59</PrcItem>
+<MontoItem>632819</MontoItem>
+</Detalle>
+<Referencia>
+<NroLinRef>1</NroLinRef>
+<TpoDocRef>33</TpoDocRef>
+<FolioRef>3239704</FolioRef>
+<FchRef>2022-09-01</FchRef>
+</Referencia>
+<TED version="1.0">
+<DD>
+<RE>96806110-0</RE>
+<TD>52</TD>
+<F>1585812</F>
+<FE>2022-09-06</FE>
+<RR>76252650-6</RR>
+<RSR>DHEMAX INGENIEROS LIMITADA</RSR>
+<MNT>1647972</MNT>
+<IT1>CABLE RV-K POWERFLEX  1x 16.0mm2 1KV NG</IT1>
+<CAF version="1.0">
+<DA>
+<RE>96806110-0</RE>
+<RS>DARTEL S A</RS>
+<TD>52</TD>
+<RNG>
+<D>1583001</D>
+<H>1683000</H>
+</RNG>
+<FA>2022-06-01</FA>
+<RSAPK>
+<M>4fmHmaH0ETon9wcujVOBAQQVKc8pJ0wTBCV+EFBxeYOoVssHDLlsR4asFqPgeikb6fzJAoPrdaIRSWt4mPQztw==</M>
+<E>Aw==</E>
+</RSAPK>
+<IDK>300</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">SnK+JQcBYAOGCvO4QAxwqq11QhoISB47IfapkcWp7ByuMjs1asxm+s6yExHiDW7pEeYsYk1Cw3iGwPqRy/M28g==</FRMA>
+</CAF>
+<TSTED>2022-09-06T12:27:02</TSTED>
+</DD>
+<FRMT algoritmo="SHA1withRSA">2NxURQt3mEwz3lK/Fq3usG8xpGwWKSKmRzjIEwGJN6nKdLs6EBa81eP3+mwHW6I38nqyUCA+cuOnZLf3omozUw==</FRMT>
+</TED>
+<TmstFirma>2022-09-06T15:27:28</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#DTE-52-1585812-96806110-0">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>Zhh7kNtGihVPSfYl9HKfIAW4/yY=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+WKSOJmIO/xQpvTLsaxJEiNBR1V+DvwwgiqFHLci0ybPGUGp0djPVWh4KBGR+o6XgawPcFd/WdUZ3
+QJeuM/rRJ3qZYYfHNcsEfQuLQEaRYWrGsQPo5Q+eUkbQ897EMn3syHm2vBJk8WIcWhhCfp3kH8N+
+JSPzdLkfeh7aiVVNSRc=
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+qoFMYckmwLVe4QqgPf/Z7YCh1KDal+RhPz42ZG20Tp6HJc6nDCz3l5OuRYMNwnoJIOlPEPvjVuzD
+I6XxJGxaL2RSleXYb1J2Yz6CdTc2XOQQsd5BkGXXr9RpjfdZY6r6KZMw4+tusnjdWYouAb9B2iCJ
+LKVGwFPa3BFCmg2dnqM=
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGSzCCBTOgAwIBAgIKS7+P7gAAABHDSDANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0yMDA3MjAxMzQzMThaFw0yMzA3MjAxMzQzMTha
+MIHMMQswCQYDVQQGEwJDTDEqMCgGA1UECAwhUkVHScOTTiBNRVRST1BPTElUQU5BIERFIFNBTlRJ
+QUdPMREwDwYDVQQHEwhTYW50aWFnbzETMBEGA1UEChMKRkFDRUxFIFNQQTEXMBUGA1UECxMOQURN
+SU5JU1RSQVRJVkExKTAnBgNVBAMTIFBBVFJJQ0lBIEFOR0VMSUNBIFNBTElOQVMgR0FUSUNBMSUw
+IwYJKoZIhvcNAQkBFhZjZXJ0aWZpY2Fkb3NAZmFjZWxlLmNsMIGfMA0GCSqGSIb3DQEBAQUAA4GN
+ADCBiQKBgQCqgUxhySbAtV7hCqA9/9ntgKHUoNqX5GE/PjZkbbROnoclzqcMLPeXk65Fgw3Cegkg
+6U8Q++NW7MMjpfEkbFovZFKV5dhvUnZjPoJ1NzZc5BCx3kGQZdev1GmN91ljqvopkzDj626yeN1Z
+ii4Bv0HaIIkspUbAU9rcEUKaDZ2eowIDAQABo4ICqTCCAqUwggFPBgNVHSAEggFGMIIBQjCCAT4G
+CCsGAQQBw1IFMIIBMDAtBggrBgEFBQcCARYhaHR0cDovL3d3dy5lLWNlcnRjaGlsZS5jbC9DUFMu
+aHRtMIH+BggrBgEFBQcCAjCB8R6B7gBFAGwAIAByAGUAcwBwAG8AbgBkAGUAcgAgAGUAcwB0AGUA
+IABmAG8AcgBtAHUAbABhAHIAaQBvACAAZQBzACAAdQBuACAAcgBlAHEAdQBpAHMAaQB0AG8AIABp
+AG4AZABpAHMAcABlAG4AcwBhAGIAbABlACAAcABhAHIAYQAgAGQAYQByACAAaQBuAGkAYwBpAG8A
+IABhAGwAIABwAHIAbwBjAGUAcwBvACAAZABlACAAYwBlAHIAdABpAGYAaQBjAGEAYwBpAPMAbgAu
+ACAAUABvAHMAdABlAHIAaQBvAHIAbQBlAG4AdABlACwwHQYDVR0OBBYEFC4yirHwfLtuENvip9bT
+IZtb2UyAMAsGA1UdDwQEAwIE8DAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwWCjA3OTQwOTk5LTUw
+HwYDVR0jBBgwFoAUeOE+n9ISs3o8jc0wDlOzQykHs1UwPgYDVR0fBDcwNTAzoDGgL4YtaHR0cDov
+L2NybC5lLWNlcnRjaGlsZS5jbC9lY2VydGNoaWxlY2FGRVMuY3JsMDoGCCsGAQUFBwEBBC4wLDAq
+BggrBgEFBQcwAYYeaHR0cDovL29jc3AuZWNlcnRjaGlsZS5jbC9vY3NwMD0GCSsGAQQBgjcVBwQw
+MC4GJisGAQQBgjcVCILcgy+Fk4xmhdWdF4Li3CeB7+w8YYHLnhSGqIJYAgFkAgEEMCMGA1UdEgQc
+MBqgGAYIKwYBBAHBAQKgDBYKOTY5MjgxODAtNTANBgkqhkiG9w0BAQUFAAOCAQEATMAGNbTDqIxw
+P9JtYUOCMP3k3OzLoMgGdSDr8SRv1YvaJf9hUnshy5fzWkMZnBwtmYN653q6d5g+ZSnUovduXJd1
+BdTMIFfrruzpZEMWl0PAvaNxMAunEJPMtyXwQrQXidqr8RAQoO3vOHs5igXKR2pBGvyfeuI2ZfZA
+VM4qGgAgJ2mPEElJUhZjZu6kxo+obXFXwZdsE9KWZInE0xhMa+4fmpDwgxSJ6CjUvc9pfQo1sQKw
+Uk4kkVF4TQJBgNFsoly4nB2at7/PfiCH9clEhLriIJkqryK4VJv5mG0ZQQc+9Src/1uoKjaV3W4X
+eSNrLIZt+z7gy0F+I/dwL5fdhQ==
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+<DTE version="1.0" >
+<Documento ID="Sphinx-R84662400T33F74568">
+<Encabezado>
+<IdDoc>
+<TipoDTE>33</TipoDTE>
+<Folio>74568</Folio>
+<FchEmis>2022-09-06</FchEmis>
+<FmaPago>2</FmaPago>
+</IdDoc>
+<Emisor>
+<RUTEmisor>84662400-7</RUTEmisor>
+<RznSoc>Edmundo Garcia y Compania Ltda</RznSoc>
+<GiroEmis>Otros Productos en pequenos almacenes no especializados</GiroEmis>
+<Telefono>32-2696323 </Telefono>
+<CorreoEmisor>ventas.web@radiovision.cl</CorreoEmisor>
+<Acteco>474100</Acteco>
+<Acteco>474200</Acteco>
+<Acteco>475902</Acteco>
+<Acteco>477399</Acteco>
+<Sucursal>San Antonio 1311 </Sucursal>
+<CdgSIISucur>006791708</CdgSIISucur>
+<DirOrigen>SAN ANTONIO #1311 LOCAL 7</DirOrigen>
+<CmnaOrigen>VI?A DEL MAR</CmnaOrigen>
+<CiudadOrigen>Vi?a del Mar</CiudadOrigen>
+</Emisor>
+<Receptor>
+<RUTRecep>76252650-6</RUTRecep>
+<RznSocRecep>INVERSIONES DHEMAX INGENIEROS SPA</RznSocRecep>
+<GiroRecep>ELECTRONICA</GiroRecep>
+<CorreoRecep>fgonzalez@dhemax.com</CorreoRecep>
+<DirRecep>7 ORIENTE 1234</DirRecep>
+<CmnaRecep>VI?A DEL MAR</CmnaRecep>
+<CiudadRecep>VI?A DEL MAR</CiudadRecep>
+</Receptor>
+<Totales>
+<MntNeto>21429</MntNeto>
+<MntExe>0</MntExe>
+<TasaIVA>19</TasaIVA>
+<IVA>4072</IVA>
+<MntTotal>25501</MntTotal>
+</Totales>
+</Encabezado>
+<Detalle>
+<NroLinDet>1</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>31715</VlrCodigo>
+</CdgItem>
+<NmbItem>CONVERTIDOR HDMI A VGA AUDIO TM100522</NmbItem>
+<QtyItem>3</QtyItem>
+<UnmdItem>UN</UnmdItem>
+<PrcItem>7142.857</PrcItem>
+<MontoItem>21429</MontoItem>
+</Detalle>
+<TED version="1.0">
+<DD>
+<RE>84662400-7</RE>
+<TD>33</TD>
+<F>74568</F>
+<FE>2022-09-06</FE>
+<RR>76252650-6</RR>
+<RSR>INVERSIONES DHEMAX INGENIEROS SPA</RSR>
+<MNT>25501</MNT>
+<IT1>CONVERTIDOR HDMI A VGA AUDIO TM100522</IT1>
+<CAF version="1.0">
+<DA>
+<RE>84662400-7</RE>
+<RS>EDMUNDO GARCIA Y COMPANIA LTDA</RS>
+<TD>33</TD>
+<RNG>
+<D>74491</D>
+<H>74590</H>
+</RNG>
+<FA>2022-05-30</FA>
+<RSAPK>
+<M>s+NG6cNrCG3gWInCuaad7zpA2P7JZ4ZzHywAexaESZFF5SQdox2fU/tAga3YZ+tBW7OIK5Q9z98a6b02ezxLTQ==</M>
+<E>Aw==</E>
+</RSAPK>
+<IDK>300</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">OxuETxL7Y7B77V956Djh7Ya2xhl+3IlBgEDKSGW5RlTU+90wQsl4F6ckf3n53dyf54oy177krL3iqnKzxnCisQ==</FRMA>
+</CAF>
+<TSTED>2022-09-06T10:41:07</TSTED>
+</DD>
+<FRMT algoritmo="SHA1withRSA">Zo/qC2fpF5rEonCz0D4/78JmC8LhOGbfLttn8DmbjT4OVD7PKXWI4BTFrzUM+/uC015zCBiILl2+Q1tgsAe2Fg==</FRMT>
+</TED>
+<TmstFirma>2022-09-06T10:41:07</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#Sphinx-R84662400T33F74568">
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>mYfYLebPM7ORu2iFYX9J1S85YL0=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+X5QbXqOqMpKEQlAxYqX5bm9fhg/LgoroalsIh1VyumUFqIpi6RGRd4UzR79bBdNR5bDcrgrx0QWn
+olvduVOmoalevZoPbQxxnITM/MW3m4xutSr0LfkekVe2HrpmR4RPNDAR03U8a5a6dzOII4sDww1x
+WBeNt69KX3VJJ25Ur0q6+BQDUMN/czjGtNKH9XzXob/RVDNhbelSrTCt/+O0j8KJBYl4a2qv8x5X
+Q8ZOTT30CFd8nArI26nPjFUtNMY3+b2mbLmDdSgmxY5fekrGAKYcwidkmqn9ocTGfS4veDs5wCYJ
+ugJqzYVPEU5muBLmh7uRTrssFic8j1ZlKm7wBQ==
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+5+Nlm/TuFx+ifsSAaT6Guzr0uLhhmFtNDbNMTjiYE52ztjnepkQJAehbqBvvq/DRS3TjpGIzfAiu
+fZa61dvGEdp12XO8yKriuwSRkqgtaFFBWgREWestlZMYKkxSqerki0ftkkBmKhiN5r7KDTqM2tUM
+Iee+pbLtwxtJJaBbkayKSoU0MfPdBdLVjez47R1fUDjVbiEwTYf3IwkCg2ZFlF2M7qjSTGo72e4k
+w1I8/Y2tsls8GzqaW0oyjQFoZnILcAlMoffJP++zh9rM4G+4hviWwjRnkaqlzm2GgDlK8o4UitDC
+Z0L7u+/FVG2j9jm2iGcUngXfBPlDeL721PEvHQ==
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIHrzCCBZegAwIBAgIKZ2PxVQABAAGGiTANBgkqhkiG9w0BAQsFADCBvzELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMR4wHAYDVQQD
+ExVFLUNFUlRDSElMRSBDQSBGRVMgMDIxJjAkBgkqhkiG9w0BCQEWF3NjbGllbnRlQGUtY2VydGNo
+aWxlLmNsMB4XDTIyMDYwMTE2MDY1NloXDTI1MDUzMTE2MDY1NlowgasxCzAJBgNVBAYTAkNMMRMw
+EQYDVQQIEwpWQUxQQVJBSVNPMRQwEgYDVQQHDAtWQUxQQVJBw41TTzEeMBwGA1UEChMVRURNVU5E
+TyAgR0FSQ0lBIEhVR0FTMQowCAYDVQQLDAEqMR4wHAYDVQQDExVFRE1VTkRPICBHQVJDSUEgSFVH
+QVMxJTAjBgkqhkiG9w0BCQEWFkVHQVJDSUFAUkFESU9WSVNJT04uQ0wwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDn42Wb9O4XH6J+xIBpPoa7OvS4uGGYW00Ns0xOOJgTnbO2Od6mRAkB
+6FuoG++r8NFLdOOkYjN8CK59lrrV28YR2nXZc7zIquK7BJGSqC1oUUFaBERZ6y2VkxgqTFKp6uSL
+R+2SQGYqGI3mvsoNOoza1Qwh576lsu3DG0kloFuRrIpKhTQx890F0tWN7PjtHV9QONVuITBNh/cj
+CQKDZkWUXYzuqNJMajvZ7iTDUjz9ja2yWzwbOppbSjKNAWhmcgtwCUyh98k/77OH2szgb7iG+JbC
+NGeRqqXObYaAOUryjhSK0MJnQvu778VUbaP2ObaIZxSeBd8E+UN4vvbU8S8dAgMBAAGjggK9MIIC
+uTCCAV8GA1UdIASCAVYwggFSMIIBTgYIKwYBBAHDUgUwggFAMD0GCCsGAQUFBwIBFjFodHRwczov
+L3d3dy5lLWNlcnRjaGlsZS5jbC9wb2xpdGljYXMteS1wcmFjdGljYXMvMIH+BggrBgEFBQcCAjCB
+8R6B7gBFAGwAIAByAGUAcwBwAG8AbgBkAGUAcgAgAGUAcwB0AGUAIABmAG8AcgBtAHUAbABhAHIA
+aQBvACAAZQBzACAAdQBuACAAcgBlAHEAdQBpAHMAaQB0AG8AIABpAG4AZABpAHMAcABlAG4AcwBh
+AGIAbABlACAAcABhAHIAYQAgAGQAYQByACAAaQBuAGkAYwBpAG8AIABhAGwAIABwAHIAbwBjAGUA
+cwBvACAAZABlACAAYwBlAHIAdABpAGYAaQBjAGEAYwBpAPMAbgAuACAAUABvAHMAdABlAHIAaQBv
+AHIAbQBlAG4AdABlACwwHQYDVR0OBBYEFE3g7jO/5arH/xHySUwG4zeh3sPqMAsGA1UdDwQEAwIE
+8DAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwWCjA0MjE4NzA3LTAwHwYDVR0jBBgwFoAUdNYhs/Ra
+6C18u1kGY0PvabQ6kwQwQAYDVR0fBDkwNzA1oDOgMYYvaHR0cDovL2NybC5lY2VydGNoaWxlLmNs
+L0UtQ0VSVENISUxFQ0FGRVMwMi5jcmwwPQYIKwYBBQUHAQEEMTAvMC0GCCsGAQUFBzABhiFodHRw
+Oi8vb2NzcGZlcy5lY2VydGNoaWxlLmNsL29jc3AwPAYJKwYBBAGCNxUHBC8wLQYlKwYBBAGCNxUI
+gd3STZfUOoaJnQaHiM5vg6/MYEWG0uwIhsfKfQIBZAIBBzAjBgNVHRIEHDAaoBgGCCsGAQQBwQEC
+oAwWCjk2OTI4MTgwLTUwDQYJKoZIhvcNAQELBQADggIBAC0WHsyqQ9pH6i10c7pGqaLIS/1LUGwH
+ZcdxHjFWmsUgS7hoejiknZTMJbeaNQWt/vH9GyerCaoWHXOBkgWU81t1FcL2tiztTjNaXr/Ts21X
+mh1rkZMNhXcJDpVd81Wrayk6ble6iJXiRSjS6NKlIPLUJ68jo1l3w7qleH1N1913D2i3mjzU6jYo
++z5Ak+uyMRyb5DhZ9zfsCJpLPYQSwA1jpEQORSNgQatIfd5fhgdellDbB5pVNvVnoyBSEW45JiGE
+UpblVOrpiN4cs2HgWTgkvx64mmDKBqkbXfhs+YHZUYgsY0Q9gmUroGdiWxgXl70tk07DTVnAWf5i
+EehXYYVWIePKFPpAKfsbHDsHq9dk/dQRO7WkuYcGP+BJUMMb/GRhJUgTY4mj9dtVbrP94XOfenK3
+4SFDKNFZUoECVchojY+walzEO8mcpaVvgfhHZ3SHpsV3QLZE+Gre64vR/S8HisZQvuYN7g2N7D2Y
+Rlvgijq9BJgFjKowfErhNtczZdEzAUeH6wzwibn7+8ffBfxxeS9KJbP/N4m7b84q7MJJN8l14xjZ
+t9B4TIopwy3+g0DnHukyK4cFGLxE0J1R3vaqg+HOlHXWiC+AKbMUh7+bGODQHkTsYEbtD1l/ket2
+sysJaS1YmjOKk68rg3tTgaGz2w7HsID8dEQAEkCjyJLw
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature>
+</DTE>
+<DTE version="1.0" >
+			<Documento ID="R76111900F457123T33">
+				<Encabezado>
+					<IdDoc>
+						<TipoDTE>33</TipoDTE>
+						<Folio>457123</Folio>
+						<FchEmis>2022-09-06</FchEmis>
+						<FmaPago>1</FmaPago>
+						<FchVenc>2022-09-06</FchVenc>
+					</IdDoc>
+					<Emisor>
+						<RUTEmisor>76111900-1</RUTEmisor>
+						<RznSoc>SOC COM Y DIST GABRIEL VASQUEZ Y CIA LTD</RznSoc>
+						<GiroEmis>ESTACION DE SERVICIO</GiroEmis>
+						<Telefono>0</Telefono>
+						<CorreoEmisor>0</CorreoEmisor>
+						<Acteco>505000</Acteco>
+						<Sucursal>60113</Sucursal>
+						<DirOrigen>CAMINO LONGITUDINAL SUR KM 27</DirOrigen>
+						<CmnaOrigen>SAN BERNARDO</CmnaOrigen>
+						<CiudadOrigen>0</CiudadOrigen>
+						<CdgVendedor>0-0 / 0</CdgVendedor>
+					</Emisor>
+					<Receptor>
+						<RUTRecep>76252650-6</RUTRecep>
+						<RznSocRecep>DHEMAX INGENIEROS LTDA</RznSocRecep>
+						<GiroRecep>INGENIERIA Y PROYECTOS</GiroRecep>
+						<DirRecep>7 ORIENTE 1234</DirRecep>
+						<CmnaRecep>VINA DEL MAR</CmnaRecep>
+						<CiudadRecep>0</CiudadRecep>
+					</Receptor>
+					<Transporte>
+						<Patente>SBCD63</Patente>
+						<Chofer>
+							<RUTChofer>12507363-8</RUTChofer>
+							<NombreChofer>0</NombreChofer>
+						</Chofer>
+					</Transporte>
+					<Totales>
+						<MntNeto>26005</MntNeto>
+						<TasaIVA>19</TasaIVA>
+						<IVA>4941</IVA>
+						<IVAProp>4941</IVAProp>
+						<ImptoReten>
+							<TipoImp>35</TipoImp>
+							<MontoImp>9057</MontoImp>
+						</ImptoReten>
+						<MntTotal>40003</MntTotal>
+					</Totales>
+				</Encabezado>
+				<Detalle>
+					<NroLinDet>1</NroLinDet>
+					<CdgItem>
+						<TpoCodigo>1</TpoCodigo>
+						<VlrCodigo>4</VlrCodigo>
+					</CdgItem>
+					<NmbItem>GASOLINA 93</NmbItem>
+					<DscItem>GASOLINA 93</DscItem>
+					<QtyItem>30.01</QtyItem>
+					<Subcantidad>
+						<SubQty>40003</SubQty>
+						<SubCod>SubPTotal</SubCod>
+					</Subcantidad>
+					<Subcantidad>
+						<SubQty>357.57</SubQty>
+						<SubCod>IEF</SubCod>
+					</Subcantidad>
+					<Subcantidad>
+						<SubQty>55.7869</SubQty>
+						<SubCod>IEV/FEEP</SubCod>
+					</Subcantidad>
+					<Subcantidad>
+						<SubQty>1333</SubQty>
+						<SubCod>PUnitario</SubCod>
+					</Subcantidad>
+					<UnmdItem>LTS</UnmdItem>
+					<PrcItem>866.5445</PrcItem>
+					<CodImpAdic>35</CodImpAdic>
+					<MontoItem>26005</MontoItem>
+				</Detalle>
+				<TED version="1.0">
+					<DD>
+						<RE>76111900-1</RE>
+						<TD>33</TD>
+						<F>457123</F>
+						<FE>2022-09-06</FE>
+						<RR>76252650-6</RR>
+						<RSR>DHEMAX INGENIEROS LTDA</RSR>
+						<MNT>40003</MNT>
+						<IT1>GASOLINA 93</IT1>
+						<CAF version="1.0">
+<DA>
+<RE>76111900-1</RE>
+<RS>SOC COMERCIALIZADORA Y DISTRIBUIDORA GAB</RS>
+<TD>33</TD>
+<RNG><D>454457</D><H>460456</H></RNG>
+<FA>2022-07-06</FA>
+<RSAPK><M>3gbtKxsDGdNMf/t0bd3qLB2Fmhqr022YQPjDtew+Q5hKsATr0MbPMbjs+zh/IdEsxCoWCwyJMBNKF8IeFQ0t3w==</M><E>Aw==</E></RSAPK>
+<IDK>300</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">MEVYXI1tjegUe4n4hpJ3mWfnoJTOzQteYeZ/Kga1LPVdQknQdJtOxtxZahOWvUwRHkgOChw4/qy3X022P+2sKA==</FRMA>
+</CAF><TSTED>2022-09-06T11:18:25</TSTED>
+					</DD>
+				<FRMT algoritmo="SHA1withRSA">Df4HnR3jcaOmXQ4fnl9+fIGO6NpUiXhJgY0QzRTkPht4/HlfdqqVSU6Ut1ut3DynA1/BSPJ/E3bpzLy5cS09xQ==</FRMT></TED>
+				<TmstFirma>2022-09-06T11:18:25</TmstFirma>
+			</Documento>
+		<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#R76111900F457123T33"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Ivgujamy6ND4uyx/iweERz1+c+8=</DigestValue></Reference></SignedInfo><SignatureValue>YudOEqH+ud23Z+yLIGHwLY95S0T0LBVLPKXC5iKZm9CoyC7yVRwqlMswfyUybGK8Nn0V+hz8O98UO8cHBdnWMVvWI21o0qj75fQ1BGYg+IMJud1BkDvKnUTw7qmtufNOebSqe8hzc+NdYtxnPrW3Ib0IMUhOhmaViwJkKwnnR8A=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>mIaj6x3aBs3BJLV2hG6Q4swjSqvQ3VaRuhTroDOVpB0+5uOtIdWqY8aRksTBfW0fVRifeVBbJDiovdR4hijqGt5gBOOK4YdCzwkhbIkW3usqA3uxc0pUwPVIC2h67uLz5l8BIAmy+wsqDYRG9O0jypxb5per/SV3Y2u+D2nCZyk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>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</X509Certificate></X509Data></KeyInfo></Signature></DTE>
+<DTE version="1.0" >
+<Documento ID="E000000003T034F0010256996">
+<Encabezado>
+<IdDoc>
+<TipoDTE>34</TipoDTE>
+<Folio>10256996</Folio>
+<FchEmis>2022-09-05</FchEmis>
+<FmaPago>2</FmaPago>
+<FchVenc>2022-09-26</FchVenc>
+</IdDoc>
+<Emisor>
+<RUTEmisor>76052927-3</RUTEmisor>
+<RznSoc>Soc. Conc. Autopista Nueva Vespucio Sur S.A.</RznSoc>
+<GiroEmis>Construcci?n, Conservaci?n y Explotaci?n de Obra P?blica Fiscal</GiroEmis>
+<Acteco>452020</Acteco>
+<DirOrigen>General Prieto 1430</DirOrigen>
+<CmnaOrigen>INDEPENDENCIA</CmnaOrigen>
+<CiudadOrigen>Regi?n Metropolitana</CiudadOrigen>
+<CdgVendedor>0</CdgVendedor>
+</Emisor>
+<Receptor>
+<RUTRecep>76252650-6</RUTRecep>
+<CdgIntRecep>762526506001</CdgIntRecep>
+<RznSocRecep>DHEMAX INGENIEROS LIMITADA</RznSocRecep>
+<GiroRecep>INGENIERIA . .</GiroRecep>
+<DirRecep>SIETE ORIENTE 1234</DirRecep>
+<CmnaRecep>VI?A DEL MAR</CmnaRecep>
+</Receptor>
+<Totales>
+<MntExe>17243</MntExe>
+<MntTotal>17243</MntTotal>
+</Totales>
+</Encabezado>
+<Detalle>
+<NroLinDet>1</NroLinDet>
+<IndExe>1</IndExe>
+<NmbItem>Peajes periodo VS</NmbItem>
+<QtyItem>1</QtyItem>
+<PrcItem>16947</PrcItem>
+<MontoItem>16947</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>2</NroLinDet>
+<IndExe>1</IndExe>
+<NmbItem>Interes por mora</NmbItem>
+<QtyItem>1</QtyItem>
+<PrcItem>296</PrcItem>
+<MontoItem>296</MontoItem>
+</Detalle>
+<TED version="1.0"><DD><RE>76052927-3</RE><TD>34</TD><F>10256996</F><FE>2022-09-05</FE><RR>76252650-6</RR><RSR>DHEMAX INGENIEROS LIMITADA</RSR><MNT>17243</MNT><IT1>Peajes periodo VS</IT1><CAF version="1.0"><DA><RE>76052927-3</RE><RS>SOCIEDAD CONCESIONARIA AUTOPISTA NUEVA V</RS><TD>34</TD><RNG><D>10168023</D><H>10288022</H></RNG><FA>2022-05-23</FA><RSAPK><M>x6Io3sKMP02I+rMTN17wWpPjaOqOB3hTHl+UfRegEmjCoj+/rjf5Qr4ohAYEYRkuMxrdQr0CvxFMBEE20w9yIw==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">OI45i7SaK7WnCL3wfj/KeqwD26Wsvxd4E78+28cj8m7qhEY91HJICT74OegpMun9SERRSQJ4KHtiPG4EEUaj9g==</FRMA></CAF><TSTED>2022-09-05T13:14:38</TSTED></DD><FRMT algoritmo="SHA1withRSA">wwOGY4m79e1MaSnEv/a+P3o9fS6UsabkE9EEZgzs74Ws7iOpo1zd209iAfKjWMepHwz8YR2l9spSdPBW8kK1Uw==</FRMT></TED><TmstFirma>2022-09-05T16:31:00</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#E000000003T034F0010256996">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>hUYgezxC9EsiVklyLtPSZdn/woI=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>l975J6/ADyuIaYNBn2XYfTKeTW4NgsEp9ZBzVZillty9q+VX1DMKy5xS3qwqBVxxCmw+nzBt6TnHpjS2ND11jb4JYOhQNjgC8xsdrCK7qcfTian4Emy58P+Qq0ZSGIK/jJUDAopkSocglF1x0hyKGPExLD4ZYdO3moqYbz7Tlb0=</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+mwBZbYYPMeHBUw2DTG45HyoOO5NXlJlegOie2yKHKz3q++SQWUhCr4Z5Ba7kd8uj
+rAMg/EUoXN2falMFF/ru6/wLB3wN3qt9g7c459Sn/KSYFrwjOVPb/7srX1eKlWyx
+WZAKcRa9gD9Wgy1beE2V3MYPBXVJdHXYlejqd7MqYC0=
+</Modulus>
+<Exponent>
+AQAB
+</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGXDCCBUSgAwIBAgIKJ5OFDQAAAA+4zDANBgkqhkiG9w0BAQUFADCB0jELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+LWNlcnRjaGlsZS5jbDAeFw0xOTEyMTMxNTQxMTlaFw0yMjEyMTIxNTQxMTlaMIHd
+MQswCQYDVQQGEwJDTDEqMCgGA1UECAwhUkVHScOTTiBNRVRST1BPTElUQU5BIERF
+IFNBTlRJQUdPMREwDwYDVQQHEwhTYW50aWFnbzEyMDAGA1UEChMpU09DSUVEQUQg
+Q09OQ0VTSU9OQVJJQSBDT1NUQU5FUkEgTk9SVEUgU0ExFjAUBgNVBAsTDUNPTkNF
+U0lPTkFSSUExIjAgBgNVBAMTGVJBSU1VTkRPIE1PTlNBTFZFIEJBUlJJR0ExHzAd
+BgkqhkiG9w0BCQEWEHJtb25iYUBnbWFpbC5jb20wgZ8wDQYJKoZIhvcNAQEBBQAD
+gY0AMIGJAoGBAJsAWW2GDzHhwVMNg0xuOR8qDjuTV5SZXoDontsihys96vvkkFlI
+Qq+GeQWu5HfLo6wDIPxFKFzdn2pTBRf67uv8Cwd8Dd6rfYO3OOfUp/ykmBa8IzlT
+2/+7K19XipVssVmQCnEWvYA/VoMtW3hNldzGDwV1SXR12JXo6nezKmAtAgMBAAGj
+ggKpMIICpTCCAU8GA1UdIASCAUYwggFCMIIBPgYIKwYBBAHDUgUwggEwMC0GCCsG
+AQUFBwIBFiFodHRwOi8vd3d3LmUtY2VydGNoaWxlLmNsL0NQUy5odG0wgf4GCCsG
+AQUFBwICMIHxHoHuAEUAbAAgAHIAZQBzAHAAbwBuAGQAZQByACAAZQBzAHQAZQAg
+AGYAbwByAG0AdQBsAGEAcgBpAG8AIABlAHMAIAB1AG4AIAByAGUAcQB1AGkAcwBp
+AHQAbwAgAGkAbgBkAGkAcwBwAGUAbgBzAGEAYgBsAGUAIABwAGEAcgBhACAAZABh
+AHIAIABpAG4AaQBjAGkAbwAgAGEAbAAgAHAAcgBvAGMAZQBzAG8AIABkAGUAIABj
+AGUAcgB0AGkAZgBpAGMAYQBjAGkA8wBuAC4AIABQAG8AcwB0AGUAcgBpAG8AcgBt
+AGUAbgB0AGUALDAdBgNVHQ4EFgQU4DRjVm3D2B2OoRMGdVQAHU2rLPowCwYDVR0P
+BAQDAgTwMCMGA1UdEQQcMBqgGAYIKwYBBAHBAQGgDBYKMDk1MDkzNzMtNjAfBgNV
+HSMEGDAWgBR44T6f0hKzejyNzTAOU7NDKQezVTA+BgNVHR8ENzA1MDOgMaAvhi1o
+dHRwOi8vY3JsLmUtY2VydGNoaWxlLmNsL2VjZXJ0Y2hpbGVjYUZFUy5jcmwwOgYI
+KwYBBQUHAQEELjAsMCoGCCsGAQUFBzABhh5odHRwOi8vb2NzcC5lY2VydGNoaWxl
+LmNsL29jc3AwPQYJKwYBBAGCNxUHBDAwLgYmKwYBBAGCNxUIgtyDL4WTjGaF1Z0X
+guLcJ4Hv7DxhgcueFIaoglgCAWQCAQQwIwYDVR0SBBwwGqAYBggrBgEEAcEBAqAM
+Fgo5NjkyODE4MC01MA0GCSqGSIb3DQEBBQUAA4IBAQCL0QvPHJ5m+jnhjIImSV+P
+cJsFNpu/Dxfn4It4BMPVac9qPGFHQLd/ba2d0v3EKm8TcBhALlPNDBJLiUlcnAz+
+IAicMdSg33VHNiDEllKM9GzXAM+bOKq8HOUWTvt8c56+kMPNd2FVKj8vTXYfopM4
+BvksWGxP5tNdNUAZTAblt+x48K919fb5p5SsLqd8G0u/IMYhFxCTff/oAOgNnfuG
+GQUZ5IrpJLyDy2R6OpLtfERffzWvqw/+YHiY3suW/4U7U6niNxd2CrETE1P/026X
+GVLFg5/hGW/FJSGeFskK9F6NHguq1/1vJIvHhqG610nzErR1kG/BH0ErjjUObk8d
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+<DTE version="1.0" ><Documento ID="D033F325307">
+<!-- DTE vs. 2.1.77-->
+<Encabezado>
+<IdDoc>
+<TipoDTE>33</TipoDTE>
+<Folio>325307</Folio>
+<FchEmis>2022-09-06</FchEmis>
+<TpoTranVenta>1</TpoTranVenta>
+<FmaPago>1</FmaPago>
+<TermPagoGlosa>TARJETA DE DEBITO</TermPagoGlosa>
+<FchVenc>2022-09-06</FchVenc>
+</IdDoc>
+<Emisor>
+<RUTEmisor>78731270-5</RUTEmisor>
+<RznSoc>NDU INGENIER?A LIMITADA</RznSoc>
+<GiroEmis>IMPORT. Y EXPORT. INSUMOS ELECT. INDUSTRIALES</GiroEmis>
+<Acteco>469000</Acteco>
+<Acteco>475909</Acteco>
+<Acteco>960909</Acteco>
+<DirOrigen>PASAJE KUNSTMANN 3561</DirOrigen>
+<CmnaOrigen>VALDIVIA</CmnaOrigen>
+<CiudadOrigen>VALDIVIA</CiudadOrigen>
+<CdgVendedor>172</CdgVendedor>
+</Emisor>
+<Receptor>
+<RUTRecep>76252650-6</RUTRecep>
+<CdgIntRecep>76252650</CdgIntRecep>
+<RznSocRecep>DHEMAX INGENIERIOS LTDA.</RznSocRecep>
+<GiroRecep>INGENIERIA</GiroRecep>
+<CorreoRecep>facturacionmipyme2@sii.cl</CorreoRecep>
+<DirRecep>SIETE ORIENTE N? 1234 </DirRecep>
+<CmnaRecep>VI?A DEL MAR</CmnaRecep>
+<CiudadRecep>VI?A DEL MAR</CiudadRecep>
+<CiudadPostal>2520000</CiudadPostal>
+</Receptor>
+<Totales>
+<MntNeto>29799</MntNeto>
+<TasaIVA>19</TasaIVA>
+<IVA>5662</IVA>
+<MntTotal>35461</MntTotal>
+</Totales>
+</Encabezado>
+<Detalle>
+<NroLinDet>1</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>450305200HT</VlrCodigo>
+</CdgItem>
+<NmbItem>Canaleta lisa 50X20x2000mm c/tabique separador</NmbItem>
+<DscItem>Canaleta lisa 50X20x2000mm c/tabique separador</DscItem>
+<QtyItem>8</QtyItem>
+<UnmdItem>TI</UnmdItem>
+<PrcItem>3676</PrcItem>
+<DescuentoPct>5</DescuentoPct>
+<DescuentoMonto>1470</DescuentoMonto>
+<MontoItem>27938</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>2</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>450305203HT</VlrCodigo>
+</CdgItem>
+<NmbItem>Angulo interno p/ canaleta 50x20mm</NmbItem>
+<DscItem>Angulo interno p/ canaleta 50x20mm</DscItem>
+<QtyItem>3</QtyItem>
+<UnmdItem>UN</UnmdItem>
+<PrcItem>375</PrcItem>
+<DescuentoPct>4.98</DescuentoPct>
+<DescuentoMonto>56</DescuentoMonto>
+<MontoItem>1069</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>3</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>450305202HT</VlrCodigo>
+</CdgItem>
+<NmbItem>Angulo externo p/ canaleta 50x20mm</NmbItem>
+<DscItem>Angulo externo p/ canaleta 50x20mm</DscItem>
+<QtyItem>1</QtyItem>
+<UnmdItem>UN</UnmdItem>
+<PrcItem>375</PrcItem>
+<DescuentoPct>5.07</DescuentoPct>
+<DescuentoMonto>19</DescuentoMonto>
+<MontoItem>356</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>4</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>450305204HT</VlrCodigo>
+</CdgItem>
+<NmbItem>Angulo plano p/ canaleta 50X20mm</NmbItem>
+<DscItem>Angulo plano p/ canaleta 50X20mm</DscItem>
+<QtyItem>1</QtyItem>
+<UnmdItem>UN</UnmdItem>
+<PrcItem>459</PrcItem>
+<DescuentoPct>5.01</DescuentoPct>
+<DescuentoMonto>23</DescuentoMonto>
+<MontoItem>436</MontoItem>
+</Detalle>
+<TED version="1.0"><DD><RE>78731270-5</RE><TD>33</TD><F>325307</F><FE>2022-09-06</FE><RR>76252650-6</RR><RSR>DHEMAX INGENIERIOS LTDA.</RSR><MNT>35461</MNT><IT1>Canaleta lisa 50X20x2000mm c/tabique sep</IT1><CAF version="1.0"><DA><RE>78731270-5</RE><RS>NDU INGENIERIA LTDA</RS><TD>33</TD><RNG><D>323774</D><H>333488</H></RNG><FA>2022-08-23</FA><RSAPK><M>qrDbHDQ5zTQhkIJhxRVrS77l1ZJwfmFl+pC29vqE02d/p9CY8jtIdYxvibcewyXvNQ7GIRf3CsRjmyNgd0IzwQ==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">SOn2JAw8HXXZNT8SID+pAQ1TKySV1Rqm5ANrfJExgZSubsme3i6TaghqM7N871ELDuwgDVHBffi6DfPQppktJQ==</FRMA></CAF><TSTED>2022-09-06T10:48:43</TSTED></DD><FRMT algoritmo="SHA1withRSA">iieSYf8rU1SX+U8OOdBMit6xjO2c7L5kV70YqCCLKLo6V+TCVXknMNJbyCR0D6HNrFuLyWzyIc2LklAOdbVvrw==</FRMT></TED><TmstFirma>2022-09-06T10:48:43</TmstFirma></Documento><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#D033F325307"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>n+xbzozjGg9EVq6Dmi7h4d/zqeI=</DigestValue></Reference></SignedInfo><SignatureValue>U6Hc/q74ZcgXMhaYNM0cDjTrsCCT2PwnyUZJUJpWhNRxJjgPr/UkX//0oMp2bFWTnrjDA0L3tj7+dtpw2mnvSRFP9zCH0NqVTi/+pzQPMNDPfdrvG0JVlXHiw0RF7Cyd7BDgTQt1gJE70/DHt/GxWukRh5kroAOKKRUHC+qCIwg=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uKbhkCHs/ljIGPDSxc9o4ovauQYQ4DFpyTg2d/F2HUNx9Dy1SS4aq+pdWiqRxrA0OjMBwUOV5GEJRYc7EnUTHa41lBlRRrLvfp+IoXK37kX5oorZpgfsotzrggCM1IfjaWF6nc9KCwHFcovH8dEL9hn9RskBlqtI5QfFReltqts=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIGMjCCBRqgAwIBAgIKFGmEwAAAABFz9zANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0yMDA2MTEyMDQ0NDRaFw0yMzA2MTEyMDQ0NDRa
+MIGzMQswCQYDVQQGEwJDTDEcMBoGA1UECAwTUkVHScOTTiBERSBMT1MgUklPUzERMA8GA1UEBxMI
+VmFsZGl2aWExIjAgBgNVBAoTGU5PUkJFUlRPICBERU9DQVJFUyAgVUxMT0ExCjAIBgNVBAsMASox
+IDAeBgNVBAMTF05PUkJFUlRPIERFT0NBUkVTIFVMTE9BMSEwHwYJKoZIhvcNAQkBFhJpbmZvcm1h
+dGljYUBuZHUuY2wwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALim4ZAh7P5YyBjw0sXPaOKL
+2rkGEOAxack4Nnfxdh1DcfQ8tUkuGqvqXVoqkcawNDozAcFDleRhCUWHOxJ1Ex2uNZQZUUay736f
+iKFyt+5F+aKK2aYH7KLc64IAjNSH42lhep3PSgsBxXKLx/HRC/YZ/UbJAZarSOUHxUXpbarbAgMB
+AAGjggKpMIICpTCCAU8GA1UdIASCAUYwggFCMIIBPgYIKwYBBAHDUgUwggEwMC0GCCsGAQUFBwIB
+FiFodHRwOi8vd3d3LmUtY2VydGNoaWxlLmNsL0NQUy5odG0wgf4GCCsGAQUFBwICMIHxHoHuAEUA
+bAAgAHIAZQBzAHAAbwBuAGQAZQByACAAZQBzAHQAZQAgAGYAbwByAG0AdQBsAGEAcgBpAG8AIABl
+AHMAIAB1AG4AIAByAGUAcQB1AGkAcwBpAHQAbwAgAGkAbgBkAGkAcwBwAGUAbgBzAGEAYgBsAGUA
+IABwAGEAcgBhACAAZABhAHIAIABpAG4AaQBjAGkAbwAgAGEAbAAgAHAAcgBvAGMAZQBzAG8AIABk
+AGUAIABjAGUAcgB0AGkAZgBpAGMAYQBjAGkA8wBuAC4AIABQAG8AcwB0AGUAcgBpAG8AcgBtAGUA
+bgB0AGUALDAdBgNVHQ4EFgQU2SWJBeKhuIOdSsvKOM5YPTTjBnowCwYDVR0PBAQDAgTwMCMGA1Ud
+EQQcMBqgGAYIKwYBBAHBAQGgDBYKMDU0MTE5MzctMjAfBgNVHSMEGDAWgBR44T6f0hKzejyNzTAO
+U7NDKQezVTA+BgNVHR8ENzA1MDOgMaAvhi1odHRwOi8vY3JsLmUtY2VydGNoaWxlLmNsL2VjZXJ0
+Y2hpbGVjYUZFUy5jcmwwOgYIKwYBBQUHAQEELjAsMCoGCCsGAQUFBzABhh5odHRwOi8vb2NzcC5l
+Y2VydGNoaWxlLmNsL29jc3AwPQYJKwYBBAGCNxUHBDAwLgYmKwYBBAGCNxUIgtyDL4WTjGaF1Z0X
+guLcJ4Hv7DxhgcueFIaoglgCAWQCAQQwIwYDVR0SBBwwGqAYBggrBgEEAcEBAqAMFgo5NjkyODE4
+MC01MA0GCSqGSIb3DQEBBQUAA4IBAQAbg7xfnFkVxsRVA+45UZcb+5Znl1qPq4xyrw1euRZ/nj2y
+Dmw9yE95e5shSSYOX6xvLVbw1n5KhevdYA4HeD/DKIynHcWPb9g/1F5YMsEhHT5UAdE3K+P9DxqB
+MqHvE+c4rd+OD1LFAo/BZhHtqDlifvmNNmsnggNpXNdGOz0lkilOKyf1wlNs9hxY6uWyLoa+Opk2
+7q5kGD9cGBJaXKSQXrLt4zsTYRo837oT9PmMzV5D/UPfO4T/24k4zwj3y+yEndxuZFuam/Q4BveO
+vI06OtI7oAWeGe9tguTfSI1nw97YJDNexrEMZEXVuInj9wSdKl2K9KB5nNzjrxaDY1+x</X509Certificate></X509Data></KeyInfo></Signature></DTE>
+<DTE version="1.0" >
+			<Documento ID="R76660002F185097T33">
+				<Encabezado>
+					<IdDoc>
+						<TipoDTE>33</TipoDTE>
+						<Folio>185097</Folio>
+						<FchEmis>2022-09-06</FchEmis>
+						<FmaPago>1</FmaPago>
+						<FchVenc>2022-09-06</FchVenc>
+					</IdDoc>
+					<Emisor>
+						<RUTEmisor>76660002-6</RUTEmisor>
+						<RznSoc>COMERCIAL LA PUNTA LIMITADA</RznSoc>
+						<GiroEmis>COMERCIALIZACION DE COMBUSTIBLES Y LUBRI</GiroEmis>
+						<Telefono>0</Telefono>
+						<CorreoEmisor>0</CorreoEmisor>
+						<Acteco>505000</Acteco>
+						<Sucursal>60470</Sucursal>
+						<DirOrigen>LONGITUDINAL SUR KM 66  7</DirOrigen>
+						<CmnaOrigen>MOSTAZAL</CmnaOrigen>
+						<CiudadOrigen>0</CiudadOrigen>
+						<CdgVendedor>0-0 / 0</CdgVendedor>
+					</Emisor>
+					<Receptor>
+						<RUTRecep>76252650-6</RUTRecep>
+						<RznSocRecep>DHEMAX INGENIEROS LTDA</RznSocRecep>
+						<GiroRecep>INGENIERIA Y PROYECTOS</GiroRecep>
+						<DirRecep>7 ORIENTE 1234</DirRecep>
+						<CmnaRecep>VINA DEL MAR</CmnaRecep>
+						<CiudadRecep>0</CiudadRecep>
+					</Receptor>
+					<Transporte>
+						<Patente>RRSP19</Patente>
+						<Chofer>
+							<RUTChofer>14928167-3</RUTChofer>
+							<NombreChofer>0</NombreChofer>
+						</Chofer>
+					</Transporte>
+					<Totales>
+						<MntNeto>32497</MntNeto>
+						<TasaIVA>19</TasaIVA>
+						<IVA>6174</IVA>
+						<IVAProp>6174</IVAProp>
+						<ImptoReten>
+							<TipoImp>35</TipoImp>
+							<MontoImp>11328</MontoImp>
+						</ImptoReten>
+						<MntTotal>49999</MntTotal>
+					</Totales>
+				</Encabezado>
+				<Detalle>
+					<NroLinDet>1</NroLinDet>
+					<CdgItem>
+						<TpoCodigo>1</TpoCodigo>
+						<VlrCodigo>4</VlrCodigo>
+					</CdgItem>
+					<NmbItem>GASOLINA 93</NmbItem>
+					<DscItem>GASOLINA 93</DscItem>
+					<QtyItem>37.537</QtyItem>
+					<Subcantidad>
+						<SubQty>49999</SubQty>
+						<SubCod>SubPTotal</SubCod>
+					</Subcantidad>
+					<Subcantidad>
+						<SubQty>357.57</SubQty>
+						<SubCod>IEF</SubCod>
+					</Subcantidad>
+					<Subcantidad>
+						<SubQty>55.7869</SubQty>
+						<SubCod>IEV/FEEP</SubCod>
+					</Subcantidad>
+					<Subcantidad>
+						<SubQty>1332</SubQty>
+						<SubCod>PUnitario</SubCod>
+					</Subcantidad>
+					<UnmdItem>LTS</UnmdItem>
+					<PrcItem>865.7325</PrcItem>
+					<CodImpAdic>35</CodImpAdic>
+					<MontoItem>32497</MontoItem>
+				</Detalle>
+				<TED version="1.0">
+					<DD>
+						<RE>76660002-6</RE>
+						<TD>33</TD>
+						<F>185097</F>
+						<FE>2022-09-06</FE>
+						<RR>76252650-6</RR>
+						<RSR>DHEMAX INGENIEROS LTDA</RSR>
+						<MNT>49999</MNT>
+						<IT1>GASOLINA 93</IT1>
+						<CAF version="1.0">
+<DA>
+<RE>76660002-6</RE>
+<RS>COMERCIAL LA PUNTA LIMITADA</RS>
+<TD>33</TD>
+<RNG><D>176473</D><H>190472</H></RNG>
+<FA>2022-04-19</FA>
+<RSAPK><M>y8PxbyUiZ/lWV+wzwLqlsz4vMWFMM3wEP32SeTazfhdseQus4RG/eDxfmJEoMUkBbD6bY09vSQwBlr4s5bJ3nw==</M><E>Aw==</E></RSAPK>
+<IDK>300</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">DcP8YvjyF7lGc6iWUjz/8QYNlzAtmK7LuF95Pli8c3arvidLq2/xiGyToi42SGmMANIi+NqTs5wBBjKhjV5prg==</FRMA>
+</CAF><TSTED>2022-09-06T10:43:27</TSTED>
+					</DD>
+				<FRMT algoritmo="SHA1withRSA">D6/V+5QlFmHgsR3sDRraX/6tnI5huQNOq/sWk3Ku+UraVyfTuDHlRXyJT8YG/X54V/8LEa86HCcmlRNQWJS7WA==</FRMT></TED>
+				<TmstFirma>2022-09-06T10:43:27</TmstFirma>
+			</Documento>
+		<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#R76660002F185097T33"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>k9xFgHJKTBBTHYpfv8CuhyLtOAs=</DigestValue></Reference></SignedInfo><SignatureValue>fYKDoZeAT2iJhTs0+jbA0fu9ig/e/h5wJVks4P8GMcmtgrQl+YPQ2CcoLy3ThrOoYxBIjaAgvxrc1GIOVDWKtM+hfaoRGO9oPD+dBEUB2/GfMDs/R/gM/9BB9DzBkboN8EHkBddJJM1fDwKpqubHlWxiix9T+5a09iUO5D/ruxs=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>mIaj6x3aBs3BJLV2hG6Q4swjSqvQ3VaRuhTroDOVpB0+5uOtIdWqY8aRksTBfW0fVRifeVBbJDiovdR4hijqGt5gBOOK4YdCzwkhbIkW3usqA3uxc0pUwPVIC2h67uLz5l8BIAmy+wsqDYRG9O0jypxb5per/SV3Y2u+D2nCZyk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>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</X509Certificate></X509Data></KeyInfo></Signature></DTE>
+<DTE version="1.0" ><Documento ID="D033F325270">
+<!-- DTE vs. 2.1.77-->
+<Encabezado>
+<IdDoc>
+<TipoDTE>33</TipoDTE>
+<Folio>325270</Folio>
+<FchEmis>2022-09-06</FchEmis>
+<TpoTranVenta>1</TpoTranVenta>
+<FmaPago>1</FmaPago>
+<TermPagoGlosa>DEPOSITO DIRECTO</TermPagoGlosa>
+<FchVenc>2022-09-07</FchVenc>
+</IdDoc>
+<Emisor>
+<RUTEmisor>78731270-5</RUTEmisor>
+<RznSoc>NDU INGENIER?A LIMITADA</RznSoc>
+<GiroEmis>IMPORT. Y EXPORT. INSUMOS ELECT. INDUSTRIALES</GiroEmis>
+<Acteco>469000</Acteco>
+<Acteco>475909</Acteco>
+<Acteco>960909</Acteco>
+<DirOrigen>PASAJE KUNSTMANN 3561</DirOrigen>
+<CmnaOrigen>VALDIVIA</CmnaOrigen>
+<CiudadOrigen>VALDIVIA</CiudadOrigen>
+<CdgVendedor>172</CdgVendedor>
+</Emisor>
+<Receptor>
+<RUTRecep>76252650-6</RUTRecep>
+<CdgIntRecep>76252650</CdgIntRecep>
+<RznSocRecep>DHEMAX INGENIERIOS LTDA.</RznSocRecep>
+<GiroRecep>INGENIERIA</GiroRecep>
+<CorreoRecep>facturacionmipyme2@sii.cl</CorreoRecep>
+<DirRecep>SIETE ORIENTE N? 1234 </DirRecep>
+<CmnaRecep>VI?A DEL MAR</CmnaRecep>
+<CiudadRecep>VI?A DEL MAR</CiudadRecep>
+<CiudadPostal>2520000</CiudadPostal>
+</Receptor>
+<Totales>
+<MntNeto>67450</MntNeto>
+<TasaIVA>19</TasaIVA>
+<IVA>12816</IVA>
+<MntTotal>80266</MntTotal>
+</Totales>
+</Encabezado>
+<Detalle>
+<NroLinDet>1</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>370912550FTC</VlrCodigo>
+</CdgItem>
+<NmbItem>Aislador cilindrico ?25x50, hilo M6</NmbItem>
+<DscItem>Aislador cilindrico ?25x50, hilo M6</DscItem>
+<QtyItem>100</QtyItem>
+<UnmdItem>UN</UnmdItem>
+<PrcItem>710</PrcItem>
+<DescuentoPct>5</DescuentoPct>
+<DescuentoMonto>3550</DescuentoMonto>
+<MontoItem>67450</MontoItem>
+</Detalle>
+<TED version="1.0"><DD><RE>78731270-5</RE><TD>33</TD><F>325270</F><FE>2022-09-06</FE><RR>76252650-6</RR><RSR>DHEMAX INGENIERIOS LTDA.</RSR><MNT>80266</MNT><IT1>Aislador cilindrico ?25x50, hilo M6</IT1><CAF version="1.0"><DA><RE>78731270-5</RE><RS>NDU INGENIERIA LTDA</RS><TD>33</TD><RNG><D>323774</D><H>333488</H></RNG><FA>2022-08-23</FA><RSAPK><M>qrDbHDQ5zTQhkIJhxRVrS77l1ZJwfmFl+pC29vqE02d/p9CY8jtIdYxvibcewyXvNQ7GIRf3CsRjmyNgd0IzwQ==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">SOn2JAw8HXXZNT8SID+pAQ1TKySV1Rqm5ANrfJExgZSubsme3i6TaghqM7N871ELDuwgDVHBffi6DfPQppktJQ==</FRMA></CAF><TSTED>2022-09-06T08:43:17</TSTED></DD><FRMT algoritmo="SHA1withRSA">OWLFT5pMYdTJRmJ+X0gKYg99uuDle7FYgv+WH3jCUMNI70FE+T2/hXgg20UwVpytNUrqAbMGAWYsbSrr9Bceag==</FRMT></TED><TmstFirma>2022-09-06T08:43:17</TmstFirma></Documento><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#D033F325270"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>3m0ynukOWPvmQeVYN1A947/XA5A=</DigestValue></Reference></SignedInfo><SignatureValue>gRlu/o2lVbnKxsPhFb2Q/h3qLT8pDmImzZBPlN0JPECIRH07W1YfNk6Zdwwn+uR80eK7zsdqCq5p4uwGqRFHMNjJh0PAhfWjkmJieui+nK3V6WG+b5vhzTuQfX4ZE99FGvUlITfYI8D/7V8NQcmdKel9iH6TyvfC8lwRBJvlWrw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uKbhkCHs/ljIGPDSxc9o4ovauQYQ4DFpyTg2d/F2HUNx9Dy1SS4aq+pdWiqRxrA0OjMBwUOV5GEJRYc7EnUTHa41lBlRRrLvfp+IoXK37kX5oorZpgfsotzrggCM1IfjaWF6nc9KCwHFcovH8dEL9hn9RskBlqtI5QfFReltqts=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIGMjCCBRqgAwIBAgIKFGmEwAAAABFz9zANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0yMDA2MTEyMDQ0NDRaFw0yMzA2MTEyMDQ0NDRa
+MIGzMQswCQYDVQQGEwJDTDEcMBoGA1UECAwTUkVHScOTTiBERSBMT1MgUklPUzERMA8GA1UEBxMI
+VmFsZGl2aWExIjAgBgNVBAoTGU5PUkJFUlRPICBERU9DQVJFUyAgVUxMT0ExCjAIBgNVBAsMASox
+IDAeBgNVBAMTF05PUkJFUlRPIERFT0NBUkVTIFVMTE9BMSEwHwYJKoZIhvcNAQkBFhJpbmZvcm1h
+dGljYUBuZHUuY2wwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALim4ZAh7P5YyBjw0sXPaOKL
+2rkGEOAxack4Nnfxdh1DcfQ8tUkuGqvqXVoqkcawNDozAcFDleRhCUWHOxJ1Ex2uNZQZUUay736f
+iKFyt+5F+aKK2aYH7KLc64IAjNSH42lhep3PSgsBxXKLx/HRC/YZ/UbJAZarSOUHxUXpbarbAgMB
+AAGjggKpMIICpTCCAU8GA1UdIASCAUYwggFCMIIBPgYIKwYBBAHDUgUwggEwMC0GCCsGAQUFBwIB
+FiFodHRwOi8vd3d3LmUtY2VydGNoaWxlLmNsL0NQUy5odG0wgf4GCCsGAQUFBwICMIHxHoHuAEUA
+bAAgAHIAZQBzAHAAbwBuAGQAZQByACAAZQBzAHQAZQAgAGYAbwByAG0AdQBsAGEAcgBpAG8AIABl
+AHMAIAB1AG4AIAByAGUAcQB1AGkAcwBpAHQAbwAgAGkAbgBkAGkAcwBwAGUAbgBzAGEAYgBsAGUA
+IABwAGEAcgBhACAAZABhAHIAIABpAG4AaQBjAGkAbwAgAGEAbAAgAHAAcgBvAGMAZQBzAG8AIABk
+AGUAIABjAGUAcgB0AGkAZgBpAGMAYQBjAGkA8wBuAC4AIABQAG8AcwB0AGUAcgBpAG8AcgBtAGUA
+bgB0AGUALDAdBgNVHQ4EFgQU2SWJBeKhuIOdSsvKOM5YPTTjBnowCwYDVR0PBAQDAgTwMCMGA1Ud
+EQQcMBqgGAYIKwYBBAHBAQGgDBYKMDU0MTE5MzctMjAfBgNVHSMEGDAWgBR44T6f0hKzejyNzTAO
+U7NDKQezVTA+BgNVHR8ENzA1MDOgMaAvhi1odHRwOi8vY3JsLmUtY2VydGNoaWxlLmNsL2VjZXJ0
+Y2hpbGVjYUZFUy5jcmwwOgYIKwYBBQUHAQEELjAsMCoGCCsGAQUFBzABhh5odHRwOi8vb2NzcC5l
+Y2VydGNoaWxlLmNsL29jc3AwPQYJKwYBBAGCNxUHBDAwLgYmKwYBBAGCNxUIgtyDL4WTjGaF1Z0X
+guLcJ4Hv7DxhgcueFIaoglgCAWQCAQQwIwYDVR0SBBwwGqAYBggrBgEEAcEBAqAMFgo5NjkyODE4
+MC01MA0GCSqGSIb3DQEBBQUAA4IBAQAbg7xfnFkVxsRVA+45UZcb+5Znl1qPq4xyrw1euRZ/nj2y
+Dmw9yE95e5shSSYOX6xvLVbw1n5KhevdYA4HeD/DKIynHcWPb9g/1F5YMsEhHT5UAdE3K+P9DxqB
+MqHvE+c4rd+OD1LFAo/BZhHtqDlifvmNNmsnggNpXNdGOz0lkilOKyf1wlNs9hxY6uWyLoa+Opk2
+7q5kGD9cGBJaXKSQXrLt4zsTYRo837oT9PmMzV5D/UPfO4T/24k4zwj3y+yEndxuZFuam/Q4BveO
+vI06OtI7oAWeGe9tguTfSI1nw97YJDNexrEMZEXVuInj9wSdKl2K9KB5nNzjrxaDY1+x</X509Certificate></X509Data></KeyInfo></Signature></DTE>
+<DTE version="1.0" >
+<Documento ID="E000000003T034F0005178015">
+<Encabezado>
+<IdDoc>
+<TipoDTE>34</TipoDTE>
+<Folio>5178015</Folio>
+<FchEmis>2022-09-05</FchEmis>
+<FmaPago>2</FmaPago>
+<FchVenc>2022-09-20</FchVenc>
+</IdDoc>
+<Emisor>
+<RUTEmisor>96875230-8</RUTEmisor>
+<RznSoc>RUTA DEL MAIPO SOCIEDAD CONCESIONARIA, S.A.</RznSoc>
+<GiroEmis>Construcci?n, Conservaci?n y Explotaci?n de Obra P?blica Fiscal</GiroEmis>
+<Acteco>452020</Acteco>
+<DirOrigen>Cerro El Plomo 5630</DirOrigen>
+<CmnaOrigen>LAS CONDES</CmnaOrigen>
+<CiudadOrigen>Regi?n Metropolitana</CiudadOrigen>
+<CdgVendedor>0</CdgVendedor>
+</Emisor>
+<Receptor>
+<RUTRecep>76252650-6</RUTRecep>
+<RznSocRecep>DHEMAX INGENIEROS LIMITADA  DHEMAX INGENIEROS LIMITADA</RznSocRecep>
+<GiroRecep>Sin Giro</GiroRecep>
+<DirRecep>SIETE ORIENTE 1234</DirRecep>
+<CmnaRecep>VI?A DEL MAR</CmnaRecep>
+</Receptor>
+<Totales>
+<MntExe>23613</MntExe>
+<MntTotal>23613</MntTotal>
+</Totales>
+</Encabezado>
+<Detalle>
+<NroLinDet>1</NroLinDet>
+<IndExe>1</IndExe>
+<NmbItem>Peajes Interurbanos TAG del Per?odo</NmbItem>
+<QtyItem>1</QtyItem>
+<PrcItem>23200</PrcItem>
+<MontoItem>23200</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>2</NroLinDet>
+<IndExe>1</IndExe>
+<NmbItem>Intereses Exentos</NmbItem>
+<QtyItem>1</QtyItem>
+<PrcItem>413</PrcItem>
+<MontoItem>413</MontoItem>
+</Detalle>
+<TED version="1.0"><DD><RE>96875230-8</RE><TD>34</TD><F>5178015</F><FE>2022-09-05</FE><RR>76252650-6</RR><RSR>DHEMAX INGENIEROS LIMITADA  DHEMAX INGEN</RSR><MNT>23613</MNT><IT1>Peajes Interurbanos TAG del Per?odo</IT1><CAF version="1.0"><DA><RE>96875230-8</RE><RS>RUTA DEL MAIPO SOCIEDAD CONCESIONARIA S.</RS><TD>34</TD><RNG><D>5128755</D><H>5228754</H></RNG><FA>2022-06-28</FA><RSAPK><M>zjJSsTRHiY/YH7Z9rjB1HQOFuMxzYZoUX80liAyrJXwAQP42xn6omMtVxYhh7DJYmbd5uTr/m4hUeFy7bLs0QQ==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">NhGSva9rRUJy4jk5szz3qIEulaS7ERB10YVSyVHT1qizjQHi172VZcy0YGmilK6+R2hShqnScIhWL2G9NP/uqw==</FRMA></CAF><TSTED>2022-09-06T02:29:07</TSTED></DD><FRMT algoritmo="SHA1withRSA">I3yWas6tgy6mPwrw7y+hugF1GtCk0qA3U1ySvVB7Ji71i+XvkaM2mR5175IPgmoKU3sR5j6ki7iTVz2vjMBL/g==</FRMT></TED><TmstFirma>2022-09-06T04:42:31</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#E000000003T034F0005178015">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>4//JRXZj5tmwe0mN/UR39r2w0+g=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>e0+Ie9c3CTWxmabUySK5i5hi3bYq/bRFVzsdA5IPNFlc7MYRUfpc39hTRdF+bTp+awBxQEaiM9w/mRanm37gPTNzx6cMXIYtgFOXNODoFF7jjGSI3S+o5lMNWMnyHtbfcg8FMo8C2NtpH4NES18kX9xEZfLSHYMoU6cqILGSRHw=</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+hGawTUetykdNWYwYzcfW3ekO5kUKsFwt+7Us2othJrUktlX+1UUwt1/UbzmICPBP
+8V9IU5sjCVPuAjReR/4jQ4j7iMOt11mixrK3sMzolrBg7I3pvi2fVqJU58kd/l7v
+wWWNNu0oLpWevUfI4hEZz45NU2q3SlUOjGxwUTfP/zs=
+</Modulus>
+<Exponent>
+AQAB
+</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGOzCCBSOgAwIBAgIKJStNeAAAABHzLTANBgkqhkiG9w0BAQUFADCB0jELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+LWNlcnRjaGlsZS5jbDAeFw0yMDA4MDYyMjI3MTNaFw0yMzA4MDYyMjI3MTNaMIG8
+MQswCQYDVQQGEwJDTDEiMCAGA1UECBMZTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+TzERMA8GA1UEBxMIU0FOVElBR08xGzAZBgNVBAoTEklOVEVSVklBTCBDSElMRSBT
+QTEKMAgGA1UECwwBKjEiMCAGA1UEAxMZSk9TRSBNSUdVRUwgU0FMRkFURSBST0pB
+UzEpMCcGCSqGSIb3DQEJARYaSlNBTEZBVEVASU5URVJWSUFMQ0hJTEUuQ0wwgZ8w
+DQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAIRmsE1HrcpHTVmMGM3H1t3pDuZFCrBc
+Lfu1LNqLYSa1JLZV/tVFMLdf1G85iAjwT/FfSFObIwlT7gI0Xkf+I0OI+4jDrddZ
+osayt7DM6JawYOyN6b4tn1aiVOfJHf5e78FljTbtKC6Vnr1HyOIRGc+OTVNqt0pV
+DoxscFE3z/87AgMBAAGjggKpMIICpTCCAU8GA1UdIASCAUYwggFCMIIBPgYIKwYB
+BAHDUgUwggEwMC0GCCsGAQUFBwIBFiFodHRwOi8vd3d3LmUtY2VydGNoaWxlLmNs
+L0NQUy5odG0wgf4GCCsGAQUFBwICMIHxHoHuAEUAbAAgAHIAZQBzAHAAbwBuAGQA
+ZQByACAAZQBzAHQAZQAgAGYAbwByAG0AdQBsAGEAcgBpAG8AIABlAHMAIAB1AG4A
+IAByAGUAcQB1AGkAcwBpAHQAbwAgAGkAbgBkAGkAcwBwAGUAbgBzAGEAYgBsAGUA
+IABwAGEAcgBhACAAZABhAHIAIABpAG4AaQBjAGkAbwAgAGEAbAAgAHAAcgBvAGMA
+ZQBzAG8AIABkAGUAIABjAGUAcgB0AGkAZgBpAGMAYQBjAGkA8wBuAC4AIABQAG8A
+cwB0AGUAcgBpAG8AcgBtAGUAbgB0AGUALDAdBgNVHQ4EFgQURqqD2vv8TDcO1vAU
+bZWM/kD+kaowCwYDVR0PBAQDAgTwMCMGA1UdEQQcMBqgGAYIKwYBBAHBAQGgDBYK
+MDk3ODE3MjctODAfBgNVHSMEGDAWgBR44T6f0hKzejyNzTAOU7NDKQezVTA+BgNV
+HR8ENzA1MDOgMaAvhi1odHRwOi8vY3JsLmUtY2VydGNoaWxlLmNsL2VjZXJ0Y2hp
+bGVjYUZFUy5jcmwwOgYIKwYBBQUHAQEELjAsMCoGCCsGAQUFBzABhh5odHRwOi8v
+b2NzcC5lY2VydGNoaWxlLmNsL29jc3AwPQYJKwYBBAGCNxUHBDAwLgYmKwYBBAGC
+NxUIgtyDL4WTjGaF1Z0XguLcJ4Hv7DxhgcueFIaoglgCAWQCAQQwIwYDVR0SBBww
+GqAYBggrBgEEAcEBAqAMFgo5NjkyODE4MC01MA0GCSqGSIb3DQEBBQUAA4IBAQA5
+LuF2M8+Yx0C90qdnyXqzPFYa8wRx7be8aAQ+wjCUswxNyjaSKZuvHUPV/kYdcsSo
+/cc1UkFZ4V1L+bEkt6uZReZlobaZDWAe9xt95wPt2aRALfPOqtvGnPpEevx71lXq
+GvYWFz0XNC9ACwYqZTqpa0eR9LJrYXPoY2Kw9R9xdoJQfMfePOcT+mveYihvRYdo
+dfGcyNgnIjnZGm4McL68kC6ODZmKAj83zhXNR1ECVz6/GC30G+z5Q/rMiEBBY+iJ
+S/ya9rBvY1gqgYFky+8Pn4+wcyKS0b3CRpGv1ECVxzIwwfCo2LKqUkIPYVseYNbv
+FstSJoHgK6h6dZarNsQw
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+<DTE version="1.0" >
+			<Documento ID="R76415464F103732T33">
+				<Encabezado>
+					<IdDoc>
+						<TipoDTE>33</TipoDTE>
+						<Folio>103732</Folio>
+						<FchEmis>2022-09-05</FchEmis>
+						<FmaPago>1</FmaPago>
+						<FchVenc>2022-09-05</FchVenc>
+					</IdDoc>
+					<Emisor>
+						<RUTEmisor>76415464-9</RUTEmisor>
+						<RznSoc>DONOSO Y GOMEZ LIMITADA</RznSoc>
+						<GiroEmis>ESTACION DE SERVICIOS</GiroEmis>
+						<Telefono>0</Telefono>
+						<CorreoEmisor>0</CorreoEmisor>
+						<Acteco>505000</Acteco>
+						<Sucursal>60224</Sucursal>
+						<DirOrigen>CARLOS VALDOVINOS 2765</DirOrigen>
+						<CmnaOrigen>PEDRO AGUIRRE CERDA</CmnaOrigen>
+						<CiudadOrigen>0</CiudadOrigen>
+						<CdgVendedor>0-0 / 0</CdgVendedor>
+					</Emisor>
+					<RUTMandante>99520000-7</RUTMandante>
+					<Receptor>
+						<RUTRecep>76252650-6</RUTRecep>
+						<RznSocRecep>DHEMAX INGENIEROS LTDA</RznSocRecep>
+						<GiroRecep>INGENIERIA Y PROYECTOS</GiroRecep>
+						<DirRecep>7 ORIENTE 1234</DirRecep>
+						<CmnaRecep>VINA DEL MAR</CmnaRecep>
+						<CiudadRecep>0</CiudadRecep>
+					</Receptor>
+					<Transporte>
+						<Patente>SBCD63</Patente>
+						<Chofer>
+							<RUTChofer>12507363-8</RUTChofer>
+							<NombreChofer>0</NombreChofer>
+						</Chofer>
+					</Transporte>
+					<Totales>
+						<MntNeto>9676</MntNeto>
+						<TasaIVA>19</TasaIVA>
+						<IVA>1839</IVA>
+						<IVATerc>1839</IVATerc>
+						<ImptoReten>
+							<TipoImp>35</TipoImp>
+							<MontoImp>3485</MontoImp>
+						</ImptoReten>
+						<MntTotal>15000</MntTotal>
+					</Totales>
+				</Encabezado>
+				<Detalle>
+					<NroLinDet>1</NroLinDet>
+					<CdgItem>
+						<TpoCodigo>1</TpoCodigo>
+						<VlrCodigo>4</VlrCodigo>
+					</CdgItem>
+					<NmbItem>GASOLINA 93</NmbItem>
+					<DscItem>GASOLINA 93</DscItem>
+					<QtyItem>11.547</QtyItem>
+					<Subcantidad>
+						<SubQty>15000</SubQty>
+						<SubCod>SubPTotal</SubCod>
+					</Subcantidad>
+					<Subcantidad>
+						<SubQty>357.57</SubQty>
+						<SubCod>IEF</SubCod>
+					</Subcantidad>
+					<Subcantidad>
+						<SubQty>55.7869</SubQty>
+						<SubCod>IEV/FEEP</SubCod>
+					</Subcantidad>
+					<Subcantidad>
+						<SubQty>1299</SubQty>
+						<SubCod>PUnitario</SubCod>
+					</Subcantidad>
+					<UnmdItem>LTS</UnmdItem>
+					<PrcItem>837.9666</PrcItem>
+					<CodImpAdic>35</CodImpAdic>
+					<MontoItem>9676</MontoItem>
+				</Detalle>
+				<TED version="1.0">
+					<DD>
+						<RE>76415464-9</RE>
+						<TD>33</TD>
+						<F>103732</F>
+						<FE>2022-09-05</FE>
+						<RR>76252650-6</RR>
+						<RSR>DHEMAX INGENIEROS LTDA</RSR>
+						<MNT>15000</MNT>
+						<IT1>GASOLINA 93</IT1>
+						<CAF version="1.0">
+<DA>
+<RE>76415464-9</RE>
+<RS>DONOSO Y GOMEZ LIMITADA</RS>
+<TD>33</TD>
+<RNG><D>101062</D><H>107141</H></RNG>
+<FA>2022-07-12</FA>
+<RSAPK><M>trkoHtR0xL9545hPi9baNE3bMaT7hE0MAGZC+aReLe+UUqE5saF5QOkgoiE7zIkFOr8v+bIqdAeZUWsSpBwqGQ==</M><E>Aw==</E></RSAPK>
+<IDK>300</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">if2c578ZsuKr4uKTDazLtWiz6LO9sc3imzI1nuwytHl3cJXBBjeq5bd92vAJa/AyXG+ztFxT12n27kZOpnjTuw==</FRMA>
+</CAF><TSTED>2022-09-05T19:36:04</TSTED>
+					</DD>
+				<FRMT algoritmo="SHA1withRSA">mxPAvmeQbB7SUukHkeG/nbibXtGju8IMaus19s3SZRI1pBHsJzs+Dy0bcs8ZW5TJ4WE4i7mel6ekWmDtYf2w0Q==</FRMT></TED>
+				<TmstFirma>2022-09-05T19:36:04</TmstFirma>
+			</Documento>
+		<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#R76415464F103732T33"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>zaUvttgplAoGXxxH5bAeSVK6PH4=</DigestValue></Reference></SignedInfo><SignatureValue>Y5II9j70ZE5MEOpYbzMo5zd2Jshq5/l+8CXfFWhjPeMt+gOViwDWgH22v3tFOUykcTK1iho66wPmFnqrsyTk9LbPRpH2Xb1ZJaa/xvZio7uyGhHiVyVk2119NC/y6sOmRLIrLW0IH2WWWCw5PLXuBGddP+TOHMGp5TKh8OyZCsk=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>mIaj6x3aBs3BJLV2hG6Q4swjSqvQ3VaRuhTroDOVpB0+5uOtIdWqY8aRksTBfW0fVRifeVBbJDiovdR4hijqGt5gBOOK4YdCzwkhbIkW3usqA3uxc0pUwPVIC2h67uLz5l8BIAmy+wsqDYRG9O0jypxb5per/SV3Y2u+D2nCZyk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>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</X509Certificate></X509Data></KeyInfo></Signature></DTE>
+<DTE version="1.0" >
+  <!-- O Win32 Chrome 104 central VERSION: v20190409 -->
+<Documento ID="MiPE8758028-10736">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>33</TipoDTE>
+        <Folio>3661</Folio>
+        <FchEmis>2022-09-05</FchEmis>
+        <TpoTranCompra>1</TpoTranCompra>
+        <TpoTranVenta>1</TpoTranVenta>
+        <FmaPago>2</FmaPago>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>8758028-8</RUTEmisor>
+        <RznSoc>JESUS ELIAS DEL CARMEN SOTO MENDEZ</RznSoc>
+        <GiroEmis>TRANSPORTE DE CARGA POR CARRETERA</GiroEmis>
+        <CorreoEmisor>carola285@HOTMAIL.COM</CorreoEmisor>
+        <Acteco>492300</Acteco>
+        <CdgSIISucur>003322166</CdgSIISucur>
+        <DirOrigen>CUARTA PTE 384   PLAZA</DirOrigen>
+        <CmnaOrigen>CARTAGENA</CmnaOrigen>
+        <CiudadOrigen>CARTAGENA</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>76252650-6</RUTRecep>
+        <RznSocRecep>INVERSIONES DHEMAX INGENIEROS SPA</RznSocRecep>
+        <GiroRecep>EMPRESAS DE SERVICIOS DE INGENIERIA Y AC</GiroRecep>
+        <DirRecep>7 Oriente 1234</DirRecep>
+        <CmnaRecep>VINA DEL MAR</CmnaRecep>
+        <CiudadRecep>VINA DEL MAR</CiudadRecep>
+      </Receptor>
+    <Transporte>
+  </Transporte>
+      <Totales>
+        <MntNeto>150000</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>28500</IVA>
+        <MntTotal>178500</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <NmbItem>TRASLADO</NmbItem>
+      <DscItem>SAN ANTONIO/SANTIAGO
+19 CAJAS DE CARTON 
+GUIA N? 60298
+REF 072/2022</DscItem>
+      <QtyItem>1.00</QtyItem>
+      <PrcItem>150000.00</PrcItem>
+      <MontoItem>150000</MontoItem>
+    </Detalle>
+<TED version="1.0"><DD><RE>8758028-8</RE><TD>33</TD><F>3661</F><FE>2022-09-05</FE><RR>76252650-6</RR><RSR>INVERSIONES DHEMAX INGENIEROS SPA</RSR><MNT>178500</MNT><IT1>TRASLADO</IT1><CAF version="1.0"><DA><RE>8758028-8</RE><RS>JESUS ELIAS DEL CARMEN SOTO MENDEZ</RS><TD>33</TD><RNG><D>3661</D><H>3661</H></RNG><FA>2022-09-05</FA><RSAPK><M>2k90e0WUqSBjGuqOBYe4vM97ivw1A9pcdMxEXqzkHCryigzLsNncYNtFRUI+wMWstmOOA+u0uK2wt/843Ck2xw==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">LNc8hY12eBTVzopAlvv+KHzTVxVRr+lB2QCOhnxhzF/EH3rbMILOfDU+4ePNh6dIvrs2RqcszdaipzR6pkFQOA==</FRMA></CAF><TSTED>2022-09-05T18:13:08</TSTED></DD><FRMT algoritmo="SHA1withRSA">JMNWoD73hjWIbMdYTIrHnAs5XNyAqSowd+c6o6Bcuu4+Kx+NkMjrTv/rW1Jci4xdIqTtZaaHmuLYinu5nsziBg==</FRMT></TED>
+    <TmstFirma>2022-09-05T18:13:08</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#MiPE8758028-10736">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>W5/oDCmGFcWByigNkb+K3aOVdQs=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+hcfhZwxFoYJSxc6ii8hyPOXAe4GBNgwqP0wkr5Psxkzkkuj61d3D0a0lDbZc2hQOuWilys37FY/S
+JqwwRxwZWoV7Mbbs7KOuxezA0V5foLzAHhNuLXbKtb1T/I5Bzs5pDx7jJIA+T/2PxN7xkvV+MytM
+TfMVGALi2Gi18F2zExI=
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+1wDZDBkByFFpv8Se8deLCq2gwRAUhEPVbgNHI+gYHJiS7CeH8qT7PAh65710++rWN4G3iRHwZFjf
+w98aVJXGNFpEQZWOOrfdasPFX//4zI/bita8j3+9g7S/XEvMTqRI+MmPnSA7IhENE6/Jz1Wnk89w
+woVvNc/jAkIVQ/MTDws=
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGLTCCBRWgAwIBAgIKIvipyAAAABb7/jANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0yMTExMDQyMDQyMTBaFw0yMjExMDQyMDQyMTBa
+MIGuMQswCQYDVQQGEwJDTDETMBEGA1UECBMKVkFMUEFSQUlTTzEUMBIGA1UEBxMLU0FOIEFOVE9O
+SU8xIDAeBgNVBAoTF0pFU1VTIEVMSUFTIFNPVE8gTUVOREVaMQowCAYDVQQLDAEqMSAwHgYDVQQD
+ExdKRVNVUyBFTElBUyBTT1RPIE1FTkRFWjEkMCIGCSqGSIb3DQEJARYVQ0FST0xBMjg1QEhPVE1B
+SUwuQ09NMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDXANkMGQHIUWm/xJ7x14sKraDBEBSE
+Q9VuA0cj6BgcmJLsJ4fypPs8CHrnvXT76tY3gbeJEfBkWN/D3xpUlcY0WkRBlY46t91qw8Vf//jM
+j9uK1ryPf72DtL9cS8xOpEj4yY+dIDsiEQ0Tr8nPVaeTz3DChW81z+MCQhVD8xMPCwIDAQABo4IC
+qTCCAqUwggFPBgNVHSAEggFGMIIBQjCCAT4GCCsGAQQBw1IFMIIBMDAtBggrBgEFBQcCARYhaHR0
+cDovL3d3dy5lLWNlcnRjaGlsZS5jbC9DUFMuaHRtMIH+BggrBgEFBQcCAjCB8R6B7gBFAGwAIABy
+AGUAcwBwAG8AbgBkAGUAcgAgAGUAcwB0AGUAIABmAG8AcgBtAHUAbABhAHIAaQBvACAAZQBzACAA
+dQBuACAAcgBlAHEAdQBpAHMAaQB0AG8AIABpAG4AZABpAHMAcABlAG4AcwBhAGIAbABlACAAcABh
+AHIAYQAgAGQAYQByACAAaQBuAGkAYwBpAG8AIABhAGwAIABwAHIAbwBjAGUAcwBvACAAZABlACAA
+YwBlAHIAdABpAGYAaQBjAGEAYwBpAPMAbgAuACAAUABvAHMAdABlAHIAaQBvAHIAbQBlAG4AdABl
+ACwwHQYDVR0OBBYEFA7GhMFh8UDLzmxhrf79c1lQj9FZMAsGA1UdDwQEAwIE8DAjBgNVHREEHDAa
+oBgGCCsGAQQBwQEBoAwWCjA4NzU4MDI4LTgwHwYDVR0jBBgwFoAUeOE+n9ISs3o8jc0wDlOzQykH
+s1UwPgYDVR0fBDcwNTAzoDGgL4YtaHR0cDovL2NybC5lLWNlcnRjaGlsZS5jbC9lY2VydGNoaWxl
+Y2FGRVMuY3JsMDoGCCsGAQUFBwEBBC4wLDAqBggrBgEFBQcwAYYeaHR0cDovL29jc3AuZWNlcnRj
+aGlsZS5jbC9vY3NwMD0GCSsGAQQBgjcVBwQwMC4GJisGAQQBgjcVCILcgy+Fk4xmhdWdF4Li3CeB
+7+w8YYPmtRODo70hAgFkAgEGMCMGA1UdEgQcMBqgGAYIKwYBBAHBAQKgDBYKOTY5MjgxODAtNTAN
+BgkqhkiG9w0BAQUFAAOCAQEAv3G3dtkYXs46swFPH0/lx4U/HDCzv0C3wCpunrlMHDs4PpFoKwg6
+GlsF4MmFlRbL2O4GrUWe5hfzpAu5BB0OqapNvncj8okpaHDhVKWx/SzrDqOoJ0h/WWAnKEt2oYRF
+e1+T0QDAc4GwNN3enwCqbha+E2Iisv9KDSkTEMpM84iBdxzZsasjWcO2B1y1B7gApT/Iwb5KYM+0
+pVAXjwO3kLt4SKRQeqrX0Cj/ntvoxru9cB1z+a0WU05ZjSeasJnCzTqobTOJF6x7EUufZqsFv1YJ
+nX9Zn4JX0YyMgJVhiwJkQOzeRjTcrQxmxSM72to+w3uYCnQPi/5pjcZ10uxX7A==
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+<DTE version="1.0" >
+<Documento ID="E000000005T033F0120734718">
+<Encabezado>
+<IdDoc>
+<TipoDTE>33</TipoDTE>
+<Folio>120734718</Folio>
+<FchEmis>2022-09-05</FchEmis>
+<FmaPago>1</FmaPago>
+<FchVenc>2022-09-05</FchVenc>
+</IdDoc>
+<Emisor>
+<RUTEmisor>96792430-K</RUTEmisor>
+<RznSoc>SODIMAC S.A.</RznSoc>
+<GiroEmis>DISTRIBUIDORA DE MATERIALES DE CONSTRUCCION</GiroEmis>
+<Acteco>466302</Acteco>
+<Sucursal>?uble (HS)</Sucursal>
+<CdgSIISucur>66397561</CdgSIISucur>
+<DirOrigen>AV. VICUNA MAQUENA 1700</DirOrigen>
+<CmnaOrigen>Nunoa</CmnaOrigen>
+<CiudadOrigen>Santiago</CiudadOrigen>
+<CdgVendedor>.</CdgVendedor>
+</Emisor>
+<Receptor>
+<RUTRecep>76252650-6</RUTRecep>
+<RznSocRecep>DHEMAX ING LTDA</RznSocRecep>
+<Extranjero>
+</Extranjero>
+<GiroRecep>CONSTRUCCIN DE CARRETERAS Y</GiroRecep>
+<DirRecep>7 ORIENTE 1234</DirRecep>
+<CmnaRecep>VINA DEL MAR</CmnaRecep>
+<CiudadRecep>VINA DEL MAR</CiudadRecep>
+</Receptor>
+<RUTSolicita>76252650-6</RUTSolicita>
+<Totales>
+<MntNeto>228546</MntNeto>
+<TasaIVA>19</TasaIVA>
+<IVA>43424</IVA>
+<MntTotal>271970</MntTotal>
+</Totales>
+</Encabezado>
+<Detalle>
+<NroLinDet>1</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>6663672</VlrCodigo>
+</CdgItem>
+<NmbItem>MARTILLO PERFORADOR 720W CUN07</NmbItem>
+<PrcRef>126042</PrcRef>
+<QtyItem>1</QtyItem>
+<UnmdItem>CU</UnmdItem>
+<PrcItem>126042.01</PrcItem>
+<MontoItem>126042</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>2</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>2644754</VlrCodigo>
+</CdgItem>
+<NmbItem>ESMERIL ANGULAR ALAMBRICO 700W</NmbItem>
+<PrcRef>51252</PrcRef>
+<QtyItem>1</QtyItem>
+<UnmdItem>CU</UnmdItem>
+<PrcItem>51252.1</PrcItem>
+<MontoItem>51252</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>3</NroLinDet>
+<CdgItem>
+<TpoCodigo>INT1</TpoCodigo>
+<VlrCodigo>2644754</VlrCodigo>
+</CdgItem>
+<NmbItem>ESMERIL ANGULAR ALAMBRICO 700W</NmbItem>
+<PrcRef>51252</PrcRef>
+<QtyItem>1</QtyItem>
+<UnmdItem>CU</UnmdItem>
+<PrcItem>51252.1</PrcItem>
+<MontoItem>51252</MontoItem>
+</Detalle>
+<TED version="1.0"><DD><RE>96792430-K</RE><TD>33</TD><F>120734718</F><FE>2022-09-05</FE><RR>76252650-6</RR><RSR>DHEMAX ING LTDA</RSR><MNT>271970</MNT><IT1>MARTILLO PERFORADOR 720W CUN07</IT1><CAF version="1.0"><DA><RE>96792430-K</RE><RS>SODIMAC S.A.</RS><TD>33</TD><RNG><D>120562666</D><H>120762665</H></RNG><FA>2022-07-28</FA><RSAPK><M>ruehLENQYQr/cgDMT/owngmlCyJkWhzT+APWfJQbPGes+UNPl9bF5fo2tci5HpQWWMvKsn8TNC2mGO2PBYCxWQ==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">WdMgrTDDEuRuBKZGTojXN8PyMuK8CdqoPlX4SMqIXoWdnQoGx/c0fmPYhFg4jxXQhM3aSwNYMKEEshAfeIo6fw==</FRMA></CAF><TSTED>2022-09-05T12:39:35</TSTED></DD><FRMT algoritmo="SHA1withRSA">AbmALQGRUvqv+TmjMXN5Ycpuddpp93HaxnDBDG3qR8Z5/Ps7TvwLHyvKDZTP4XzKCU7XnJV5UwKcK3kFrkf9xA==</FRMT></TED><TmstFirma>2022-09-05T13:44:31</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#E000000005T033F0120734718">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>DK2pDgMdOUsmhpfwhedM/AmXSL4=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>LbrlqPYHArxg0bCfhwcdRlblmWu4dt3gSRpmkQWFBpllyEGqOVTuqpeF3EbdQBugh2Xci91asPHo+8Ly6/62QhIoRdh5SkDlDworgpkc98BZVoo8HyNNG4J6K9Ssr+uHbfS05KLNuLVlwQu4jfXp0rurmzGAFkKBpq4s2dPew6IqQIuuBeS+yvITHqttv4B0etKCVN+Y6Aasp7bdffCh40QKObk6rVRuYPQWbO2EEAxwSKeoQ+E3jf9pSAQaf7MlsE5smUFFsu4nyrtekZgezAJNEcRtnnXSw8OF27fvvyiKLwDW6GaHqwjp/wEGncU1+uyNko6K5/hV5uM2k5nSEw==</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+q93pWTde1as/ua2xGxCp0HEkvZ/a+pglArLVnALEWjmSk5dUfTyF73jArLMfmz++
+GCv4dM/p+gMbHFohWFhTbJmWR/U1Kh1NOXsTH2GoayNB10kbWtBteldvYWuhjuPz
+kVe67lvdc6/ePZNoh5qU8gogSz/KfRBgbJGGDuoN4jppF4RuJFKGKgPAXznzsGd/
+GK5jXTeUSgKJ09rkymS2tAodNiXG7kQhkrA4aMzssDa6CPSjslrA0dZG4mDbdMEn
+UcoP7Jq3iNSxyrrobuH9zPixXRglRgaEsoXYkquKXzFK1PEwEaa3M+v5Q+YFQsDA
++mlKd4+y6psNMycM4hSETQ==
+</Modulus>
+<Exponent>
+AQAB
+</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIH1TCCBb2gAwIBAgIKO9/KfgABAAIMZTANBgkqhkiG9w0BAQsFADCBvzELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMR4wHAYDVQQDExVFLUNFUlRDSElMRSBDQSBGRVMg
+MDIxJjAkBgkqhkiG9w0BCQEWF3NjbGllbnRlQGUtY2VydGNoaWxlLmNsMB4XDTIy
+MDcxMjIyMjIzNloXDTI0MDcxMTIyMjIzNlowgdExCzAJBgNVBAYTAkNMMSIwIAYD
+VQQIExlNRVRST1BPTElUQU5BIERFIFNBTlRJQUdPMREwDwYDVQQHEwhTQU5USUFH
+TzErMCkGA1UECgwiRlJBTkNJU0NBIERFTCBQSUxBUiBOVcORRVogUkVHQVVFUjEK
+MAgGA1UECwwBKjErMCkGA1UEAwwiRlJBTkNJU0NBIERFTCBQSUxBUiBOVcORRVog
+UkVHQVVFUjElMCMGCSqGSIb3DQEJARYWTUlHVVpNQU5SQEZBTEFCRUxMQS5DTDCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKvd6Vk3XtWrP7mtsRsQqdBx
+JL2f2vqYJQKy1ZwCxFo5kpOXVH08he94wKyzH5s/vhgr+HTP6foDGxxaIVhYU2yZ
+lkf1NSodTTl7Ex9hqGsjQddJG1rQbXpXb2FroY7j85FXuu5b3XOv3j2TaIealPIK
+IEs/yn0QYGyRhg7qDeI6aReEbiRShioDwF8587BnfxiuY103lEoCidPa5MpktrQK
+HTYlxu5EIZKwOGjM7LA2ugj0o7JawNHWRuJg23TBJ1HKD+yat4jUscq66G7h/cz4
+sV0YJUYGhLKF2JKril8xStTxMBGmtzPr+UPmBULAwPppSnePsuqbDTMnDOIUhE0C
+AwEAAaOCAr0wggK5MIIBXwYDVR0gBIIBVjCCAVIwggFOBggrBgEEAcNSBTCCAUAw
+PQYIKwYBBQUHAgEWMWh0dHBzOi8vd3d3LmUtY2VydGNoaWxlLmNsL3BvbGl0aWNh
+cy15LXByYWN0aWNhcy8wgf4GCCsGAQUFBwICMIHxHoHuAEUAbAAgAHIAZQBzAHAA
+bwBuAGQAZQByACAAZQBzAHQAZQAgAGYAbwByAG0AdQBsAGEAcgBpAG8AIABlAHMA
+IAB1AG4AIAByAGUAcQB1AGkAcwBpAHQAbwAgAGkAbgBkAGkAcwBwAGUAbgBzAGEA
+YgBsAGUAIABwAGEAcgBhACAAZABhAHIAIABpAG4AaQBjAGkAbwAgAGEAbAAgAHAA
+cgBvAGMAZQBzAG8AIABkAGUAIABjAGUAcgB0AGkAZgBpAGMAYQBjAGkA8wBuAC4A
+IABQAG8AcwB0AGUAcgBpAG8AcgBtAGUAbgB0AGUALDAdBgNVHQ4EFgQU98262TnC
+yzqH7YiYEhv7KDbR/aowCwYDVR0PBAQDAgTwMCMGA1UdEQQcMBqgGAYIKwYBBAHB
+AQGgDBYKMTY0NzgzNzAtNzAfBgNVHSMEGDAWgBR01iGz9FroLXy7WQZjQ+9ptDqT
+BDBABgNVHR8EOTA3MDWgM6Axhi9odHRwOi8vY3JsLmVjZXJ0Y2hpbGUuY2wvRS1D
+RVJUQ0hJTEVDQUZFUzAyLmNybDA9BggrBgEFBQcBAQQxMC8wLQYIKwYBBQUHMAGG
+IWh0dHA6Ly9vY3NwZmVzLmVjZXJ0Y2hpbGUuY2wvb2NzcDA8BgkrBgEEAYI3FQcE
+LzAtBiUrBgEEAYI3FQiB3dJNl9Q6homdBoeIzm+Dr8xgRYbvml6G549RAgFkAgEH
+MCMGA1UdEgQcMBqgGAYIKwYBBAHBAQKgDBYKOTY5MjgxODAtNTANBgkqhkiG9w0B
+AQsFAAOCAgEAfFOXBbwvjbPbQDRMHccG+yYDUTq5Ww80/KegCP87Pt9ocQSG01cT
+uMdj1tUYieIcquV+0CaMGQeQUKch1gcHqzr3UpTgIR8Uy0J2czRdAhKJQ9y15QSN
+7eewDVSGe8IbekwiS9wjdvx5zMFm9UkwmmYdljgV81mprFxWbKJQxyFluURagwXD
+lsmap/Uml+dZXYL8EeRFwlv6p02/iWcL6c0HdD7pamfyef1Cxyb+J1INajbi1OJo
+5SG2CKqp5/NSBcToY3VYK2Q0AKHRLSaMbpaYSNY2mA/EaOly9gjN31hfI3ecPNQ3
+9UFCziuKzU/BJDtdWG7MH3PYLZHl3VXUF0mn77/AvaUfaCQVq5FUvU3UL2i+vXa5
+cCGlpfFsixd4rxqEi1n8be8zHnDKCDEcjb2qMdB9er6OpBE08p68EHMzh0KmXDa5
+UHBQTscIsqMAITQ8hNTdT01opZ1Xd7B8dSILptwxR/Dq2vQgY7zkQY2DyIfIMrTQ
+MJ3vO9A1hHPMu/S5YuQhB/0zThK1TEGKkdu2yxONmYxB69EbCe0BbMDRVw7tRqY1
+QanmvpubPHqqUeea15py1WpqD2wa7BeeslJNQ3phhN7zK2P1SoIIvW5KBwXzX+po
+psuirjhv9YtRsnUL2HuREpfKfXqaOX8UNK8Fnc4tfXDY4H13KyT7J7E=
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+<DTE version="1.0" >
+			<Documento ID="R96811920F105607T33">
+				<Encabezado>
+					<IdDoc>
+						<TipoDTE>33</TipoDTE>
+						<Folio>105607</Folio>
+						<FchEmis>2022-09-05</FchEmis>
+						<FmaPago>1</FmaPago>
+						<FchVenc>2022-09-05</FchVenc>
+					</IdDoc>
+					<Emisor>
+						<RUTEmisor>96811920-6</RUTEmisor>
+						<RznSoc>ADMINISTRADORA DE COMBUSTIBLE CANTAGALLO</RznSoc>
+						<GiroEmis>VENTA AL POR MENOR DE COMBUSTIBLE PARA A</GiroEmis>
+						<Telefono>0</Telefono>
+						<CorreoEmisor>0</CorreoEmisor>
+						<Acteco>505000</Acteco>
+						<Sucursal>60053</Sucursal>
+						<DirOrigen>AVENIDA LA FLORIDA 9871</DirOrigen>
+						<CmnaOrigen>LA FLORIDA</CmnaOrigen>
+						<CiudadOrigen>0</CiudadOrigen>
+						<CdgVendedor>0-0 / 0</CdgVendedor>
+					</Emisor>
+					<RUTMandante>99520000-7</RUTMandante>
+					<Receptor>
+						<RUTRecep>76252650-6</RUTRecep>
+						<RznSocRecep>DHEMAX INGENIEROS LTDA</RznSocRecep>
+						<GiroRecep>INGENIERIA Y PROYECTOS</GiroRecep>
+						<DirRecep>7 ORIENTE 1234</DirRecep>
+						<CmnaRecep>VINA DEL MAR</CmnaRecep>
+						<CiudadRecep>0</CiudadRecep>
+					</Receptor>
+					<Transporte>
+						<Patente>LVGG73</Patente>
+						<Chofer>
+							<RUTChofer>21849696-2</RUTChofer>
+							<NombreChofer>0</NombreChofer>
+						</Chofer>
+					</Transporte>
+					<Totales>
+						<MntNeto>22226</MntNeto>
+						<TasaIVA>19</TasaIVA>
+						<IVA>4223</IVA>
+						<IVATerc>4223</IVATerc>
+						<ImptoReten>
+							<TipoImp>35</TipoImp>
+							<MontoImp>7997</MontoImp>
+						</ImptoReten>
+						<MntTotal>34446</MntTotal>
+					</Totales>
+				</Encabezado>
+				<Detalle>
+					<NroLinDet>1</NroLinDet>
+					<CdgItem>
+						<TpoCodigo>1</TpoCodigo>
+						<VlrCodigo>4</VlrCodigo>
+					</CdgItem>
+					<NmbItem>GASOLINA 93</NmbItem>
+					<DscItem>GASOLINA 93</DscItem>
+					<QtyItem>26.497</QtyItem>
+					<Subcantidad>
+						<SubQty>34446</SubQty>
+						<SubCod>SubPTotal</SubCod>
+					</Subcantidad>
+					<Subcantidad>
+						<SubQty>357.57</SubQty>
+						<SubCod>IEF</SubCod>
+					</Subcantidad>
+					<Subcantidad>
+						<SubQty>55.7869</SubQty>
+						<SubCod>IEV/FEEP</SubCod>
+					</Subcantidad>
+					<Subcantidad>
+						<SubQty>1300</SubQty>
+						<SubCod>PUnitario</SubCod>
+					</Subcantidad>
+					<UnmdItem>LTS</UnmdItem>
+					<PrcItem>838.8119</PrcItem>
+					<CodImpAdic>35</CodImpAdic>
+					<MontoItem>22226</MontoItem>
+				</Detalle>
+				<TED version="1.0">
+					<DD>
+						<RE>96811920-6</RE>
+						<TD>33</TD>
+						<F>105607</F>
+						<FE>2022-09-05</FE>
+						<RR>76252650-6</RR>
+						<RSR>DHEMAX INGENIEROS LTDA</RSR>
+						<MNT>34446</MNT>
+						<IT1>GASOLINA 93</IT1>
+						<CAF version="1.0">
+<DA>
+<RE>96811920-6</RE>
+<RS>ADMINISTRADORA DE COMBUSTIBLE CANTAGALLO</RS>
+<TD>33</TD>
+<RNG><D>104042</D><H>106041</H></RNG>
+<FA>2022-07-13</FA>
+<RSAPK><M>2FodqhaHuq5Qpoq2bju3K19gAEOZCxmahMzH2/LtWXgpRugzevuclkgV5bNl7MWoSMzQJm7rvP8EonYJwY0fRw==</M><E>Aw==</E></RSAPK>
+<IDK>300</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">bdt2DhdnCDoyZmAT3BWi6dmWlw6fETGGqJgH/uFy94dqQFhkvY9utNMeyv71IGpvA9+xGhSNG8BLmZ6JsFE2Rw==</FRMA>
+</CAF><TSTED>2022-09-05T08:23:33</TSTED>
+					</DD>
+				<FRMT algoritmo="SHA1withRSA">SwZqEDRhhmDeWk7Eo9U0tmqhFxf9DyAj8jCVJSYFdK9B6fzjWrhxyfsWBZVpSyZ+L7T3kzo5NcrVMXrxGkUtZw==</FRMT></TED>
+				<TmstFirma>2022-09-05T08:23:33</TmstFirma>
+			</Documento>
+		<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#R96811920F105607T33"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>yEJOy3c9ARpwG/iHl9TJmFpxEmk=</DigestValue></Reference></SignedInfo><SignatureValue>SJFt8tysB0++3OHXEkc+vt8n7amjtxGWEEl6hbk/bjLgjUh4nRd3P9kX0otokZ/jwaB34XOgs+DXn8Q2+r3W9ifgwYtzD73IflogQcfykwiWCozRvIL56nX6ABdI/0f19sZAw3QzkabVArrDe2oFFNQ1noxpXWWLqGQn/sJxV0Q=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>mIaj6x3aBs3BJLV2hG6Q4swjSqvQ3VaRuhTroDOVpB0+5uOtIdWqY8aRksTBfW0fVRifeVBbJDiovdR4hijqGt5gBOOK4YdCzwkhbIkW3usqA3uxc0pUwPVIC2h67uLz5l8BIAmy+wsqDYRG9O0jypxb5per/SV3Y2u+D2nCZyk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>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</X509Certificate></X509Data></KeyInfo></Signature></DTE>
+<DTE version="1.0" >
+  <!-- O Win32 Chrome 104 central VERSION: v20190409 -->
+<Documento ID="MiPE77131131-3394">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>33</TipoDTE>
+        <Folio>45</Folio>
+        <FchEmis>2022-09-04</FchEmis>
+        <TpoTranCompra>1</TpoTranCompra>
+        <TpoTranVenta>1</TpoTranVenta>
+        <FmaPago>2</FmaPago>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>77131131-8</RUTEmisor>
+        <RznSoc>INGETEC CHILE SPA</RznSoc>
+        <GiroEmis>INGENIER?A Y MONTAJE EL?CTRICO</GiroEmis>
+        <Telefono>979062812</Telefono>
+        <CorreoEmisor>ingetecchilespa@gmail.com</CorreoEmisor>
+        <Acteco>432100</Acteco>
+        <CdgSIISucur>084149278</CdgSIISucur>
+        <DirOrigen>LUIS ALBERTO GUZMAN 2242</DirOrigen>
+        <CmnaOrigen>OSORNO</CmnaOrigen>
+        <CiudadOrigen>Osorno</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>76252650-6</RUTRecep>
+        <RznSocRecep>INVERSIONES DHEMAX INGENIEROS SPA</RznSocRecep>
+        <GiroRecep>EMPRESAS DE SERVICIOS DE INGENIERIA Y AC</GiroRecep>
+        <Contacto>Thomas Aravena</Contacto>
+        <DirRecep>7 Oriente 1234</DirRecep>
+        <CmnaRecep>VINA DEL MAR</CmnaRecep>
+        <CiudadRecep>VINA DEL MAR</CiudadRecep>
+      </Receptor>
+    <Transporte>
+  </Transporte>
+      <Totales>
+        <MntNeto>265000</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>50350</IVA>
+        <MntTotal>315350</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <NmbItem>Puesta en Marcha Wallbox</NmbItem>
+      <DscItem>Cargador de auto Electrico, Sandra Flores -Chillan (segun cotizacion numero 0048)</DscItem>
+      <QtyItem>1.00</QtyItem>
+      <UnmdItem>gl</UnmdItem>
+      <PrcItem>265000.00</PrcItem>
+      <MontoItem>265000</MontoItem>
+    </Detalle>
+<TED version="1.0"><DD><RE>77131131-8</RE><TD>33</TD><F>45</F><FE>2022-09-04</FE><RR>76252650-6</RR><RSR>INVERSIONES DHEMAX INGENIEROS SPA</RSR><MNT>315350</MNT><IT1>Puesta en Marcha Wallbox</IT1><CAF version="1.0"><DA><RE>77131131-8</RE><RS>INGETEC CHILE SPA</RS><TD>33</TD><RNG><D>45</D><H>45</H></RNG><FA>2022-09-04</FA><RSAPK><M>3AtMFKBw5zMfvfLqnP9aMj3StsZokEGNuchYKATBLFVj64AY/qw8o3ZrK6OcTn6wA/iV802+6E2rGaZs+erFFw==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">QI85PRtN1WErB4ZrtoSexr5GtTd8xJ9O7aXp4hwhntHS3f9Y6w3xXBbrhX0F/pjc4kD1Ob+6nT/ZE5zcFNossg==</FRMA></CAF><TSTED>2022-09-04T21:49:34</TSTED></DD><FRMT algoritmo="SHA1withRSA">vYZAcvlPot4ZjezQcSqixaW/nx6ftE0wkgrcMlHO1a9RiP5iGWl6Flb/fJoDMbXHY0+UTliiFpEIKrULfpyEdA==</FRMT></TED>
+    <TmstFirma>2022-09-04T21:49:34</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#MiPE77131131-3394">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>qoYI4YT3B2gG8IKTqx0OiGpwTW8=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+PRl0t0U9lNitE1axw4SnYFfF2mk4i3by9O2BAQ6ROs1KWROAf1q9JLPtlgkwIRs6leXn1tvyc3GI
+yt9cg0LqLbZVieyfprSFBjdGNlsL1ES5+FQ3TOwT+1KW8KibS9iLfI1y3Tl6gxxwNzBNwuL8dqcl
+SNm90H4cpXRcKjkOVe4=
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+ulEdhi3DqdGudUkQvaiP/rwMPrsLtzsAoVPUdJ39bqc4wZKd75UeZqqwoXrw54lXRvp8SSr/pB01
+d07FMUHc9ioezpNB7k0jK1zcI5a3ztG/PWOOyp2ZMAPhH/iJ10o+/bBwKN7Gaej+qn/WG0WSOw8m
+t+clrJswUkvTBUUiMis=
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGLDCCBRSgAwIBAgIKPxe+4wAAABelVjANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0yMTEyMzAwMDQ5MDFaFw0yMjEyMzAwMDQ5MDFa
+MIGtMQswCQYDVQQGEwJDTDESMBAGA1UECBMJTE9TIExBR09TMQ8wDQYDVQQHEwZPU09STk8xGjAY
+BgNVBAoTEUlOR0VURUMgQ0hJTEUgU1BBMQowCAYDVQQLDAEqMScwJQYDVQQDEx5WSUNUT1IgQVJN
+QU5ETyBCQVJSSUEgQUlMTEFQQU4xKDAmBgkqhkiG9w0BCQEWGUlOR0VURUNDSElMRVNQQUBHTUFJ
+TC5DT00wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALpRHYYtw6nRrnVJEL2oj/68DD67C7c7
+AKFT1HSd/W6nOMGSne+VHmaqsKF68OeJV0b6fEkq/6QdNXdOxTFB3PYqHs6TQe5NIytc3COWt87R
+vz1jjsqdmTAD4R/4iddKPv2wcCjexmno/qp/1htFkjsPJrfnJaybMFJL0wVFIjIrAgMBAAGjggKp
+MIICpTCCAU8GA1UdIASCAUYwggFCMIIBPgYIKwYBBAHDUgUwggEwMC0GCCsGAQUFBwIBFiFodHRw
+Oi8vd3d3LmUtY2VydGNoaWxlLmNsL0NQUy5odG0wgf4GCCsGAQUFBwICMIHxHoHuAEUAbAAgAHIA
+ZQBzAHAAbwBuAGQAZQByACAAZQBzAHQAZQAgAGYAbwByAG0AdQBsAGEAcgBpAG8AIABlAHMAIAB1
+AG4AIAByAGUAcQB1AGkAcwBpAHQAbwAgAGkAbgBkAGkAcwBwAGUAbgBzAGEAYgBsAGUAIABwAGEA
+cgBhACAAZABhAHIAIABpAG4AaQBjAGkAbwAgAGEAbAAgAHAAcgBvAGMAZQBzAG8AIABkAGUAIABj
+AGUAcgB0AGkAZgBpAGMAYQBjAGkA8wBuAC4AIABQAG8AcwB0AGUAcgBpAG8AcgBtAGUAbgB0AGUA
+LDAdBgNVHQ4EFgQUswm9iqNxMOlJ/GEVhWkiT1sGXRwwCwYDVR0PBAQDAgTwMCMGA1UdEQQcMBqg
+GAYIKwYBBAHBAQGgDBYKMTY0MjI0NzMtMjAfBgNVHSMEGDAWgBR44T6f0hKzejyNzTAOU7NDKQez
+VTA+BgNVHR8ENzA1MDOgMaAvhi1odHRwOi8vY3JsLmUtY2VydGNoaWxlLmNsL2VjZXJ0Y2hpbGVj
+YUZFUy5jcmwwOgYIKwYBBQUHAQEELjAsMCoGCCsGAQUFBzABhh5odHRwOi8vb2NzcC5lY2VydGNo
+aWxlLmNsL29jc3AwPQYJKwYBBAGCNxUHBDAwLgYmKwYBBAGCNxUIgtyDL4WTjGaF1Z0XguLcJ4Hv
+7Dxhg+a1E4OjvSECAWQCAQYwIwYDVR0SBBwwGqAYBggrBgEEAcEBAqAMFgo5NjkyODE4MC01MA0G
+CSqGSIb3DQEBBQUAA4IBAQA9I87ZzmfL+PMrlp0dHUh1Yv7eJWPKtdekr6r8XnmmjS1oUS2mIkFo
+66v8bOoYM/jKzFFXHPUJm4cHl7s3zEJstK5ND7JYdFJXO+OXfZyvUSuLWZdM9sOG+QIHNH6NYq31
+xT5Ikc5BnjobRXGE/dwlLIehreMZ55ZMFeJg17JXAICeQuaOMZClxvwRvqAt8YAZpNatLv6nO2q8
+hYTXtRztUtA5a6ITDL/RQ1XI+ttQIJyghCF5ZEEzl8c/d9OIEdTt/g53KHtsBEhsFV86JsarshTH
+IfAaPtN2y9Bync4T54+J6y+t3d1Qx5ZRt3ritKFw0zI5hqgf5ekjpmXZuR7g
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+</SetDTE>

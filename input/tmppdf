@@ -1,0 +1,117 @@
+  <!-- O Win32 Chrome 97 central VERSION: v20190409 -->
+<Documento ID="MiPE76818949-1889">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>33</TipoDTE>
+        <Folio>140</Folio>
+        <FchEmis>2022-01-31</FchEmis>
+        <TpoTranCompra>1</TpoTranCompra>
+        <TpoTranVenta>1</TpoTranVenta>
+        <FmaPago>2</FmaPago>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>76818949-8</RUTEmisor>
+        <RznSoc>TAVITA RINA GONZ?LEZ  VERGARA E.I.R.L.</RznSoc>
+        <GiroEmis>EMPRESA DE LIMPIEZA DE EDIFICIOS RESIDENCIALES Y NO RESIDENSIALES</GiroEmis>
+        <Telefono>0 0</Telefono>
+        <CorreoEmisor>TAVITA_7421@HOTMAIL.CL</CorreoEmisor>
+        <Acteco>410020</Acteco>
+        <CdgSIISucur>081511910</CdgSIISucur>
+        <DirOrigen>AVDA GOMEZ CARRE O 875   BELLOTO NORTE</DirOrigen>
+        <CmnaOrigen>QUILPUE</CmnaOrigen>
+        <CiudadOrigen>QUILPUE</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>76252650-6</RUTRecep>
+        <RznSocRecep>INVERSIONES DHEMAX INGENIEROS SPA</RznSocRecep>
+        <GiroRecep>EMPRESAS DE SERVICIOS DE INGENIERIA Y AC</GiroRecep>
+        <DirRecep>7 Oriente 1234</DirRecep>
+        <CmnaRecep>VINA DEL MAR</CmnaRecep>
+        <CiudadRecep>VINA DEL MAR</CiudadRecep>
+      </Receptor>
+    <Transporte>
+  </Transporte>
+      <Totales>
+        <MntNeto>183067</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>34783</IVA>
+        <MntTotal>217850</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <NmbItem>Limpieza general</NmbItem>
+      <DscItem>mantenci?n y aseo en dependencias de la empresa.</DscItem>
+      <QtyItem>1.00</QtyItem>
+      <UnmdItem>U</UnmdItem>
+      <PrcItem>183067.00</PrcItem>
+      <MontoItem>183067</MontoItem>
+    </Detalle>
+<TED version="1.0"><DD><RE>76818949-8</RE><TD>33</TD><F>140</F><FE>2022-01-31</FE><RR>76252650-6</RR><RSR>INVERSIONES DHEMAX INGENIEROS SPA</RSR><MNT>217850</MNT><IT1>Limpieza general</IT1><CAF version="1.0"><DA><RE>76818949-8</RE><RS>TAVITA RINA GONZ?LEZ  VERGARA E.I.R.L.</RS><TD>33</TD><RNG><D>140</D><H>140</H></RNG><FA>2022-01-31</FA><RSAPK><M>xi2dkJTNZDLmprzifevLwjcERnlnZL0zxasmBcllTjkMC4eNbfn82VYl1PLhWx+5rRQfgqAvlDkv2jvilez7gw==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">Xg1ErLKe7FZKtT/rNYJUNxLstULffdzW63pDtb4kuoW7/Mn5lk0eZB2euGMy1rsWWbsBJPDWwj7NBsYAfYIatw==</FRMA></CAF><TSTED>2022-01-31T08:57:01</TSTED></DD><FRMT algoritmo="SHA1withRSA">lCxX4+LDlHeYyCL2s8BRt1WoWKpnEFvtX0JmDdLz0LXr24eYO8Ycw5ABx1O+M6l0TN7pC0T94teFcUxIrVF2jQ==</FRMT></TED>
+    <TmstFirma>2022-01-31T08:57:01</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#MiPE76818949-1889">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>ojIzfPmzYljGD6JY9+tVrOiWsms=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+qNYD+sDU84WcQghpg+O0+TcEkJH15VBi3aT1PvwN2IfJ95yi32/Q1uJMwr4wotRrthLM60Pq+bDe
+LazFgYqxbmcP36k9iDkkUwul08Z4oR3XxSjpoM2wGMnmEoBX//Q64klUGuK+quaw0VB/Y7dVxQGj
+yP5GDcMQsWrzWFBQkSA=
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+7/lK/o7LyDjBwpiU7vVpNujyY7PzB2Yo6nA+soK7/xJC2p1iqrhGDReP31CmChGqn1d15kBHTl2u
+LR9c0RBrXyj+uzgPyE+mCiH2YYPXLBFK8vWBGR1FpO212AfZYF7HSJlNmd30JcRtaHyFUNo2vafN
+HVxeSxucdOC7RwBlp8E=
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGTTCCBTWgAwIBAgIKN3LJSwAAABOKIjANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0yMTAxMTQxMzQ3NDNaFw0yNDAxMTQxMzQ3NDNa
+MIHOMQswCQYDVQQGEwJDTDETMBEGA1UECBMKVkFMUEFSQUlTTzETMBEGA1UEBxMKVmFscGFyYWlz
+bzEvMC0GA1UECgwmVGF2aXRhIFJpbmEgR29uesOhbGV6IFZlcmdhcmEgRS5JLlIuTC4xHDAaBgNV
+BAsTE0VtcHJlc2EgZGUgTGltcGllemExITAfBgNVBAMMGFRhdml0YSBHb256w6FsZXogVmVyZ2Fy
+YTEjMCEGCSqGSIb3DQEJARYUc2xmbTIwMDNAaG90bWFpbC5jb20wgZ8wDQYJKoZIhvcNAQEBBQAD
+gY0AMIGJAoGBAO/5Sv6Oy8g4wcKYlO71aTbo8mOz8wdmKOpwPrKCu/8SQtqdYqq4Rg0Xj99QpgoR
+qp9XdeZAR05dri0fXNEQa18o/rs4D8hPpgoh9mGD1ywRSvL1gRkdRaTttdgH2WBex0iZTZnd9CXE
+bWh8hVDaNr2nzR1cXksbnHTgu0cAZafBAgMBAAGjggKpMIICpTCCAU8GA1UdIASCAUYwggFCMIIB
+PgYIKwYBBAHDUgUwggEwMC0GCCsGAQUFBwIBFiFodHRwOi8vd3d3LmUtY2VydGNoaWxlLmNsL0NQ
+Uy5odG0wgf4GCCsGAQUFBwICMIHxHoHuAEUAbAAgAHIAZQBzAHAAbwBuAGQAZQByACAAZQBzAHQA
+ZQAgAGYAbwByAG0AdQBsAGEAcgBpAG8AIABlAHMAIAB1AG4AIAByAGUAcQB1AGkAcwBpAHQAbwAg
+AGkAbgBkAGkAcwBwAGUAbgBzAGEAYgBsAGUAIABwAGEAcgBhACAAZABhAHIAIABpAG4AaQBjAGkA
+bwAgAGEAbAAgAHAAcgBvAGMAZQBzAG8AIABkAGUAIABjAGUAcgB0AGkAZgBpAGMAYQBjAGkA8wBu
+AC4AIABQAG8AcwB0AGUAcgBpAG8AcgBtAGUAbgB0AGUALDAdBgNVHQ4EFgQUo9tugPsAJH3BFgrg
+CbMvU6TmG9AwCwYDVR0PBAQDAgTwMCMGA1UdEQQcMBqgGAYIKwYBBAHBAQGgDBYKMTI2MjIxMDct
+SzAfBgNVHSMEGDAWgBR44T6f0hKzejyNzTAOU7NDKQezVTA+BgNVHR8ENzA1MDOgMaAvhi1odHRw
+Oi8vY3JsLmUtY2VydGNoaWxlLmNsL2VjZXJ0Y2hpbGVjYUZFUy5jcmwwOgYIKwYBBQUHAQEELjAs
+MCoGCCsGAQUFBzABhh5odHRwOi8vb2NzcC5lY2VydGNoaWxlLmNsL29jc3AwPQYJKwYBBAGCNxUH
+BDAwLgYmKwYBBAGCNxUIgtyDL4WTjGaF1Z0XguLcJ4Hv7DxhgcueFIaoglgCAWQCAQQwIwYDVR0S
+BBwwGqAYBggrBgEEAcEBAqAMFgo5NjkyODE4MC01MA0GCSqGSIb3DQEBBQUAA4IBAQAJb+m/8QeB
+x/SuzBlQE8TFuf8NI5H8T8F4NaCJlm9pEiLhere0SFILKYztOoEOBhKEoPrUqH4esZlQXOky9nO6
+acWzssFgwdc73HP1SaI3VxMIM0jUPaP4r2hDSv+8QHDD8+kfxw6lwf5raXfFaB1EHpf2lX0DEFNz
+1qfPg+Dmi7AShNtFOs7p9n6hGpd4RG69liJGTLgIPEqub1ToOQf17R/msAferlo7JFSrk0I4doO0
+VcjswBlVCXZkwfaT4t/o8mrNSiW+0rf2LftOIAmgD50AJgO2y/zMzVdDEfvPXVmbmby/qBwyo7h9
+kOcuiHzZkzMJh2VSWld71BayuJUT
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+</SetDTE>
