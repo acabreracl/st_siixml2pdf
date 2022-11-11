@@ -59,12 +59,8 @@ if uploaded_file_m is not None:
                 archivo = sii_doc_XMLtoPDF(f"{path}/{filename}")
                 with open(archivo, "rb") as file:
                     archivo_nombre = archivo.replace("./output/pdf/","")
-                    btn = st.download_button(
-                            label="Descargar PDF "+archivo_nombre,
-                            data=file,
-                            file_name=archivo_nombre,
-                            mime="application/pdf"
-                        )
+                    
+                    st.write(f"Archivo {filename} agregado a ZIP")
                     zip.write(archivo, archivo)
 
             except:
