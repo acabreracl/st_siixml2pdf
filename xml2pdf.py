@@ -72,9 +72,13 @@ if uploaded_file_m is not None:
             
             time.sleep(1)
     zip.close()
-    btn = st.download_button(
-                            label="Descargar ZIP",
-                            data=zip,
-                            file_name=uploaded_file_m.name+'.zip',
-                            mime="application/zip"
-                        )
+
+    
+    with open('./procesados/'+uploaded_file_m.name+'.zip', 'rb') as fp:
+        btn = st.download_button(
+            label="Descargar ZIP",
+            data=fp,
+            file_name=uploaded_file_m.name+'.zip',
+            mime="application/zip"
+        )
+
