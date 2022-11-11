@@ -5,7 +5,7 @@ import numpy as np
 from xml_to_pdf_functions import sii_doc_XMLtoPDF
 import os
 import time
-
+import zipfile
 
 locale.setlocale(locale.LC_ALL, 'es_CL')
 
@@ -34,6 +34,8 @@ if uploaded_file is not None:
 uploaded_file_m = st.file_uploader("ó suba un XML masivo:", type='xml')
 i = 1
 if uploaded_file_m is not None:
+    zip = zipfile.ZipFile('./procesados/'+uploaded_file_m.name+'.zip','a')
+    
     with open("./bulk/"+uploaded_file_m.name, "wb") as outfile:
         outfile.write(uploaded_file_m.getbuffer())
         f_out = None
@@ -63,7 +65,16 @@ if uploaded_file_m is not None:
                             file_name=archivo_nombre,
                             mime="application/pdf"
                         )
+                zip.write(filename, os.path.basename(filename))
+
             except:
                 st.write(f"Error convirtiendo {filename}")
             
             time.sleep(1)
+    zip.close()
+    btn = st.download_button(
+                            label="Descargar ZIP",
+                            data=zip,
+                            file_name=uploaded_file_m.name+'.zip',
+                            mime="application/zip"
+                        )
