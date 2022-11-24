@@ -47,7 +47,7 @@ if uploaded_file_m is not None:
                     f_out.close()
                 f_out = open(f'{path}/{title}.xml', 'w')
             if f_out:
-                line_clean = line.decode('utf-8').replace('<DTE version="1.0" >','<DTE xmlns="http://www.sii.cl/SiiDte" version="1.0">')
+                line_clean = line.decode('latin-1').replace('<DTE version="1.0" >','<DTE xmlns="http://www.sii.cl/SiiDte" version="1.0">')
                 line_clean_set = line_clean.replace('</SetDTE>','')
                 f_out.write(line_clean_set)
         if f_out:
