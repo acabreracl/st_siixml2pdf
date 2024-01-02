@@ -19,7 +19,17 @@ if uploaded_file is not None:
         # Copy the BytesIO stream to the output file
         outfile.write(uploaded_file.getbuffer())
         try:
-            archivo = sii_doc_XMLtoPDF(f"{path}/{uploaded_file.name}")
+            f_out = None
+            f_out = open(f'{path}/pdf_single_out.xml', 'w')
+            for line in uploaded_file:
+                line_clean = line.decode().replace('<DTE version="1.0" >','<DTE xmlns="http://www.sii.cl/SiiDte" version="1.0">')
+                line_clean_set = line_clean.replace('<SetDTE>','')
+                line_clean_set = line_clean_set.replace('</SetDTE>','')
+                f_out.write(line_clean_set)
+            if f_out:
+                f_out.close()
+
+            archivo = sii_doc_XMLtoPDF(f"{path}/pdf_single_out.xml")
             with open(archivo, "rb") as file:
                 archivo_nombre = archivo.replace("./output/pdf/","")
                 btn = st.download_button(

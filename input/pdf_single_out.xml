@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<DTE xmlns="http://www.sii.cl/SiiDte" version="1.0">
+      <Documento ID="T33F64295423">
+        <Encabezado>
+          <IdDoc>
+            <TipoDTE>33</TipoDTE>
+            <Folio>64295423</Folio>
+            <FchEmis>2020-01-01</FchEmis>
+            <IndServicio>2</IndServicio>
+            <MntBruto>1</MntBruto>
+            <PeriodoDesde>2019-12-01</PeriodoDesde>
+            <PeriodoHasta>2019-12-31</PeriodoHasta>
+            <FchVenc>2020-01-21</FchVenc>
+          </IdDoc>
+          <Emisor>
+            <RUTEmisor>76124890-1</RUTEmisor>
+            <RznSoc>Telef?nica M?viles Chile S.A.</RznSoc>
+            <GiroEmis>Comunicaciones</GiroEmis>
+            <Acteco>642090</Acteco>
+            <DirOrigen>Bosque Sur 90 (Segundo Subterraneo)</DirOrigen>
+            <CmnaOrigen>Las Condes</CmnaOrigen>
+          </Emisor>
+          <Receptor>
+            <RUTRecep>76252650-6</RUTRecep>
+            <CdgIntRecep>30467022</CdgIntRecep>
+            <RznSocRecep>Dhemax Ingenieros Ltda</RznSocRecep>
+            <GiroRecep>Actividades No Especificadas</GiroRecep>
+            <CorreoRecep>facturacionmipyme2@sii.cl</CorreoRecep>
+            <DirRecep>7 Oriente 1234</DirRecep>
+            <CmnaRecep>Vina Del Mar</CmnaRecep>
+            <CiudadRecep>Vina Del Mar</CiudadRecep>
+          </Receptor>
+          <Totales>
+            <MntNeto>844195</MntNeto>
+            <TasaIVA>19</TasaIVA>
+            <IVA>160397</IVA>
+            <MntTotal>1004592</MntTotal>
+            <SaldoAnterior>0</SaldoAnterior>
+            <VlrPagar>1004592</VlrPagar>
+          </Totales>
+        </Encabezado>
+        <Detalle>
+          <NroLinDet>1</NroLinDet>
+          <NmbItem>Servicio Telefonico Movil</NmbItem>
+          <MontoItem>1004412</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>2</NroLinDet>
+          <NmbItem>Servicios Adicionales</NmbItem>
+          <MontoItem>180</MontoItem>
+        </Detalle>
+        <TED version="1.0">
+          <DD>
+            <RE>76124890-1</RE>
+            <TD>33</TD>
+            <F>64295423</F>
+            <FE>2020-01-01</FE>
+            <RR>76252650-6</RR>
+            <RSR>Dhemax Ingenieros Ltda</RSR>
+            <MNT>1004592</MNT>
+            <IT1>Servicio Telefonico Movil</IT1>
+            <CAF version="1.0">
+              <DA>
+                <RE>76124890-1</RE>
+                <RS>TELEFONICA MOVILES CHILE S.A.</RS>
+                <TD>33</TD>
+                <RNG>
+                  <D>64268501</D>
+                  <H>64368500</H>
+                </RNG>
+                <FA>2019-10-23</FA>
+                <RSAPK>
+                  <M>yUPMvPJhbe4UpOS+EtngUSG9d5ueOkJuKw9bB0INQp53P6bgfZFUD94Bxwxu1mmEqAuB3seCtgtUD497k4nF/w==</M>
+                  <E>Aw==</E>
+                </RSAPK>
+                <IDK>300</IDK>
+              </DA>
+              <FRMA algoritmo="SHA1withRSA">Re8eDNxczzmNTTLA8mV0mv9ophyD0aIufB1sFox/SVFbSAoY6r2xsVwo1x+9gskirsvSUV/mLd8d2CjXZ4S4xg==</FRMA>
+            </CAF>
+            <TSTED>2020-01-07T02:45:25</TSTED>
+          </DD>
+          <FRMT algoritmo="SHA1withRSA">WDOWRiF4+I3CJNImA0AbpPMcbi00e33opcxg7x8C+aISwlH9JD05H5HTgODyFekUIp0biWDW3gzc
+U5gSgBdM7A==</FRMT>
+        </TED>
+        <TmstFirma>2020-01-07T02:45:25</TmstFirma>
+      </Documento>
+      <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+	<SignedInfo>
+		<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod>
+		<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod>
+		<Reference URI="#T33F64295423">
+			<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod>
+			<DigestValue>6zwfFbmYj9oODWjoIx90KrR+MmM=</DigestValue>
+		</Reference>
+	</SignedInfo>
+	<SignatureValue>O3TbgCI+WUtIc6byK2SzLe0e6tdDpqylSKzqtzb+NBfrZeg5FKPNFdc3SKgXZ/kvTV+j7kxO5UaT
+dYKy5q+3ad/B4YT/osYeF47tp5Q4Tzhnq90DaQowUrf2dziUwpkKk/WH62xA5M4v9+RnYHVPSKBZ
+qgfUbSPTHMFhpbj77ONLpkDEop+WqwAQKrBTo9C/FfDhsmT+4o6aCi0TA+3BT9p38oMcjsKn8uss
+htk9VqW/HNyv1Dm6pqswxgMHUVb0SdytsvMkI+q/UYFrK700k/YAFp4GkbUJCVbA5uA87o6ZcQAT
+tjVUJUeK2RTrPXsl0TThDAD5jykK2tH01AWcqA==</SignatureValue>
+	<KeyInfo>
+		<KeyValue>
+			<RSAKeyValue>
+				<Modulus>u1gz95ASS4VdKtIHeM2V7vqhYXR4fM8GRVdVZMi++NjQBaQP6L5uA9oIoeHdvuj1cUZQWvAVZBQU
+hdEZMlTHKYmYCKWlSJuhkDuAl/7kE+cTW3jrnXmLp9ElFDHLHNfJjQuqvPbRJDjKXx9hZfIpsq+I
+abz/DdQP0U6bHshS/wZPSAnrh3g9EnmtI33haOnShnoT34gTZOn1FOGISSFiRqhXGuA1zwCkq86n
+7SwrDaYpl8l55iDaqFz7QA6URdzmRuwGsgBp/S7cV1+jbLAmYWtiE8BaJsQt6kBI1VSd/kfhJYN5
+m4Bz2x8xSJB+7EyuZVtIrY0PE7bIFcycVge1Mw==</Modulus>
+				<Exponent>AQAB</Exponent>
+			</RSAKeyValue>
+		</KeyValue>
+		<X509Data>
+			<X509Certificate>MIIGlzCCBX+gAwIBAgICL3gwDQYJKoZIhvcNAQELBQAwgaYxCzAJBgNVBAYTAkNMMRgwFgYDVQQK
+Ew9BY2VwdGEuY29tIFMuQS4xSDBGBgNVBAMTP0FjZXB0YS5jb20gQXV0b3JpZGFkIENlcnRpZmlj
+YWRvcmEgQ2xhc2UgMyBQZXJzb25hIE5hdHVyYWwgLSBHNDEeMBwGCSqGSIb3DQEJARYPaW5mb0Bh
+Y2VwdGEuY29tMRMwEQYDVQQFEwo5NjkxOTA1MC04MB4XDTE4MDgwMzE5MTk0OVoXDTIxMDgwMzE5
+MTk0OVowgZ0xCzAJBgNVBAYTAkNMMRgwFgYDVQQMEw9QRVJTT05BIE5BVFVSQUwxLTArBgNVBAMT
+JENSSVNUSUFOIEFMQkVSVE8gQVJBTkNJQklBIEFSQU5DSUJJQTEwMC4GCSqGSIb3DQEJARYhQ1JJ
+U1RJQU4uQVJBTkNJQklBQFRFTEVGT05JQ0EuQ09NMRMwEQYDVQQFEwoxMDQzNzc5Ni0zMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu1gz95ASS4VdKtIHeM2V7vqhYXR4fM8GRVdVZMi+
++NjQBaQP6L5uA9oIoeHdvuj1cUZQWvAVZBQUhdEZMlTHKYmYCKWlSJuhkDuAl/7kE+cTW3jrnXmL
+p9ElFDHLHNfJjQuqvPbRJDjKXx9hZfIpsq+Iabz/DdQP0U6bHshS/wZPSAnrh3g9EnmtI33haOnS
+hnoT34gTZOn1FOGISSFiRqhXGuA1zwCkq86n7SwrDaYpl8l55iDaqFz7QA6URdzmRuwGsgBp/S7c
+V1+jbLAmYWtiE8BaJsQt6kBI1VSd/kfhJYN5m4Bz2x8xSJB+7EyuZVtIrY0PE7bIFcycVge1MwID
+AQABo4IC1DCCAtAwHwYDVR0jBBgwFoAUqv29xek3TfaZTVeOwXEa+evDBuMwHQYDVR0OBBYEFAww
+2GYmBP+61mlRdG4+gLk11s1CMAsGA1UdDwQEAwIE8DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYB
+BQUHAwQwEQYJYIZIAYb4QgEBBAQDAgWgMIH6BgNVHSAEgfIwge8wgewGCCsGAQQBtWsCMIHfMDEG
+CCsGAQUFBwIBFiVodHRwczovL2FjZzQuYWNlcHRhLmNvbS9DUFMtQWNlcHRhY29tMIGpBggrBgEF
+BQcCAjCBnDAWFg9BY2VwdGEuY29tIFMuQS4wAwIBAhqBgUVsIHRpdHVsYXIgaGEgc2lkbyB2YWxp
+ZGFkbyBlbiBmb3JtYSBwcmVzZW5jaWFsLCBxdWVkYW5kbyBoYWJpbGl0YWRvIGVsIENlcnRpZmlj
+YWRvIHBhcmEgdXNvIHRyaWJ1dGFyaW8sIHBhZ29zLCBjb21lcmNpbyB5IG90cm9zLjBaBgNVHRIE
+UzBRoBgGCCsGAQQBwQECoAwWCjk2OTE5MDUwLTigJAYIKwYBBQUHCAOgGDAWDAo5NjkxOTA1MC04
+BggrBgEEAcEBAoEPaW5mb0BhY2VwdGEuY29tMGwGA1UdEQRlMGOgGAYIKwYBBAHBAQGgDBYKMTA0
+Mzc3OTYtM6AkBggrBgEFBQcIA6AYMBYMCjEwNDM3Nzk2LTMGCCsGAQQBwQECgSFDUklTVElBTi5B
+UkFOQ0lCSUFAVEVMRUZPTklDQS5DT00wRwYIKwYBBQUHAQEEOzA5MDcGCCsGAQUFBzABhitodHRw
+czovL2FjZzQuYWNlcHRhLmNvbS9hY2c0L29jc3AvQ2xhc2UzLUc0MD8GA1UdHwQ4MDYwNKAyoDCG
+Lmh0dHBzOi8vYWNnNC5hY2VwdGEuY29tL2FjZzQvY3JsL0NsYXNlMy1HNC5jcmwwDQYJKoZIhvcN
+AQELBQADggEBAGIbrQu+5XhrKBZfLSNmOvhSVDlIgxQab+3K2EeCGoiNltszzb+C9q3zvGBoFHgZ
+TaT4VIKumy/HW4cawP7zAA71/vh9itXgMU8foQJOxhKb/pzyvo9aZJPldm+PhX/oahx6DEq6VSEf
+b3rUyMvhB1GyAvR8KzSkPqh+klUna9O9+ogi7Gk4Wac3AWjmVolUORCB6ANPzgKFutfFWtrr6eYe
+8WZNikUShNmh3WDQ7dke71Gul904CQzEnLSxgns/SggSksbGyQMlxsktfs8k/dXOfpPFVFMUllp+
+iFraFp8SwVL+9AIAGN1Ukct3pK/BUIZ9iszUEeBlOauE0Xi7ZXA=</X509Certificate>
+		</X509Data>
+	</KeyInfo>
+</Signature>
+    </DTE>
+
