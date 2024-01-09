@@ -13,6 +13,14 @@ st.title('SII XML a PDF')
 
 path = './input'
 
+for filename in os.listdir("./procesados"):
+        if filename.endswith('.xml'):
+            os.remove(f"./procesados/{filename}")
+
+for filename in os.listdir("./output/pdf"):
+        if filename.endswith('.pdf'):
+            os.remove(f"./output/pdf/{filename}")
+
 uploaded_file = st.file_uploader("Suba un XML invidual:", type='xml')
 if uploaded_file is not None:
     with open("./input/"+uploaded_file.name, "wb") as outfile:
@@ -42,8 +50,10 @@ if uploaded_file is not None:
             st.write(f"Error convirtiendo {uploaded_file.name}")
 
 uploaded_file_m = st.file_uploader("ó suba un XML masivo:", type='xml')
+
 i = 1
 if uploaded_file_m is not None:
+    st.session_state['masivo'] = uploaded_file_m
     zip = zipfile.ZipFile('./procesados/'+uploaded_file_m.name+'.zip','a')
     
     with open("./bulk/"+uploaded_file_m.name, "wb") as outfile:
@@ -79,12 +89,19 @@ if uploaded_file_m is not None:
             time.sleep(1)
     zip.close()
 
-    
-    with open('./procesados/'+uploaded_file_m.name+'.zip', 'rb') as fp:
+    for filename in os.listdir("./output/pdf"):
+        if filename.endswith('.pdf'):
+            os.remove(f"./output/pdf/{filename}")
+
+try:    
+    with open('./procesados/'+st.session_state['masivo'].name+'.zip', 'rb') as fp:
         btn = st.download_button(
             label="Descargar ZIP",
             data=fp,
-            file_name=uploaded_file_m.name+'.zip',
+            file_name=st.session_state['masivo'].name+'.zip',
             mime="application/zip"
         )
+except:
+    st.warning('')
+
 
