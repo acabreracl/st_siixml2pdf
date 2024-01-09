@@ -13,6 +13,10 @@ st.title('SII XML a PDF')
 
 path = './input'
 
+for filename in os.listdir("./input"):
+        if filename.startswith('xx'):
+            os.remove(f"./input/{filename}")
+
 for filename in os.listdir("./procesados"):
         if filename.endswith('.xml'):
             os.remove(f"./procesados/{filename}")
